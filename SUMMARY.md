@@ -1,0 +1,23 @@
+# Summary
+
+* [Start Here](start-here/index.md)
+  * [Cadence](start-here/cadence.md)
+  * [Assets](start-here/assets.md)
+* [Decide What to Build](decide/index.md)
+  * [01 — Idea / Problem](decide/01-idea-problem.md)
+  * [02 — Identify Critical Assumptions](decide/02-identify-critical-assumptions.md)
+  * [03 — Form Testable Hypotheses](decide/03-form-testable-hypotheses.md)
+  * [04 — Design & Run Experiments](decide/04-design-run-experiments.md)
+  * [05 — Extract Key Learnings](decide/05-extract-key-learnings.md)
+  * [06 — Synthesize Insights → Decision](decide/06-synthesize-insights-decision.md)
+* [Build the MVP](build/index.md)
+  * [05 — Setup](build/05-setup.md)
+  * [06 — AI Baseline](build/06-ai-baseline.md)
+  * [07 — UX Thin Vertical](build/07-ux-thin-vertical.md)
+  * [08 — Quality & Observability (Lite)](build/08-quality-observability-lite.md)
+* [Launch & Iterate](launch/index.md)
+  * [09 — Private Beta](launch/09-private-beta.md)
+  * [10 — Instrumentation](launch/10-instrumentation.md)
+  * [11 — Experiments](launch/11-experiments.md)
+  * [12 — Feedback Ops](launch/12-feedback-ops.md)
+
