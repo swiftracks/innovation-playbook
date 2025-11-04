@@ -1,50 +1,81 @@
 # 05 — Extract Key Learnings
 
-> **Purpose**: Analyze experiment results and extract actionable insights
-> **Outcome**: Have clear learnings that inform your go/no-go decision
+> **Purpose**: Use Swift CNS Learning Cards to analyze experiment results and extract insights
+> **Outcome**: Have clear learnings documented in Swift CNS Learning Cards that inform decisions
 > **Audience**: PM / Dev / Both
-> **Time**: 2-4 hours per experiment
-> **Prerequisites**: [04 — Design & Run Experiments](04-design-run-experiments.md)
+> **Time**: 1-2 hours per experiment
+> **Prerequisites**: [04 — Design & Run Experiments](04-design-run-experiments.md) - Experiments completed in Swift CNS
 
 ## Learning Outcomes
 
 By the end of this chapter, you will be able to:
-1. Analyze quantitative and qualitative data from experiments
-2. Identify patterns and insights in results
-3. Distinguish between validated and invalidated hypotheses
-4. Extract actionable learnings
-5. Document learnings for decision-making
+1. Use Swift CNS Learning Cards to document experiment results
+2. Analyze quantitative and qualitative data from experiments
+3. Create Learning Cards in Swift CNS
+4. Extract actionable insights from results
+5. Document learnings for decision-making in Swift CNS
 
 ## Jobs-to-Be-Done
 
-- **When**: I have completed experiments and collected data
-- **I want**: To analyze results and extract insights
+- **When**: I have completed experiments and collected data in Swift CNS
+- **I want**: To analyze results and extract insights using Learning Cards
 - **So that**: I can make informed decisions about what to build
 
 ## Inputs
 
-- Experiment results from [04 — Design & Run Experiments](04-design-run-experiments.md)
-- Data collected (quantitative and qualitative)
+- Completed experiments in Swift CNS from [04 — Design & Run Experiments](04-design-run-experiments.md)
+- Experiment results and data (quantitative and qualitative)
 - Success criteria for each hypothesis
 - Experiment notes and observations
 
 ## Activities
 
-### 1. Analyze Quantitative Data
+### 1. Access Learning Cards in Swift CNS
 
-Review quantitative metrics:
+**Navigate to Learning Cards**:
+1. Go to your project in Swift CNS
+2. Click the **"Learning Cards"** tab
+3. Or go to global **Learning Cards** page (from main nav)
 
-**Compare to Success Criteria**:
+![Learning Cards Tab](../screenshots/06-learning-cards-tab.png)
+
+**What You'll See**:
+- List of existing Learning Cards
+- Cards showing experiment results and insights
+- Status: validated, invalidated, or inconclusive
+- Tags and categories
+
+### 2. Create Learning Cards
+
+**Two Ways to Create Learning Cards**:
+
+**Option A: From Chat Conversation** (Recommended)
+1. Continue your chat conversation in Swift CNS
+2. After experiment results are available, the AI will guide you
+3. The AI can help create Learning Cards from experiment results
+
+**Option B: Manual Creation**
+1. Navigate to **Learning Cards** tab or page
+2. Click **"Create Learning Card"** button
+3. Fill out the Learning Card form
+
+![Learning Cards Page](../screenshots/10-learning-cards-page.png)
+
+### 3. Analyze Experiment Results
+
+**For Each Experiment**:
+
+**Analyze Quantitative Data**:
+- Compare results to success criteria
 - Did the metric meet the threshold?
 - Was the sample size sufficient?
 - Are there any anomalies?
 
-**Calculate Key Metrics**:
-- Conversion rates
-- Completion rates
-- Time spent
-- Usage patterns
-- Drop-off points
+**Analyze Qualitative Data**:
+- Review user feedback
+- Identify patterns in responses
+- Note surprises or concerns
+- Document observations
 
 **Example Analysis**:
 ```
@@ -52,92 +83,44 @@ Hypothesis: 30% conversion rate
 Result: 23.3% conversion rate
 Sample: 120 visitors
 Conclusion: Hypothesis invalidated (below threshold)
-```
 
-> 💡 **Tip**: Look for patterns, not just averages. Segment data if possible.
-
-### 2. Analyze Qualitative Data
-
-Review qualitative feedback:
-
-**User Feedback**:
-- What did users say?
-- What patterns emerge?
-- What surprised you?
-
-**Interview Responses**:
-- Common themes
-- Pain points mentioned
-- Positive reactions
-- Concerns or objections
-
-**Survey Responses**:
-- Open-ended responses
-- Rating patterns
-- Suggestions
-
-> 📝 **Note**: Qualitative data explains the "why" behind quantitative results.
-
-### 3. Identify Patterns
-
-Look for patterns across data:
-
-**Quantitative Patterns**:
-- Trends over time
-- Segments with different behavior
-- Drop-off points
-- Usage patterns
-
-**Qualitative Patterns**:
-- Common themes in feedback
-- Repeated concerns
-- Consistent positive reactions
-- Emerging use cases
-
-**Example Patterns**:
-- Users who signed up: "Looks useful, would try it"
-- Users who didn't sign up: "Not sure I'd use it regularly"
+Qualitative Insights:
+- Users: "Looks interesting but not sure I'd use it regularly"
 - Pattern: Interest exists but commitment is low
-
-### 4. Determine Hypothesis Status
-
-For each hypothesis, determine:
-
-**Validated**:
-- Metric met or exceeded threshold
-- Sample size sufficient
-- Data is reliable
-
-**Invalidated**:
-- Metric below threshold
-- Sample size sufficient
-- Data is reliable
-
-**Inconclusive**:
-- Sample size insufficient
-- Data is unreliable
-- Need more data
-
-**Example**:
-```
-Hypothesis 1: Validated (conversion rate: 35%, threshold: 30%)
-Hypothesis 2: Invalidated (conversion rate: 23%, threshold: 30%)
-Hypothesis 3: Inconclusive (only 20 visitors, need 100)
 ```
 
-### 5. Extract Learnings
+### 4. Document Learnings in Learning Cards
 
-Document key learnings:
+**Learning Card Structure**:
+- **Title**: Summary of the learning
+- **Summary**: Detailed description of results
+- **Status**: Validated, Invalidated, or Inconclusive
+- **Key Insights**: Main takeaways
+- **Tags**: Categorization (e.g., user-interest, value-proposition)
+- **Observations**: Number of observations/data points
+- **Insights**: Number of insights extracted
 
-**Learning Format**:
+**Example Learning Card**:
 ```
-Learning: [What you learned]
-Evidence: [Data that supports it]
-Impact: [How it affects your decision]
-Action: [What to do next]
+Title: Landing Page Interest Test - Below Target
+Summary: Landing page test showed 23.3% conversion rate, below 30% target. 
+120 visitors, 28 signups. Interest exists but commitment is low.
+Status: Invalidated
+Key Insights: Value proposition needs refinement before building
+Tags: user-interest, value-proposition, landing-page
+Observations: 120
+Insights: 3
 ```
 
-**Example**:
+### 5. Extract Key Insights
+
+**For Each Learning Card**:
+1. **Identify Patterns**: What patterns emerge from the data?
+2. **Determine Hypothesis Status**: Validated, Invalidated, or Inconclusive?
+3. **Extract Learnings**: What did you learn?
+4. **Document Implications**: How does this affect your decision?
+
+**Example Insights**:
 ```
 Learning: Users are interested but not committed
 Evidence: 23% conversion rate (below 30% threshold), qualitative feedback shows hesitation
@@ -145,137 +128,126 @@ Impact: Value proposition needs refinement before building
 Action: Refine value proposition, test again, or pivot
 ```
 
-### 6. Document Learnings
+### 6. Review Learning Cards
 
-Create a learnings summary:
+**In Swift CNS**:
+- View all Learning Cards in your project
+- Filter by status (validated, invalidated, inconclusive)
+- Filter by tags
+- Search by title or summary
 
-**Structure**:
-- Hypothesis tested
-- Result (validated/invalidated/inconclusive)
-- Key metrics
-- Qualitative insights
-- Patterns identified
-- Learnings extracted
-- Implications for decision
+**Review Process**:
+1. Review each Learning Card
+2. Verify insights are accurate
+3. Confirm implications are clear
+4. Ensure status is correct
 
 ## Apply It Now
 
-**Task**: Analyze your experiment results and extract learnings
+**Task**: Create Learning Cards for your experiment results in Swift CNS
 
-1. Analyze quantitative data against success criteria
-2. Review qualitative feedback for patterns
-3. Identify patterns across data
-4. Determine hypothesis status (validated/invalidated/inconclusive)
-5. Extract key learnings
-6. Document learnings in a summary
+1. Navigate to Learning Cards in Swift CNS
+2. Click "Create Learning Card" (or use AI guidance)
+3. Analyze experiment results (quantitative and qualitative)
+4. Document learnings in the Learning Card
+5. Extract key insights and implications
+6. Set status (validated/invalidated/inconclusive)
+7. Add tags and categorize
 
-**Artifact**: A learnings summary document with:
-- Hypothesis results
-- Data analysis
-- Patterns identified
+**Artifact**: Learning Cards in Swift CNS with:
+- Experiment results analyzed
 - Learnings extracted
-- Implications for decision
+- Insights documented
+- Status determined
+- Implications clear
 
 ## Artifacts
 
-You'll create:
-- Data analysis document
-- Patterns analysis
-- Learnings summary
-- Hypothesis status report
-- Implications document
+You'll create in Swift CNS:
+- Learning Cards with results
+- Insights extracted
+- Hypothesis status determined
+- Implications documented
 
 ## Worked Example
 
-**Situation**: Analyzing results from retrospective tool experiments
+**Situation**: Creating Learning Card for retrospective tool experiment in Swift CNS
 
-**Hypothesis 1 Analysis**:
-```
-Hypothesis: Teams will use AI-powered retrospective tool (30% conversion)
-Result: 23.3% conversion rate (120 visitors, 28 signups)
-Status: Invalidated
-Quantitative: Below threshold
-Qualitative: "Looks interesting but not sure I'd use it regularly"
-Pattern: Interest exists but commitment is low
-Learning: Value proposition needs refinement
-Impact: Need to clarify ongoing value before building
-Action: Refine value proposition, test again
-```
+**Steps in Swift CNS**:
+1. **Navigate to Learning Cards** tab in project
+2. **Click "Create Learning Card"**
+3. **Fill Out Form**:
+   - Title: "Landing Page Interest Test - Below Target"
+   - Summary: "Landing page test showed 23.3% conversion rate, below 30% target. 120 visitors, 28 signups. Interest exists but commitment is low."
+   - Status: Invalidated
+   - Key Insights: "Value proposition needs refinement before building. Users are interested but not committed."
+   - Tags: user-interest, value-proposition, landing-page
+4. **Save Learning Card**
+5. **Review in Learning Cards** tab
 
-**Hypothesis 2 Analysis**:
-```
-Hypothesis: Can build AI that generates useful insights (70% usefulness)
-Result: 75% usefulness rating (8 out of 10 teams)
-Status: Validated
-Quantitative: Above threshold
-Qualitative: "Insights were helpful", "Would use this"
-Pattern: Technical feasibility confirmed
-Learning: AI approach is viable
-Impact: Can proceed with AI-powered features
-Action: Proceed with AI development
-```
-
-**Overall Learnings**:
-- Technical approach is viable (validated)
-- User interest needs refinement (invalidated)
-- Need to clarify ongoing value proposition
-- Consider pivoting to higher-commitment use case
+**Result in Swift CNS**:
+- Learning Card created and visible
+- Status: Invalidated
+- Insights documented
+- Ready for synthesis
 
 ## Checklist
 
 Before proceeding to the next chapter, verify:
-- [ ] Quantitative data is analyzed
-- [ ] Qualitative feedback is reviewed
-- [ ] Patterns are identified
-- [ ] Hypothesis status is determined
-- [ ] Key learnings are extracted
+- [ ] Experiment results are analyzed
+- [ ] Learning Cards are created in Swift CNS
 - [ ] Learnings are documented
+- [ ] Insights are extracted
+- [ ] Hypothesis status is determined (validated/invalidated/inconclusive)
+- [ ] Implications are clear
 
 ## Self-Assessment
 
-1. **What should you compare results to?**
-   - [ ] Success criteria ✓
-   - [ ] Industry benchmarks
-   - [ ] Your intuition
+1. **Where do you create Learning Cards in Swift CNS?** (Select all)
+   - [ ] Learning Cards tab in project ✓
+   - [ ] Learning Cards page (global) ✓
+   - [ ] From chat conversation ✓
+   - [ ] Only from experiments
 
-2. **What should you look for in qualitative data?** (Select all)
+2. **What should you analyze?** (Select all)
+   - [ ] Quantitative data ✓
+   - [ ] Qualitative feedback ✓
    - [ ] Patterns ✓
-   - [ ] Themes ✓
-   - [ ] Surprises ✓
-   - [ ] Only positive feedback
+   - [ ] Only positive results
 
-3. **What determines if a hypothesis is validated?**
-   - [ ] Metric meets threshold ✓
-   - [ ] Sample size sufficient ✓
-   - [ ] Data is reliable ✓
-   - [ ] You like the result
+3. **What should you document in Learning Cards?** (Select all)
+   - [ ] Results ✓
+   - [ ] Insights ✓
+   - [ ] Status ✓
+   - [ ] Implications ✓
 
 ## Exit Criteria
 
 You're ready to proceed when:
 - [ ] Experiment results are analyzed
-- [ ] Hypothesis status is determined
-- [ ] Key learnings are extracted
+- [ ] Learning Cards are created in Swift CNS
 - [ ] Learnings are documented
-- [ ] You're ready to make a decision
+- [ ] Insights are extracted
+- [ ] You're ready to synthesize insights into a decision
 
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [04 — Design & Run Experiments](04-design-run-experiments.md) - Experiment results
+- [04 — Design & Run Experiments](04-design-run-experiments.md) - Experiment results in Swift CNS
 
 ### Next Steps
 - Proceed to [06 — Synthesize Insights → Decision](06-synthesize-insights-decision.md) to make a go/no-go decision
+- Use Swift CNS Insights to view aggregated learnings
 
 ### What This Enables
 
-Extracting learnings enables:
-- Data-driven decisions
-- Clear understanding of what works
-- Identification of what needs refinement
-- Informed go/no-go decisions
+Learning Cards in Swift CNS enable:
+- Documented learnings
+- Clear hypothesis status
+- Actionable insights
+- Informed decisions
 
 ---
 
-> 💡 **Tip**: Look for patterns, not just averages. Patterns reveal insights.
+> 💡 **Tip**: Create Learning Cards as soon as you have results. Don't wait for perfect analysis.
 > 📝 **Note**: Invalidated hypotheses are valuable. They tell you what not to build.

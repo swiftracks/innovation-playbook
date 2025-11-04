@@ -1,230 +1,224 @@
 # 01 — Idea / Problem
 
-> **Purpose**: Articulate a clear problem statement and value proposition
-> **Outcome**: Have a well-defined problem that users care about and a compelling value proposition
+> **Purpose**: Use Swift CNS to articulate your problem and start the validation process
+> **Outcome**: Have a well-defined problem documented in Swift CNS and ready for AI-guided analysis
 > **Audience**: PM / Dev / Both
-> **Time**: 2-4 hours
-> **Prerequisites**: [Start Here](start-here/index.md), [Decide What to Build](index.md)
+> **Time**: 15-30 minutes
+> **Prerequisites**: [Start Here](start-here/index.md), [Decide What to Build](index.md), Swift CNS account at [app.swiftcns.ai](https://app.swiftcns.ai)
 
 ## Learning Outcomes
 
 By the end of this chapter, you will be able to:
-1. Write a clear, specific problem statement
-2. Identify the target users and their context
-3. Articulate a compelling value proposition
-4. Use the Jobs-to-Be-Done framework to understand user needs
-5. Validate that the problem is worth solving
+1. Navigate to Swift CNS and access your project
+2. Start a new chat in Swift CNS to analyze your idea
+3. Describe your problem clearly in the chat interface
+4. Understand how Swift CNS AI will guide you through idea analysis
+5. Begin the systematic validation process in Swift CNS
 
 ## Jobs-to-Be-Done
 
 - **When**: I have an initial idea or see a potential problem
-- **I want**: To articulate it clearly and validate it's worth solving
-- **So that**: I can focus my efforts on problems that matter
+- **I want**: To use Swift CNS to articulate and validate it systematically
+- **So that**: I can get AI-guided analysis and move through the DECIDE process efficiently
 
 ## Inputs
 
+- Swift CNS account (sign up at [app.swiftcns.ai](https://app.swiftcns.ai))
+- A project created in Swift CNS (or create a new one)
 - Initial idea or problem hypothesis
-- Access to potential users (for validation)
-- Understanding of Jobs-to-Be-Done framework
-- Basic research on the problem space
+- Basic understanding of what you want to explore
 
 ## Activities
 
-### 1. Write the Problem Statement
+### 1. Access Swift CNS
 
-Use this format:
+**Navigate to Swift CNS**:
+1. Go to [app.swiftcns.ai](https://app.swiftcns.ai)
+2. Sign in with your Google account (or existing credentials)
+3. You'll land on the Dashboard
 
-```
-Problem: [Specific problem users face]
-Target Users: [Who experiences this problem]
-Context: [When/where this problem occurs]
-Impact: [Why this problem matters]
-```
+![Dashboard](../screenshots/02-dashboard.png)
+
+> 💡 **Tip**: If you don't have a project yet, you can create one from the Dashboard or start a chat directly.
+
+### 2. Navigate to Your Project
+
+**From the Dashboard**:
+1. Click on your project card (e.g., "Health Fitness App")
+2. You'll see the project page with tabs: Chats, Experiments, Learning Cards, Insights
+
+![Project Page](../screenshots/03-project-page.png)
+
+**Project Overview**:
+- **Total Chats**: Number of AI conversations
+- **Experiments**: Number of experiments in progress
+- **Learning Cards**: Number of insights captured
+- **Status**: Active/Inactive
+
+### 3. Start a New Chat
+
+**To Begin the DECIDE Workflow**:
+1. Click the **"Start New Chat"** button on the project page
+2. You'll see the "Start a New Chat" form
+
+![Start New Chat](../screenshots/04-start-new-chat.png)
+
+**What Happens Next** (as shown in the UI):
+- **1. Idea Analysis**: AI will analyze your idea and ask clarifying questions
+- **2. Assumptions Mapping**: Generate key assumptions that need validation
+- **3. Experiment Design**: Create structured experiments to test assumptions
+- **4. Learning Cards**: Document insights and learnings from experiments
+
+> 📝 **Note**: Each step builds on the previous one. The AI guides you through the entire DECIDE process.
+
+### 4. Fill Out the Chat Form
+
+**Chat Details**:
+1. **Chat Name**: Enter a descriptive name (e.g., "E-commerce Mobile App Ideas")
+   - This helps you organize and find your chats later
+   
+2. **Describe Your Idea**: Provide a detailed description including:
+   - What problem does it solve?
+   - Who is your target audience?
+   - What makes it unique?
+   - Any initial thoughts or context
 
 **Example**:
 ```
-Problem: Teams struggle to get actionable insights from retrospectives
-Target Users: Engineering teams, product teams
-Context: During sprint retrospectives, teams spend time but don't get clear next steps
-Impact: Teams repeat the same issues, don't improve over time
+Chat Name: Retrospective Tool for Engineering Teams
+
+Describe Your Idea:
+Engineering teams struggle to get actionable insights from sprint retrospectives. 
+Teams spend 30-60 minutes in retrospectives but often don't identify clear action items. 
+This leads to repeating the same issues sprint over sprint.
+
+Target audience: Engineering teams of 5-15 people
+Unique value: AI-powered retrospective tool that automatically identifies patterns 
+and suggests concrete improvements based on team feedback.
 ```
 
-> 💡 **Tip**: Be specific. Avoid generic problems like "teams need better tools."
+> 💡 **Tip**: Be as detailed as possible. The more context you provide, the better the AI can guide you.
 
-### 2. Identify Jobs-to-Be-Done
+### 5. Start the Chat
 
-Use the JTBD framework:
+**After Filling the Form**:
+1. Review your chat name and description
+2. Click **"Start Chat"** button
+3. The AI will begin analyzing your idea and guide you through the DECIDE process
 
-**When** [context], **I want** [goal], **so that** [outcome].
-
-**Example**:
-```
-When: During our sprint retrospective
-I want: To quickly identify what went well and what didn't
-So that: We can make concrete improvements for the next sprint
-```
-
-### 3. Articulate the Value Proposition
-
-Complete this statement:
-
-```
-For [target users] who [have this problem],
-[product name] is a [category] that [key benefit].
-Unlike [alternative], we [unique differentiator].
-```
-
-**Example**:
-```
-For engineering teams who struggle to get actionable insights from retrospectives,
-RetroAI is a retrospective tool that provides AI-generated insights.
-Unlike traditional retrospectives, we automatically identify patterns and suggest concrete improvements.
-```
-
-### 4. Validate the Problem
-
-**User Interviews** (recommended):
-- Talk to 5-10 potential users
-- Ask about their current approach
-- Understand pain points deeply
-- Verify the problem is real and frequent
-
-**Questions to Ask**:
-- How do you currently handle [problem]?
-- What's frustrating about your current approach?
-- How often does this problem occur?
-- What would a solution look like to you?
-
-### 5. Assess Problem Worthiness
-
-Evaluate if the problem is worth solving:
-
-- **Frequency**: How often does this occur?
-- **Severity**: How painful is it when it happens?
-- **Urgency**: How important is solving it now?
-- **Willingness to Pay**: Would users pay for a solution?
-
-> 🎯 **Goal**: Only proceed if the problem is frequent, severe, and urgent enough.
+**What the AI Will Do**:
+- Analyze your problem statement
+- Ask clarifying questions about your idea
+- Help you refine your understanding
+- Prepare you for the next step: Assumptions Mapping
 
 ## Apply It Now
 
-**Task**: Create your problem statement and value proposition
+**Task**: Start your first chat in Swift CNS
 
-1. Write a problem statement using the format above
-2. Identify 2-3 Jobs-to-Be-Done for your target users
-3. Articulate your value proposition
-4. Conduct 3-5 user interviews to validate the problem
-5. Assess if the problem is worth solving
+1. Log in to [app.swiftcns.ai](https://app.swiftcns.ai)
+2. Navigate to your project (or create a new one)
+3. Click "Start New Chat"
+4. Enter a descriptive chat name
+5. Describe your idea in detail (problem, target users, unique value)
+6. Click "Start Chat" to begin the AI-guided analysis
 
-**Artifact**: A problem statement document with:
-- Problem statement
-- Target users
-- Jobs-to-Be-Done
-- Value proposition
-- Validation notes
+**Artifact**: A new chat started in Swift CNS with:
+- Chat name
+- Detailed idea description
+- AI analysis ready to begin
 
 ## Artifacts
 
-You'll create:
-- Problem statement document
-- Jobs-to-Be-Done statements
-- Value proposition
-- User interview notes
-- Problem worthiness assessment
+You'll create in Swift CNS:
+- A new chat conversation
+- Problem description documented
+- AI analysis of your idea
+- Foundation for the rest of the DECIDE workflow
 
 ## Worked Example
 
-**Situation**: Product idea for improving team retrospectives
+**Situation**: Starting a chat for a retrospective tool idea
 
-**Problem Statement**:
-```
-Problem: Engineering teams struggle to get actionable insights from retrospectives
-Target Users: Engineering teams of 5-15 people
-Context: During sprint retrospectives, teams spend 30-60 minutes but often don't identify clear action items
-Impact: Teams repeat the same issues, don't improve sprint over sprint, leading to frustration
-```
+**Steps in Swift CNS**:
+1. **Navigate to Project**: Health Fitness App (or create new project)
+2. **Click "Start New Chat"**: Opens the chat creation form
+3. **Chat Name**: "Retrospective Tool Validation"
+4. **Describe Your Idea**: 
+   ```
+   Engineering teams struggle to get actionable insights from retrospectives. 
+   Teams spend time but don't get clear next steps. 
+   I want to build an AI-powered tool that analyzes retrospective feedback 
+   and generates actionable insights automatically.
+   
+   Target users: Engineering teams of 5-15 people
+   Problem frequency: Every sprint (2x per month)
+   ```
+5. **Click "Start Chat"**: AI begins analysis
 
-**Jobs-to-Be-Done**:
-```
-When: During our sprint retrospective
-I want: To quickly identify what went well and what didn't
-So that: We can make concrete improvements for the next sprint
-
-When: I'm facilitating a retrospective
-I want: To help the team focus on actionable items
-So that: The retrospective feels valuable and not like a waste of time
-```
-
-**Value Proposition**:
-```
-For engineering teams who struggle to get actionable insights from retrospectives,
-RetroAI is a retrospective tool that provides AI-generated insights and action items.
-Unlike traditional retrospectives or basic tools, we automatically identify patterns,
-suggest concrete improvements, and track follow-through.
-```
-
-**Validation Results**:
-- 7 out of 10 teams confirmed the problem
-- Average frequency: 2x per month (every sprint)
-- Severity: Rated 7/10 on pain scale
-- Willingness to pay: 60% said yes if it saved them 30+ minutes
+**What Happens Next**:
+- AI analyzes your idea
+- Asks clarifying questions
+- Helps refine problem statement
+- Prepares for Assumptions Mapping
 
 ## Checklist
 
 Before proceeding to the next chapter, verify:
-- [ ] Problem statement is clear and specific
-- [ ] Target users are identified
-- [ ] At least 2-3 Jobs-to-Be-Done are documented
-- [ ] Value proposition is articulated
-- [ ] Problem is validated through user interviews
-- [ ] Problem worthiness assessment is completed
+- [ ] You've logged into Swift CNS
+- [ ] You've navigated to your project
+- [ ] You've started a new chat
+- [ ] You've entered a descriptive chat name
+- [ ] You've described your idea in detail
+- [ ] You've clicked "Start Chat" and the AI has begun analysis
 
 ## Self-Assessment
 
-1. **What should a problem statement include?** (Select all)
-   - [ ] Specific problem ✓
-   - [ ] Target users ✓
-   - [ ] Context ✓
-   - [ ] Impact ✓
+1. **Where do you start the DECIDE workflow in Swift CNS?**
+   - [ ] Dashboard
+   - [ ] Project page → "Start New Chat" ✓
+   - [ ] Experiments page
 
-2. **How many user interviews should you conduct?**
-   - [ ] 1-2
-   - [ ] 3-5 ✓
-   - [ ] 10-15
+2. **What should you include in your idea description?** (Select all)
+   - [ ] Problem statement ✓
+   - [ ] Target audience ✓
+   - [ ] Unique value ✓
+   - [ ] Complete solution design
 
-3. **What should you verify before proceeding?** (Select all)
-   - [ ] Problem is frequent ✓
-   - [ ] Problem is severe ✓
-   - [ ] Users are willing to pay ✓
-   - [ ] You have a solution idea
+3. **What does the AI do after you start a chat?**
+   - [ ] Immediately creates experiments
+   - [ ] Analyzes your idea and asks clarifying questions ✓
+   - [ ] Generates assumptions automatically
 
 ## Exit Criteria
 
 You're ready to proceed when:
-- [ ] Problem statement is clear and specific
-- [ ] Jobs-to-Be-Done are documented
-- [ ] Value proposition is articulated
-- [ ] Problem is validated through user research
-- [ ] You've assessed the problem is worth solving
+- [ ] You've started a chat in Swift CNS
+- [ ] You've described your idea in detail
+- [ ] The AI has begun analyzing your idea
+- [ ] You're ready for the AI to guide you through Assumptions Mapping
 
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
 - [Start Here](start-here/index.md) - Understanding the guide structure
 - [Decide What to Build](index.md) - Understanding the validation process
+- Swift CNS account created
 
 ### Next Steps
-- Proceed to [02 — Identify Critical Assumptions](02-identify-critical-assumptions.md) to find what must be true for success
+- Continue the chat conversation in Swift CNS
+- The AI will guide you through [02 — Identify Critical Assumptions](02-identify-critical-assumptions.md)
+- Follow the AI's prompts and questions
 
 ### What This Enables
 
-A clear problem statement enables:
-- Focused validation efforts
-- Clear hypothesis formation
-- Better experiment design
-- Alignment with user needs
+Starting a chat in Swift CNS enables:
+- AI-guided problem analysis
+- Systematic validation process
+- Structured workflow through DECIDE
+- All your work documented in one place
 
 ---
 
-> 📝 **Note**: Don't skip validation. Talking to users early saves time later.
-> ⚠️ **Warning**: If you can't validate the problem, reconsider whether to proceed.
+> 💡 **Tip**: Be detailed in your initial description. It helps the AI provide better guidance.
+> 📝 **Note**: You can always return to your chat and continue the conversation. The AI remembers context.

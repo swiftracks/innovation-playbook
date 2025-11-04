@@ -1,251 +1,249 @@
 # 04 — Design & Run Experiments
 
-> **Purpose**: Design and execute experiments to test your hypotheses
-> **Outcome**: Have validated or invalidated hypotheses with data
+> **Purpose**: Use Swift CNS to design and execute experiments to test your hypotheses
+> **Outcome**: Have experiments designed and running in Swift CNS to validate hypotheses
 > **Audience**: PM / Dev / Both
-> **Time**: 1-2 weeks per experiment
-> **Prerequisites**: [03 — Form Testable Hypotheses](03-form-testable-hypotheses.md)
+> **Time**: 1-2 weeks per experiment (ongoing)
+> **Prerequisites**: [03 — Form Testable Hypotheses](03-form-testable-hypotheses.md) - Hypotheses created in Swift CNS
 
 ## Learning Outcomes
 
 By the end of this chapter, you will be able to:
-1. Design experiments that test specific hypotheses
-2. Choose appropriate experiment types for different hypotheses
-3. Set up experiments with proper controls and metrics
+1. Use Swift CNS to design experiments that test specific hypotheses
+2. Create experiments manually or from chat conversations
+3. Track experiments and their status in Swift CNS
 4. Run experiments efficiently with minimal resources
-5. Collect reliable data for analysis
+5. Monitor experiment progress in Swift CNS
 
 ## Jobs-to-Be-Done
 
-- **When**: I have testable hypotheses ready
+- **When**: I have testable hypotheses ready in Swift CNS
 - **I want**: To design and run experiments to test them
 - **So that**: I can validate or invalidate assumptions with data
 
 ## Inputs
 
-- Testable hypotheses from [03 — Form Testable Hypotheses](03-form-testable-hypotheses.md)
+- Testable hypotheses from [03 — Form Testable Hypotheses](03-form-testable-hypotheses.md) in Swift CNS
 - Success criteria for each hypothesis
 - Access to users or test environment
 - Time and resources for experimentation
 
 ## Activities
 
-### 1. Choose Experiment Types
+### 1. Design Experiments in Swift CNS
 
-Select the right experiment type for your hypothesis:
+**Two Ways to Create Experiments**:
 
-**User Hypotheses** (about user behavior):
-- **Landing Page Test**: Measure interest with mockups
-- **Concierge Test**: Manual service that mimics product
-- **Wizard of Oz**: Fake backend, real experience
-- **Smoke Test**: Minimal version to test core assumption
+**Option A: From Chat Conversation** (Recommended)
+1. Continue your chat conversation in Swift CNS
+2. The AI will guide you through experiment design
+3. Follow the AI's prompts to create experiment plans
+4. The AI can help you create experiments directly from chat
 
-**Technical Hypotheses** (about feasibility):
-- **Prototype Test**: Build minimal version to test feasibility
-- **Technical Spike**: Proof of concept for specific technology
-- **Performance Test**: Test scalability or performance
+**Option B: Manual Creation**
+1. Navigate to your project in Swift CNS
+2. Click **"Create Experiment"** button
+3. Fill out the experiment form manually
 
-**Business Hypotheses** (about market):
-- **Pricing Test**: Test willingness to pay
-- **Market Test**: Test market size or demand
-- **Competitive Test**: Test competitive position
+![Create Experiment](../screenshots/08-create-experiment.png)
 
-> 💡 **Tip**: Start with the cheapest, fastest test that gives you reliable data.
+> 💡 **Tip**: Let the AI guide you first. It helps ensure experiments are well-designed.
 
-### 2. Design Experiment Plan
+### 2. Create Experiment in Swift CNS
 
-For each hypothesis, create an experiment plan:
+**Using the Create Experiment Form**:
+1. Click **"Create Experiment"** on your project page
+2. Fill out the experiment form:
 
-```
-Experiment: [Name]
-Hypothesis: [Full hypothesis statement]
-Type: [Experiment type]
-Method:
-  - Setup: [What you'll create]
-  - Execution: [How you'll run it]
-  - Metrics: [What you'll measure]
-  - Timeline: [How long it will take]
-Resources Needed:
-  - Time: [Hours/days]
-  - People: [Who's involved]
-  - Tools: [What tools/services]
-  - Budget: [Cost if any]
-Success Criteria:
-  - Metric: [What to measure]
-  - Threshold: [Success threshold]
-  - Sample Size: [How many needed]
-```
+**Basic Information**:
+- **Experiment Name**: Descriptive name (e.g., "Landing Page Interest Test")
+- **Theme**: Desirability, Feasibility, Viability (choose one)
+- **Hypothesis**: Paste your hypothesis statement
+- **Description**: Detailed description of how the experiment will be conducted
+- **Experiment Type**: e.g., Landing Page Test, Survey, Concierge Test
 
-### 3. Set Up Experiments
+**Success Criteria**:
+- **Primary Success Criteria**: Main measurable outcome
+- **Key Metrics**: Add metrics (name, target, purpose)
+  - Example: Conversion Rate, 30%, Measures user interest
 
-**Minimal Setup** (recommended):
-- Use no-code tools when possible
-- Create landing pages with mockups
-- Use survey tools for feedback
-- Leverage existing platforms (Google Forms, Typeform)
+**Operational Details**:
+- **Setup Complexity** (1-5): How complex is setup?
+- **Run Time** (1-5): How long does it take?
+- **Cost** (1-5): How expensive is it?
+- **Data Reliability** (1-5): How reliable is the data?
 
-**Example Setup**:
-- Landing page: Carrd, Webflow, or simple HTML
-- Analytics: Google Analytics, Mixpanel
-- Forms: Google Forms, Typeform
-- Email: Mailchimp, ConvertKit
+**Method Details**:
+- **Test Method**: e.g., Survey, Landing Page
+- **Sample Size**: e.g., 100 users
+- **Duration**: e.g., 2 weeks
 
-> 🎯 **Goal**: Set up experiments in hours or days, not weeks.
+**Resources**:
+- **Time Required**: e.g., 2 hours per day
+- **Budget**: e.g., $500
+- **Tools**: e.g., Google Forms, Typeform
+- **Team Members**: e.g., Product Manager, Designer
 
-### 4. Run Experiments
+**Risks & Mitigation**:
+- **Risk**: Describe the risk
+- **Mitigation**: How to mitigate this risk
 
-**Execution Steps**:
-1. Set up tracking and analytics
-2. Launch experiment
-3. Drive traffic (if needed)
-4. Collect data
-5. Monitor for issues
+### 3. Set Up and Run Experiments
 
-**Driving Traffic**:
-- Share with your network
-- Post on relevant communities
-- Use social media
-- Run ads (if budget allows)
-- Email potential users
+**After Creating Experiment**:
+1. Review your experiment plan in Swift CNS
+2. Set up the experiment (create landing page, survey, etc.)
+3. Launch the experiment
+4. Drive traffic (if needed)
+5. Collect data
 
-> 💡 **Tip**: Start small. Get 10-20 data points first, then scale if needed.
+**In Swift CNS**:
+- Experiments are tracked on the Experiments tab
+- You can see status: Draft, Approved, Running, Completed, Archive
+- Monitor progress and results
 
-### 5. Collect Data
+![Experiments Tab](../screenshots/05-experiments-tab.png)
 
-Track metrics systematically:
+### 4. Track Experiments in Swift CNS
 
-**Quantitative Metrics**:
+**View All Experiments**:
+1. Navigate to **Experiments** tab in your project
+2. Or go to global **Experiments** page (from main nav)
+
+**Experiment Status**:
+- **Draft**: Not yet started
+- **Approved**: Ready to run
+- **Running**: Currently in progress
+- **Completed**: Finished, results analyzed
+- **Archive**: Archived for reference
+
+![Experiments Page](../screenshots/09-experiments-page.png)
+
+### 5. Monitor Experiment Progress
+
+**In Swift CNS**:
+- View experiment details
+- Track metrics and results
+- Update status as you progress
+- Document observations
+
+**Key Metrics to Track**:
 - Conversion rates
 - Signup rates
 - Usage metrics
 - Time spent
 - Completion rates
 
-**Qualitative Metrics**:
-- User feedback
-- Interview responses
-- Survey responses
-- Support requests
-
-> 📝 **Note**: Collect both quantitative and qualitative data for richer insights.
-
 ## Apply It Now
 
-**Task**: Design and run your first experiment
+**Task**: Design and create your first experiment in Swift CNS
 
-1. Choose your top priority hypothesis
-2. Select an appropriate experiment type
-3. Create an experiment plan with method, resources, and success criteria
-4. Set up the experiment (use minimal tools)
-5. Run the experiment and collect data
-6. Document results for analysis
+1. Continue your chat conversation OR click "Create Experiment"
+2. Design your experiment (use AI guidance or manual form)
+3. Fill out all experiment details (hypothesis, success criteria, method, resources)
+4. Create the experiment in Swift CNS
+5. Set up the experiment (create landing page, survey, etc.)
+6. Launch and run the experiment
+7. Track progress in Swift CNS
 
-**Artifact**: An experiment plan and results document with:
+**Artifact**: An experiment in Swift CNS with:
 - Experiment design
-- Setup details
-- Execution notes
-- Data collected
-- Initial observations
+- Success criteria
+- Method details
+- Resources identified
+- Status: Running
 
 ## Artifacts
 
-You'll create:
+You'll create in Swift CNS:
 - Experiment plans
-- Experiment setup documentation
-- Data collection logs
-- Experiment results
-- Initial observations
+- Experiment records
+- Status tracking
+- Results documentation
 
 ## Worked Example
 
-**Situation**: Testing hypothesis about teams using AI-powered retrospective tool
+**Situation**: Creating experiment for retrospective tool in Swift CNS
 
-**Experiment Plan**:
-```
-Experiment: Landing Page Interest Test
-Hypothesis: We believe teams will use an AI-powered retrospective tool. If we create a landing page with mockups, then at least 30% of visitors will sign up for early access. We'll know this is true when we see 30%+ conversion rate after 100 visitors.
+**Steps in Swift CNS**:
+1. **Click "Create Experiment"** on project page
+2. **Fill Out Form**:
+   - Experiment Name: "Landing Page Interest Test"
+   - Theme: Desirability
+   - Hypothesis: "We believe teams will use an AI-powered retrospective tool. If we create a landing page with mockups, then at least 30% of visitors will sign up for early access. We'll know this is true when we see 30%+ conversion rate after 100 visitors."
+   - Experiment Type: Landing Page Test
+   - Test Method: Landing page with mockups
+   - Sample Size: 100 visitors
+   - Duration: 1 week
+   - Primary Success Criteria: 30% conversion rate
+   - Key Metrics: Conversion Rate, 30%, Measures user interest
+3. **Click "Create Experiment"**
+4. **Set Up Experiment**: Create landing page, add tracking
+5. **Launch**: Drive traffic, collect data
+6. **Track in Swift CNS**: Monitor results, update status
 
-Type: Landing Page Test
-Method:
-  - Setup: Create landing page with mockups, signup form
-  - Execution: Share link, drive traffic, measure signups
-  - Metrics: Conversion rate (signups/visitors)
-  - Timeline: 1 week
-Resources Needed:
-  - Time: 4 hours setup, ongoing monitoring
-  - People: 1 person (PM)
-  - Tools: Carrd (landing page), Google Analytics (tracking)
-  - Budget: $0 (using free tools)
-Success Criteria:
-  - Metric: Signup conversion rate
-  - Threshold: 30% or higher
-  - Sample Size: 100 visitors minimum
-```
-
-**Results**:
-- Visitors: 120
-- Signups: 28
-- Conversion Rate: 23.3%
-- Result: **Hypothesis invalidated** (below 30% threshold)
-
-**Observations**:
-- Interest is lower than expected
-- May need to refine value proposition
-- Some users commented: "Looks interesting but not sure I'd use it"
-- Need to dig deeper into why conversion is lower
+**Result in Swift CNS**:
+- Experiment created and visible in Experiments tab
+- Status: Running
+- Metrics tracked
+- Results documented
 
 ## Checklist
 
 Before proceeding to the next chapter, verify:
-- [ ] Experiment is designed with clear method
-- [ ] Success criteria are defined
+- [ ] Experiment is designed in Swift CNS
+- [ ] Experiment form is completed (hypothesis, success criteria, method, resources)
+- [ ] Experiment is created in Swift CNS
 - [ ] Experiment is set up and running
 - [ ] Data collection is in place
-- [ ] You have enough data points (sample size)
-- [ ] Results are documented
+- [ ] Results are being tracked in Swift CNS
 
 ## Self-Assessment
 
-1. **What experiment type is best for testing user interest?**
-   - [ ] Technical Spike
-   - [ ] Landing Page Test ✓
-   - [ ] Performance Test
+1. **How can you create experiments in Swift CNS?** (Select all)
+   - [ ] From chat conversation with AI ✓
+   - [ ] Manually using "Create Experiment" ✓
+   - [ ] Only from chat
 
-2. **What should you prioritize in experiment setup?**
-   - [ ] Perfect design
-   - [ ] Speed and simplicity ✓
-   - [ ] Complex features
+2. **What should you include in experiment design?** (Select all)
+   - [ ] Hypothesis ✓
+   - [ ] Success criteria ✓
+   - [ ] Method details ✓
+   - [ ] Resources ✓
 
-3. **What data should you collect?** (Select all)
-   - [ ] Quantitative metrics ✓
-   - [ ] Qualitative feedback ✓
-   - [ ] Both ✓
+3. **What can you track in Swift CNS?** (Select all)
+   - [ ] Experiment status ✓
+   - [ ] Metrics and results ✓
+   - [ ] Progress ✓
+   - [ ] All of the above ✓
 
 ## Exit Criteria
 
 You're ready to proceed when:
-- [ ] At least one experiment is complete
+- [ ] At least one experiment is created in Swift CNS
+- [ ] Experiment is running and collecting data
 - [ ] You have reliable data (met sample size)
-- [ ] Results are documented
 - [ ] You're ready to analyze learnings
 
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [03 — Form Testable Hypotheses](03-form-testable-hypotheses.md) - Testable hypotheses
+- [03 — Form Testable Hypotheses](03-form-testable-hypotheses.md) - Testable hypotheses in Swift CNS
 
 ### Next Steps
-- Proceed to [05 — Extract Key Learnings](05-extract-key-learnings.md) to analyze your experiment results
+- Continue running experiments and collecting data
+- Proceed to [05 — Extract Key Learnings](05-extract-key-learnings.md) to analyze results in Swift CNS
+- Use Swift CNS Learning Cards to document learnings
 
 ### What This Enables
 
-Running experiments enables:
+Running experiments in Swift CNS enables:
 - Data-driven validation
-- Risk mitigation
+- Tracked progress and results
+- Systematic learning
 - Clear go/no-go decisions
-- Learning about users and market
 
 ---
 
-> 💡 **Tip**: Start with the cheapest, fastest test. You can always run more sophisticated tests later.
-> ⚠️ **Warning**: Don't wait for perfect data. Get enough to make a decision, then move forward.
+> 💡 **Tip**: Use the AI guidance first. It helps ensure experiments are well-designed.
+> 📝 **Note**: You can create multiple experiments. Start with the highest priority hypothesis.
