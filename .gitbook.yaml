@@ -1,6 +1,23 @@
 root: ./
 
 structure:
-  readme: start-here/index.md
+  readme: README.md
   summary: SUMMARY.md
+
+variables:
+  product_name: "Product Innovation Guide"
+  version: "1.0.0"
+
+plugins:
+  - theme-default
+  - search
+  - sharing
+  - code
+  - copy-code-button
+
+pluginsConfig:
+  theme-default:
+    showLevel: true
+  code:
+    copyButtons: true
 
