@@ -25,14 +25,14 @@ Use this checklist to verify you've completed the chapter requirements.
 - [ ] Hypotheses are documented
 - [ ] Hypothesis canvases are documented
 - [ ] Prioritization is documented
-- [ ] Ready to proceed to [04 — Design & Run Experiments](04-design-run-experiments)
+- [ ] Ready to proceed to [04 — Design & Run Experiments](04-design-run-experiments.md)
 
 ## Ready to Proceed
 - [ ] All items above are complete
 - [ ] Top 3-5 hypotheses are ready for testing
-- [ ] Ready to proceed to [04 — Design & Run Experiments](04-design-run-experiments)
+- [ ] Ready to proceed to [04 — Design & Run Experiments](04-design-run-experiments.md)
 
 ---
 
-**Next Step**: Proceed to [04 — Design & Run Experiments](04-design-run-experiments) when all items are checked.
+**Next Step**: Proceed to [04 — Design & Run Experiments](04-design-run-experiments.md) when all items are checked.
 

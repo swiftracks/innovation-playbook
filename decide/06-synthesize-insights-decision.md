@@ -8,7 +8,7 @@
 
 **Time**: 1-2 hours
 
-**Prerequisites**: [05 — Extract Key Learnings](05-extract-key-learnings) - Learning Cards created in Swift CNS
+**Prerequisites**: [05 — Extract Key Learnings](05-extract-key-learnings.md) - Learning Cards created in Swift CNS
 
 ## Learning Outcomes
 
@@ -27,7 +27,7 @@ By the end of this chapter, you will be able to:
 
 ## Inputs
 
-- Learning Cards from [05 — Extract Key Learnings](05-extract-key-learnings) in Swift CNS
+- Learning Cards from [05 — Extract Key Learnings](05-extract-key-learnings.md) in Swift CNS
 - Hypothesis status for all tested hypotheses
 - Experiment results and analysis
 - Problem statement and value proposition
@@ -151,7 +151,7 @@ Surprises:
 
 **If Go**:
 - Document decision in Swift CNS
-- Proceed to [Build the MVP](build/index)
+- Proceed to [Build the MVP](build/index.md)
 - Use validated learnings to inform build
 - Address any remaining risks
 
@@ -284,7 +284,7 @@ You're ready to proceed when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [05 — Extract Key Learnings](05-extract-key-learnings) - Learning Cards created in Swift CNS
+- [05 — Extract Key Learnings](05-extract-key-learnings.md) - Learning Cards created in Swift CNS
 
 ### Next Steps
 
@@ -292,7 +292,7 @@ Based on your decision:
 
 **If Go**:
 - Document decision in Swift CNS
-- Proceed to [Build the MVP](build/index) to start building
+- Proceed to [Build the MVP](build/index.md) to start building
 
 **If No-Go**:
 - Document decision in Swift CNS
@@ -309,7 +309,7 @@ Based on your decision:
 - Document decision in Swift CNS
 - Design additional experiments
 - Test remaining assumptions
-- Return to [04 — Design & Run Experiments](04-design-run-experiments)
+- Return to [04 — Design & Run Experiments](04-design-run-experiments.md)
 
 ### What This Enables
 

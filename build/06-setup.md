@@ -8,7 +8,7 @@
 
 **Time**: 4-8 hours
 
-**Prerequisites**: [05 — Planning](05-planning) - User stories, PRD, and mockups complete
+**Prerequisites**: [05 — Planning](05-planning.md) - User stories, PRD, and mockups complete
 
 ## Learning Outcomes
 
@@ -27,7 +27,7 @@ By the end of this chapter, you will be able to:
 
 ## Inputs
 
-- User stories, PRD, and mockups from [05 — Planning](05-planning)
+- User stories, PRD, and mockups from [05 — Planning](05-planning.md)
 - GitLab or GitHub account for version control
 - Cursor IDE installed
 - Understanding of foundation tech stack
@@ -62,7 +62,7 @@ Create a `.cursorrules` file in your project root with strong rules for rapid MV
 
 **Process**:
 1. Create a `.cursorrules` file in the project root
-2. Use the [.cursorrules template](05-setup-cursorrules-template) as a starting point
+2. Use the [.cursorrules template](05-setup-cursorrules-template.md) as a starting point
 3. Customize rules based on your specific needs
 4. Include rules for:
    - Code quality standards
@@ -263,11 +263,11 @@ You're ready to proceed when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [05 — Planning](05-planning) - User stories, PRD, and mockups complete
+- [05 — Planning](05-planning.md) - User stories, PRD, and mockups complete
 
 ### Next Steps
-- Proceed to [07 — AI Baseline](07-ai-baseline) to build core AI functionality
-- OR proceed to [08 — Build Features](08-build-features) to implement UI based on mockups
+- Proceed to [07 — AI Baseline](07-ai-baseline.md) to build core AI functionality
+- OR proceed to [08 — Build Features](08-build-features.md) to implement UI based on mockups
 - These can be done in parallel after setup, following your implementation plan
 
 ### What This Enables
@@ -280,7 +280,7 @@ Completing setup enables:
 
 ### Related Resources
 
-- [.cursorrules Template](05-setup-cursorrules-template) - Template for Cursor development rules
+- [.cursorrules Template](05-setup-cursorrules-template.md) - Template for Cursor development rules
 
 ---
 

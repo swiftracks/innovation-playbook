@@ -23,14 +23,14 @@ Use this checklist to verify you've completed the chapter requirements.
 - [ ] Assumptions list is documented
 - [ ] Critical assumptions are documented
 - [ ] Prioritization is documented
-- [ ] Ready to proceed to [03 — Form Testable Hypotheses](03-form-testable-hypotheses)
+- [ ] Ready to proceed to [03 — Form Testable Hypotheses](03-form-testable-hypotheses.md)
 
 ## Ready to Proceed
 - [ ] All items above are complete
 - [ ] Top 5-10 critical assumptions are identified and prioritized
-- [ ] Ready to proceed to [03 — Form Testable Hypotheses](03-form-testable-hypotheses)
+- [ ] Ready to proceed to [03 — Form Testable Hypotheses](03-form-testable-hypotheses.md)
 
 ---
 
-**Next Step**: Proceed to [03 — Form Testable Hypotheses](03-form-testable-hypotheses) when all items are checked.
+**Next Step**: Proceed to [03 — Form Testable Hypotheses](03-form-testable-hypotheses.md) when all items are checked.
 

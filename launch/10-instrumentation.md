@@ -8,7 +8,7 @@
 
 **Time**: 1-2 days
 
-**Prerequisites**: [09 — Private Beta](09-private-beta)
+**Prerequisites**: [09 — Private Beta](09-private-beta.md)
 
 ## Learning Outcomes
 
@@ -27,7 +27,7 @@ By the end of this chapter, you will be able to:
 
 ## Inputs
 
-- Launched MVP from [09 — Private Beta](09-private-beta)
+- Launched MVP from [09 — Private Beta](09-private-beta.md)
 - Understanding of what to track
 - Access to analytics tools
 
@@ -284,11 +284,11 @@ You're ready to proceed when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [09 — Private Beta](09-private-beta) - Launched MVP
+- [09 — Private Beta](09-private-beta.md) - Launched MVP
 
 ### Next Steps
-- Proceed to [11 — Experiments](11-experiments) to start testing improvements
-- OR proceed to [12 — Feedback Ops](12-feedback-ops) to establish feedback loops
+- Proceed to [11 — Experiments](11-experiments.md) to start testing improvements
+- OR proceed to [12 — Feedback Ops](12-feedback-ops.md) to establish feedback loops
 - These can be done in parallel
 
 ### What This Enables

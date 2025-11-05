@@ -8,7 +8,7 @@
 
 **Time**: 2-4 weeks
 
-**Prerequisites**: [09 — Deploy](build/09-deploy)
+**Prerequisites**: [09 — Deploy](build/09-deploy.md)
 
 ## Learning Outcomes
 
@@ -27,7 +27,7 @@ By the end of this chapter, you will be able to:
 
 ## Inputs
 
-- Working MVP from [Build the MVP](build/index)
+- Working MVP from [Build the MVP](build/index.md)
 - Quality and observability setup
 - Access to potential beta users
 - Understanding of what to learn
@@ -218,11 +218,11 @@ You're ready to proceed when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [09 — Deploy](build/09-deploy) - Deployed MVP with quality & observability
+- [09 — Deploy](build/09-deploy.md) - Deployed MVP with quality & observability
 
 ### Next Steps
-- Proceed to [10 — Instrumentation](10-instrumentation) to set up tracking
-- OR proceed to [11 — Experiments](11-experiments) to start testing improvements
+- Proceed to [10 — Instrumentation](10-instrumentation.md) to set up tracking
+- OR proceed to [11 — Experiments](11-experiments.md) to start testing improvements
 - These can be done in parallel after launch
 
 ### What This Enables

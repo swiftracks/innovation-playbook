@@ -8,7 +8,7 @@
 
 **Time**: 1-2 hours per experiment
 
-**Prerequisites**: [04 — Design & Run Experiments](04-design-run-experiments) - Experiments completed in Swift CNS
+**Prerequisites**: [04 — Design & Run Experiments](04-design-run-experiments.md) - Experiments completed in Swift CNS
 
 ## Learning Outcomes
 
@@ -27,7 +27,7 @@ By the end of this chapter, you will be able to:
 
 ## Inputs
 
-- Completed experiments in Swift CNS from [04 — Design & Run Experiments](04-design-run-experiments)
+- Completed experiments in Swift CNS from [04 — Design & Run Experiments](04-design-run-experiments.md)
 - Experiment results and data (quantitative and qualitative)
 - Success criteria for each hypothesis
 - Experiment notes and observations
@@ -237,10 +237,10 @@ You're ready to proceed when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [04 — Design & Run Experiments](04-design-run-experiments) - Experiment results in Swift CNS
+- [04 — Design & Run Experiments](04-design-run-experiments.md) - Experiment results in Swift CNS
 
 ### Next Steps
-- Proceed to [06 — Synthesize Insights → Decision](06-synthesize-insights-decision) to make a go/no-go decision
+- Proceed to [06 — Synthesize Insights → Decision](06-synthesize-insights-decision.md) to make a go/no-go decision
 - Use Swift CNS Insights to view aggregated learnings
 
 ### What This Enables

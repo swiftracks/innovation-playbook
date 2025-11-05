@@ -8,7 +8,7 @@
 
 **Time**: 1-2 days
 
-**Prerequisites**: [Decide What to Build](decide/index) - Decision to build, key problems identified, innovation aspects defined
+**Prerequisites**: [Decide What to Build](decide/index.md) - Decision to build, key problems identified, innovation aspects defined
 
 ## Learning Outcomes
 
@@ -26,7 +26,7 @@ By the end of this chapter, you will be able to:
 
 ## Inputs
 
-- Decision to build from [06 — Synthesize Insights → Decision](decide/06-synthesize-insights-decision)
+- Decision to build from [06 — Synthesize Insights → Decision](decide/06-synthesize-insights-decision.md)
 - Key problems identified and innovation aspects defined
 - Understanding of target users and value proposition
 - Access to AI tools (ChatGPT, Claude, or Cursor)
@@ -60,12 +60,12 @@ Use AI tools to generate a comprehensive PRD based on your finalized user storie
 
 **Process**:
 1. Provide your finalized user stories and product context
-2. Request generation of a PRD using the structure in [PRD Template](05-setup-prd-template)
+2. Request generation of a PRD using the structure in [PRD Template](05-setup-prd-template.md)
 3. Review and refine the PRD with AI
 4. Ensure all sections are complete and clear
 5. Finalize the PRD document
 
-**PRD Structure** (see [template](05-setup-prd-template)):
+**PRD Structure** (see [template](05-setup-prd-template.md)):
 - Purpose & Vision
 - Scope (Release 1)
 - Key Personas
@@ -200,10 +200,10 @@ You're ready to proceed when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [Decide What to Build](decide/index) - Decision to build, key problems identified, innovation aspects defined
+- [Decide What to Build](decide/index.md) - Decision to build, key problems identified, innovation aspects defined
 
 ### Next Steps
-- Proceed to [06 — Setup](06-setup) to set up development environment and create implementation plan
+- Proceed to [06 — Setup](06-setup.md) to set up development environment and create implementation plan
 
 ### What This Enables
 
@@ -215,7 +215,7 @@ Completing planning enables:
 
 ### Related Resources
 
-- [PRD Template](05-setup-prd-template) - Template for creating your PRD
+- [PRD Template](05-setup-prd-template.md) - Template for creating your PRD
 
 ---
 

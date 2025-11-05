@@ -8,7 +8,7 @@
 
 **Time**: 1-2 days
 
-**Prerequisites**: [07 — AI Baseline](07-ai-baseline) OR [08 — Build Features](08-build-features)
+**Prerequisites**: [07 — AI Baseline](07-ai-baseline.md) OR [08 — Build Features](08-build-features.md)
 
 ## Learning Outcomes
 
@@ -27,7 +27,7 @@ By the end of this chapter, you will be able to:
 
 ## Inputs
 
-- Working MVP features from [07 — AI Baseline](07-ai-baseline) or [08 — Build Features](08-build-features)
+- Working MVP features from [07 — AI Baseline](07-ai-baseline.md) or [08 — Build Features](08-build-features.md)
 - Understanding of deployment platform
 - Access to monitoring tools
 - Production environment ready
@@ -307,10 +307,10 @@ You're ready to proceed when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [07 — AI Baseline](07-ai-baseline) OR [08 — Build Features](08-build-features) - Working MVP features
+- [07 — AI Baseline](07-ai-baseline.md) OR [08 — Build Features](08-build-features.md) - Working MVP features
 
 ### Next Steps
-- Proceed to [Launch & Iterate](launch/index) to launch MVP and gather feedback
+- Proceed to [Launch & Iterate](launch/index.md) to launch MVP and gather feedback
 
 ### What This Enables
 

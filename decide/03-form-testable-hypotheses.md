@@ -8,7 +8,7 @@
 
 **Time**: 30-60 minutes (guided by AI)
 
-**Prerequisites**: [02 — Identify Critical Assumptions](02-identify-critical-assumptions) - Assumptions identified in Swift CNS
+**Prerequisites**: [02 — Identify Critical Assumptions](02-identify-critical-assumptions.md) - Assumptions identified in Swift CNS
 
 ## Learning Outcomes
 
@@ -241,11 +241,11 @@ You're ready to proceed when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [02 — Identify Critical Assumptions](02-identify-critical-assumptions) - Critical assumptions identified in Swift CNS
+- [02 — Identify Critical Assumptions](02-identify-critical-assumptions.md) - Critical assumptions identified in Swift CNS
 
 ### Next Steps
 - Continue the chat conversation in Swift CNS
-- The AI will guide you through [04 — Design & Run Experiments](04-design-run-experiments)
+- The AI will guide you through [04 — Design & Run Experiments](04-design-run-experiments.md)
 - Follow the AI's prompts to design experiments
 
 ### What This Enables

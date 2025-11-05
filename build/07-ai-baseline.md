@@ -8,7 +8,7 @@
 
 **Time**: 1-2 weeks
 
-**Prerequisites**: [06 — Setup](06-setup)
+**Prerequisites**: [06 — Setup](06-setup.md)
 
 ## Learning Outcomes
 
@@ -27,7 +27,7 @@ By the end of this chapter, you will be able to:
 
 ## Inputs
 
-- Development environment from [06 — Setup](06-setup)
+- Development environment from [06 — Setup](06-setup.md)
 - Understanding of AI requirements from validated hypotheses
 - API keys for AI services (e.g., OpenAI)
 - Understanding of user needs and use cases
@@ -226,11 +226,11 @@ You're ready to proceed when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [06 — Setup](06-setup) - Development environment
+- [06 — Setup](06-setup.md) - Development environment
 
 ### Next Steps
-- Proceed to [08 — Build Features](08-build-features) to implement UI based on mockups
-- OR proceed to [09 — Deploy](09-deploy) to deploy with quality & observability
+- Proceed to [08 — Build Features](08-build-features.md) to implement UI based on mockups
+- OR proceed to [09 — Deploy](09-deploy.md) to deploy with quality & observability
 - These can be done in parallel
 
 ### What This Enables

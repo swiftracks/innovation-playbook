@@ -34,9 +34,9 @@ Use this checklist to verify you've completed the planning phase requirements.
 - [ ] User stories finalized
 - [ ] PRD complete and reviewed
 - [ ] All mockups created and exported
-- [ ] Ready to proceed to [06 — Setup](06-setup)
+- [ ] Ready to proceed to [06 — Setup](06-setup.md)
 
 ---
 
-**Next Step**: Proceed to [06 — Setup](06-setup) when all items are checked.
+**Next Step**: Proceed to [06 — Setup](06-setup.md) when all items are checked.
 

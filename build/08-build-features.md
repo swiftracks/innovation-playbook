@@ -8,7 +8,7 @@
 
 **Time**: 1-2 weeks
 
-**Prerequisites**: [06 — Setup](06-setup) - Implementation plan approved
+**Prerequisites**: [06 — Setup](06-setup.md) - Implementation plan approved
 
 ## Learning Outcomes
 
@@ -27,10 +27,10 @@ By the end of this chapter, you will be able to:
 
 ## Inputs
 
-- Implementation plan from [06 — Setup](06-setup)
-- Mockups from [05 — Planning](05-planning) (designed journey)
-- PRD from [05 — Planning](05-planning)
-- AI baseline from [07 — AI Baseline](07-ai-baseline) (if applicable)
+- Implementation plan from [06 — Setup](06-setup.md)
+- Mockups from [05 — Planning](05-planning.md) (designed journey)
+- PRD from [05 — Planning](05-planning.md)
+- AI baseline from [07 — AI Baseline](07-ai-baseline.md) (if applicable)
 - Development environment configured
 
 ## Activities
@@ -219,12 +219,12 @@ You're ready to proceed when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [05 — Planning](05-planning) - Mockups and designed journey
-- [06 — Setup](06-setup) - Implementation plan
-- [07 — AI Baseline](07-ai-baseline) - AI features (if applicable)
+- [05 — Planning](05-planning.md) - Mockups and designed journey
+- [06 — Setup](06-setup.md) - Implementation plan
+- [07 — AI Baseline](07-ai-baseline.md) - AI features (if applicable)
 
 ### Next Steps
-- Proceed to [09 — Deploy](09-deploy) to deploy MVP with quality & observability
+- Proceed to [09 — Deploy](09-deploy.md) to deploy MVP with quality & observability
 
 ### What This Enables
 

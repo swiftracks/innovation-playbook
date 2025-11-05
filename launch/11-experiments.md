@@ -8,7 +8,7 @@
 
 **Time**: 1-2 weeks per experiment
 
-**Prerequisites**: [09 — Private Beta](09-private-beta), [10 — Instrumentation](10-instrumentation) (recommended)
+**Prerequisites**: [09 — Private Beta](09-private-beta.md), [10 — Instrumentation](10-instrumentation.md) (recommended)
 
 ## Learning Outcomes
 
@@ -27,7 +27,7 @@ By the end of this chapter, you will be able to:
 
 ## Inputs
 
-- Launched MVP from [09 — Private Beta](09-private-beta)
+- Launched MVP from [09 — Private Beta](09-private-beta.md)
 - Instrumentation setup (recommended)
 - Understanding of what to test
 - Access to experiment tools
@@ -243,11 +243,11 @@ You're ready to proceed when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [09 — Private Beta](09-private-beta) - Launched MVP
-- [10 — Instrumentation](10-instrumentation) - Instrumentation setup (recommended)
+- [09 — Private Beta](09-private-beta.md) - Launched MVP
+- [10 — Instrumentation](10-instrumentation.md) - Instrumentation setup (recommended)
 
 ### Next Steps
-- Proceed to [12 — Feedback Ops](12-feedback-ops) to establish feedback loops
+- Proceed to [12 — Feedback Ops](12-feedback-ops.md) to establish feedback loops
 - OR iterate based on experiment results
 
 ### What This Enables

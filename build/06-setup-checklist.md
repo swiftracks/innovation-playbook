@@ -36,9 +36,9 @@ Use this checklist to verify you've completed the chapter requirements.
 - [ ] All items above are complete
 - [ ] Implementation plan approved
 - [ ] Development environment ready
-- [ ] Ready to proceed to [07 — AI Baseline](07-ai-baseline) or [08 — Build Features](08-build-features)
+- [ ] Ready to proceed to [07 — AI Baseline](07-ai-baseline.md) or [08 — Build Features](08-build-features.md)
 
 ---
 
-**Next Step**: Proceed to [07 — AI Baseline](07-ai-baseline) or [08 — Build Features](08-build-features) when all items are checked.
+**Next Step**: Proceed to [07 — AI Baseline](07-ai-baseline.md) or [08 — Build Features](08-build-features.md) when all items are checked.
 

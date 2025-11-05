@@ -8,7 +8,7 @@
 
 **Time**: 2-4 weeks (depending on complexity)
 
-**Prerequisites**: [Decide What to Build](decide/index) - Decision to build
+**Prerequisites**: [Decide What to Build](decide/index.md) - Decision to build
 
 ## Learning Outcomes
 
@@ -27,7 +27,7 @@ By the end of this section, you will be able to:
 
 ## Inputs
 
-- Decision to build from [06 — Synthesize Insights → Decision](decide/06-synthesize-insights-decision)
+- Decision to build from [06 — Synthesize Insights → Decision](decide/06-synthesize-insights-decision.md)
 - Validated hypotheses and learnings
 - Problem statement and value proposition
 - Understanding of user needs
@@ -36,11 +36,11 @@ By the end of this section, you will be able to:
 
 This section follows a systematic build process:
 
-1. **[05 — Planning](05-planning)**: Create user stories, PRD, and design mockups using UX Pilot
-2. **[06 — Setup](06-setup)**: Set up development environment, configure Cursor, and create implementation plan
-3. **[07 — AI Baseline](07-ai-baseline)**: Build core AI functionality
-4. **[08 — Build Features](08-build-features)**: Implement UI components based on designed mockups
-5. **[09 — Deploy](09-deploy)**: Deploy MVP to production with quality & observability
+1. **[05 — Planning](05-planning.md)**: Create user stories, PRD, and design mockups using UX Pilot
+2. **[06 — Setup](06-setup.md)**: Set up development environment, configure Cursor, and create implementation plan
+3. **[07 — AI Baseline](07-ai-baseline.md)**: Build core AI functionality
+4. **[08 — Build Features](08-build-features.md)**: Implement UI components based on designed mockups
+5. **[09 — Deploy](09-deploy.md)**: Deploy MVP to production with quality & observability
 
 > 💡 **Tip**: Planning must come first. After Setup, AI Baseline and Build Features can be done in parallel following the implementation plan.
 
@@ -50,11 +50,11 @@ This section follows a systematic build process:
 
 1. Do you have a decision to build?
    - [ ] Yes → Ready to proceed
-   - [ ] No → Return to [Decide What to Build](decide/index)
+   - [ ] No → Return to [Decide What to Build](decide/index.md)
 
 2. Do you have key problems identified and innovation aspects defined?
-   - [ ] Yes → Ready for [05 — Planning](05-planning)
-   - [ ] No → Return to [Decide What to Build](decide/index)
+   - [ ] Yes → Ready for [05 — Planning](05-planning.md)
+   - [ ] No → Return to [Decide What to Build](decide/index.md)
 
 3. Do you have access to AI tools (ChatGPT, Claude, or Cursor) and UX Pilot?
    - [ ] Yes → Ready to proceed
@@ -133,10 +133,10 @@ You're ready to proceed to "Launch & Iterate" when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [Decide What to Build](decide/index) - Decision to build
+- [Decide What to Build](decide/index.md) - Decision to build
 
 ### Next Steps
-- Start with [05 — Planning](05-planning) to create user stories, PRD, and mockups
+- Start with [05 — Planning](05-planning.md) to create user stories, PRD, and mockups
 - Follow chapters sequentially: Planning → Setup → Building → Deploy
 
 ### What This Enables
@@ -148,8 +148,8 @@ Completing this section enables:
 - Iteration and improvement
 
 ### Related Sections
-- [Launch & Iterate](launch/index) - If MVP is ready for launch
-- [Decide What to Build](decide/index) - If you need to pivot or restart
+- [Launch & Iterate](launch/index.md) - If MVP is ready for launch
+- [Decide What to Build](decide/index.md) - If you need to pivot or restart
 
 ---
 
