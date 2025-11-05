@@ -1,10 +1,14 @@
 # 01 — Idea / Problem
 
-> **Purpose**: Use Swift CNS to articulate your problem and start the validation process
-> **Outcome**: Have a well-defined problem documented in Swift CNS and ready for AI-guided analysis
-> **Audience**: PM / Dev / Both
-> **Time**: 15-30 minutes
-> **Prerequisites**: [Start Here](start-here/index.md), [Decide What to Build](index.md), Swift CNS account at [app.swiftcns.ai](https://app.swiftcns.ai)
+**Purpose**: Use Swift CNS to articulate your problem and start the validation process
+
+**Outcome**: Have a well-defined problem documented in Swift CNS and ready for AI-guided analysis
+
+**Audience**: PM / Dev / Both
+
+**Time**: 15-30 minutes
+
+**Prerequisites**: [Start Here](start-here/index.md), [Decide What to Build](index.md), Swift CNS account at [app.swiftcns.ai](https://app.swiftcns.ai)
 
 ## Learning Outcomes
 

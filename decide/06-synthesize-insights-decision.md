@@ -1,10 +1,14 @@
 # 06 — Synthesize Insights → Decision
 
-> **Purpose**: Use Swift CNS Insights to synthesize all learnings into a clear go/no-go decision
-> **Outcome**: Make a data-driven decision about what to build (or pivot) based on Swift CNS Insights
-> **Audience**: PM / Dev / Both
-> **Time**: 1-2 hours
-> **Prerequisites**: [05 — Extract Key Learnings](05-extract-key-learnings.md) - Learning Cards created in Swift CNS
+**Purpose**: Use Swift CNS Insights to synthesize all learnings into a clear go/no-go decision
+
+**Outcome**: Make a data-driven decision about what to build (or pivot) based on Swift CNS Insights
+
+**Audience**: PM / Dev / Both
+
+**Time**: 1-2 hours
+
+**Prerequisites**: [05 — Extract Key Learnings](05-extract-key-learnings.md) - Learning Cards created in Swift CNS
 
 ## Learning Outcomes
 

@@ -1,8 +1,10 @@
 # Product Innovation Guide — MVP Edition
 
-> **Purpose**: A practical, outcome-focused guide for product innovation teams
-> **Version**: 1.0.0
-> **Audience**: Product Managers, Developers, and Innovation Teams
+**Purpose**: A practical, outcome-focused guide for product innovation teams
+
+**Version**: 1.0.0
+
+**Audience**: Product Managers, Developers, and Innovation Teams
 
 ## Welcome
 

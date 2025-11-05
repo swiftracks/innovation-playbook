@@ -1,10 +1,14 @@
 # Assets
 
-> **Purpose**: Identify and organize available resources for innovation work
-> **Outcome**: Understand what tools, templates, and resources are available
-> **Audience**: PM / Dev / Both
-> **Time**: 20-30 minutes
-> **Prerequisites**: [Start Here](index.md)
+**Purpose**: Identify and organize available resources for innovation work
+
+**Outcome**: Understand what tools, templates, and resources are available
+
+**Audience**: PM / Dev / Both
+
+**Time**: 20-30 minutes
+
+**Prerequisites**: [Start Here](index.md)
 
 ## Learning Outcomes
 

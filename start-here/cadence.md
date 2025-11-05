@@ -1,10 +1,14 @@
 # Cadence
 
-> **Purpose**: Establish the rhythm and pace of innovation work
-> **Outcome**: Create a sustainable cadence for validation, building, and iteration
-> **Audience**: PM / Dev / Both
-> **Time**: 30-45 minutes
-> **Prerequisites**: [Start Here](index.md)
+**Purpose**: Establish the rhythm and pace of innovation work
+
+**Outcome**: Create a sustainable cadence for validation, building, and iteration
+
+**Audience**: PM / Dev / Both
+
+**Time**: 30-45 minutes
+
+**Prerequisites**: [Start Here](index.md)
 
 ## Learning Outcomes
 

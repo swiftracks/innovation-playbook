@@ -1,10 +1,14 @@
 # 07 — UX Thin Vertical
 
-> **Purpose**: Build a complete user journey that demonstrates end-to-end value
-> **Outcome**: Have a working thin vertical that users can complete successfully
-> **Audience**: PM / Dev / Both
-> **Time**: 1-2 weeks
-> **Prerequisites**: [05 — Setup](05-setup.md)
+**Purpose**: Build a complete user journey that demonstrates end-to-end value
+
+**Outcome**: Have a working thin vertical that users can complete successfully
+
+**Audience**: PM / Dev / Both
+
+**Time**: 1-2 weeks
+
+**Prerequisites**: [05 — Setup](05-setup.md)
 
 ## Learning Outcomes
 

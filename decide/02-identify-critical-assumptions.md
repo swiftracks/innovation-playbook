@@ -1,10 +1,14 @@
 # 02 — Identify Critical Assumptions
 
-> **Purpose**: Use Swift CNS AI to identify critical assumptions that must be validated
-> **Outcome**: Have a prioritized list of critical assumptions documented in Swift CNS
-> **Audience**: PM / Dev / Both
-> **Time**: 30-60 minutes (guided by AI)
-> **Prerequisites**: [01 — Idea / Problem](01-idea-problem.md) - Chat started in Swift CNS
+**Purpose**: Use Swift CNS AI to identify critical assumptions that must be validated
+
+**Outcome**: Have a prioritized list of critical assumptions documented in Swift CNS
+
+**Audience**: PM / Dev / Both
+
+**Time**: 30-60 minutes (guided by AI)
+
+**Prerequisites**: [01 — Idea / Problem](01-idea-problem.md) - Chat started in Swift CNS
 
 ## Learning Outcomes
 

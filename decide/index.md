@@ -1,10 +1,14 @@
 # Decide What to Build
 
-> **Purpose**: Use Swift CNS to validate ideas before building
-> **Outcome**: Make data-driven decisions about what to build based on validated assumptions
-> **Audience**: PM / Dev / Both
-> **Time**: 2-4 weeks (depending on complexity)
-> **Prerequisites**: [Start Here](start-here/index.md), Swift CNS account at [app.swiftcns.ai](https://app.swiftcns.ai)
+**Purpose**: Use Swift CNS to validate ideas before building
+
+**Outcome**: Make data-driven decisions about what to build based on validated assumptions
+
+**Audience**: PM / Dev / Both
+
+**Time**: 2-4 weeks (depending on complexity)
+
+**Prerequisites**: [Start Here](start-here/index.md), Swift CNS account at [app.swiftcns.ai](https://app.swiftcns.ai)
 
 ## Learning Outcomes
 

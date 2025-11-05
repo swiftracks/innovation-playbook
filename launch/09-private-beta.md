@@ -1,10 +1,14 @@
 # 09 — Private Beta
 
-> **Purpose**: Launch MVP to select users for testing and feedback
-> **Outcome**: Have real users using your MVP and providing feedback
-> **Audience**: PM / Dev / Both
-> **Time**: 2-4 weeks
-> **Prerequisites**: [08 — Quality & Observability (Lite)](build/08-quality-observability-lite.md)
+**Purpose**: Launch MVP to select users for testing and feedback
+
+**Outcome**: Have real users using your MVP and providing feedback
+
+**Audience**: PM / Dev / Both
+
+**Time**: 2-4 weeks
+
+**Prerequisites**: [08 — Quality & Observability (Lite)](build/08-quality-observability-lite.md)
 
 ## Learning Outcomes
 

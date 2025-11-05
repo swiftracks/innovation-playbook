@@ -1,10 +1,14 @@
 # 04 — Design & Run Experiments
 
-> **Purpose**: Use Swift CNS to design and execute experiments to test your hypotheses
-> **Outcome**: Have experiments designed and running in Swift CNS to validate hypotheses
-> **Audience**: PM / Dev / Both
-> **Time**: 1-2 weeks per experiment (ongoing)
-> **Prerequisites**: [03 — Form Testable Hypotheses](03-form-testable-hypotheses.md) - Hypotheses created in Swift CNS
+**Purpose**: Use Swift CNS to design and execute experiments to test your hypotheses
+
+**Outcome**: Have experiments designed and running in Swift CNS to validate hypotheses
+
+**Audience**: PM / Dev / Both
+
+**Time**: 1-2 weeks per experiment (ongoing)
+
+**Prerequisites**: [03 — Form Testable Hypotheses](03-form-testable-hypotheses.md) - Hypotheses created in Swift CNS
 
 ## Learning Outcomes
 

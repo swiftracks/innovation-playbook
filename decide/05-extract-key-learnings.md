@@ -1,10 +1,14 @@
 # 05 — Extract Key Learnings
 
-> **Purpose**: Use Swift CNS Learning Cards to analyze experiment results and extract insights
-> **Outcome**: Have clear learnings documented in Swift CNS Learning Cards that inform decisions
-> **Audience**: PM / Dev / Both
-> **Time**: 1-2 hours per experiment
-> **Prerequisites**: [04 — Design & Run Experiments](04-design-run-experiments.md) - Experiments completed in Swift CNS
+**Purpose**: Use Swift CNS Learning Cards to analyze experiment results and extract insights
+
+**Outcome**: Have clear learnings documented in Swift CNS Learning Cards that inform decisions
+
+**Audience**: PM / Dev / Both
+
+**Time**: 1-2 hours per experiment
+
+**Prerequisites**: [04 — Design & Run Experiments](04-design-run-experiments.md) - Experiments completed in Swift CNS
 
 ## Learning Outcomes
 

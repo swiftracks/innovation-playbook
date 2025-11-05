@@ -1,10 +1,14 @@
 # 06 — AI Baseline
 
-> **Purpose**: Build core AI functionality that powers the MVP
-> **Outcome**: Have a working AI baseline that demonstrates core value
-> **Audience**: PM / Dev / Both
-> **Time**: 1-2 weeks
-> **Prerequisites**: [05 — Setup](05-setup.md)
+**Purpose**: Build core AI functionality that powers the MVP
+
+**Outcome**: Have a working AI baseline that demonstrates core value
+
+**Audience**: PM / Dev / Both
+
+**Time**: 1-2 weeks
+
+**Prerequisites**: [05 — Setup](05-setup.md)
 
 ## Learning Outcomes
 

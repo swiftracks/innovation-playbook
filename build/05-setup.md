@@ -1,10 +1,14 @@
 # 05 — Setup
 
-> **Purpose**: Set up development environment and infrastructure
-> **Outcome**: Have a working development environment ready for building
-> **Audience**: PM / Dev / Both
-> **Time**: 4-8 hours
-> **Prerequisites**: [Decide What to Build](decide/index.md) - Decision to build
+**Purpose**: Set up development environment and infrastructure
+
+**Outcome**: Have a working development environment ready for building
+
+**Audience**: PM / Dev / Both
+
+**Time**: 4-8 hours
+
+**Prerequisites**: [Decide What to Build](decide/index.md) - Decision to build
 
 ## Learning Outcomes
 

@@ -1,10 +1,14 @@
 # 03 — Form Testable Hypotheses
 
-> **Purpose**: Use Swift CNS AI to convert critical assumptions into testable hypotheses
-> **Outcome**: Have clear, measurable hypotheses ready for experimentation in Swift CNS
-> **Audience**: PM / Dev / Both
-> **Time**: 30-60 minutes (guided by AI)
-> **Prerequisites**: [02 — Identify Critical Assumptions](02-identify-critical-assumptions.md) - Assumptions identified in Swift CNS
+**Purpose**: Use Swift CNS AI to convert critical assumptions into testable hypotheses
+
+**Outcome**: Have clear, measurable hypotheses ready for experimentation in Swift CNS
+
+**Audience**: PM / Dev / Both
+
+**Time**: 30-60 minutes (guided by AI)
+
+**Prerequisites**: [02 — Identify Critical Assumptions](02-identify-critical-assumptions.md) - Assumptions identified in Swift CNS
 
 ## Learning Outcomes
 

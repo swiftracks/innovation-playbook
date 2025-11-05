@@ -1,10 +1,14 @@
 # Launch & Iterate
 
-> **Purpose**: Launch MVP and gather feedback for iteration
-> **Outcome**: Have a live MVP with real users and feedback loops
-> **Audience**: PM / Dev / Both
-> **Time**: Ongoing (continuous iteration)
-> **Prerequisites**: [Build the MVP](build/index.md) - Working MVP
+**Purpose**: Launch MVP and gather feedback for iteration
+
+**Outcome**: Have a live MVP with real users and feedback loops
+
+**Audience**: PM / Dev / Both
+
+**Time**: Ongoing (continuous iteration)
+
+**Prerequisites**: [Build the MVP](build/index.md) - Working MVP
 
 ## Learning Outcomes
 

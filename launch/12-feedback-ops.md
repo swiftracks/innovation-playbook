@@ -1,10 +1,14 @@
 # 12 — Feedback Ops
 
-> **Purpose**: Establish feedback loops for continuous learning
-> **Outcome**: Have systematic processes for collecting and acting on feedback
-> **Audience**: PM / Dev / Both
-> **Time**: Ongoing (continuous process)
-> **Prerequisites**: [09 — Private Beta](09-private-beta.md)
+**Purpose**: Establish feedback loops for continuous learning
+
+**Outcome**: Have systematic processes for collecting and acting on feedback
+
+**Audience**: PM / Dev / Both
+
+**Time**: Ongoing (continuous process)
+
+**Prerequisites**: [09 — Private Beta](09-private-beta.md)
 
 ## Learning Outcomes
 

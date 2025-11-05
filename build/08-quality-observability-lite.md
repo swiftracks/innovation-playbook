@@ -1,10 +1,14 @@
 # 08 — Quality & Observability (Lite)
 
-> **Purpose**: Implement essential quality and observability features
-> **Outcome**: Have error tracking, logging, and basic analytics in place
-> **Audience**: PM / Dev / Both
-> **Time**: 1-2 days
-> **Prerequisites**: [06 — AI Baseline](06-ai-baseline.md) OR [07 — UX Thin Vertical](07-ux-thin-vertical.md)
+**Purpose**: Implement essential quality and observability features
+
+**Outcome**: Have error tracking, logging, and basic analytics in place
+
+**Audience**: PM / Dev / Both
+
+**Time**: 1-2 days
+
+**Prerequisites**: [06 — AI Baseline](06-ai-baseline.md) OR [07 — UX Thin Vertical](07-ux-thin-vertical.md)
 
 ## Learning Outcomes
 

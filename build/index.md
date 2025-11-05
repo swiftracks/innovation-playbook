@@ -1,10 +1,14 @@
 # Build the MVP
 
-> **Purpose**: Build a working MVP efficiently with minimal resources
-> **Outcome**: Have a working MVP that demonstrates value and enables learning
-> **Audience**: PM / Dev / Both
-> **Time**: 2-4 weeks (depending on complexity)
-> **Prerequisites**: [Decide What to Build](decide/index.md) - Decision to build
+**Purpose**: Build a working MVP efficiently with minimal resources
+
+**Outcome**: Have a working MVP that demonstrates value and enables learning
+
+**Audience**: PM / Dev / Both
+
+**Time**: 2-4 weeks (depending on complexity)
+
+**Prerequisites**: [Decide What to Build](decide/index.md) - Decision to build
 
 ## Learning Outcomes
 

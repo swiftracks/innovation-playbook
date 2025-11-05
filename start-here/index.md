@@ -1,10 +1,14 @@
 # Start Here
 
-> **Purpose**: Establish the foundation and context for using this guide
-> **Outcome**: Understand the framework, your role, and how to navigate the guide
-> **Audience**: PM / Dev / Both
-> **Time**: 15-30 minutes
-> **Prerequisites**: None
+**Purpose**: Establish the foundation and context for using this guide
+
+**Outcome**: Understand the framework, your role, and how to navigate the guide
+
+**Audience**: PM / Dev / Both
+
+**Time**: 15-30 minutes
+
+**Prerequisites**: None
 
 ## Learning Outcomes
 

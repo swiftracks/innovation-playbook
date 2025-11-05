@@ -1,10 +1,14 @@
 # 11 — Experiments
 
-> **Purpose**: Run experiments to test improvements and optimize
-> **Outcome**: Have a process for testing improvements with data
-> **Audience**: PM / Dev / Both
-> **Time**: 1-2 weeks per experiment
-> **Prerequisites**: [09 — Private Beta](09-private-beta.md), [10 — Instrumentation](10-instrumentation.md) (recommended)
+**Purpose**: Run experiments to test improvements and optimize
+
+**Outcome**: Have a process for testing improvements with data
+
+**Audience**: PM / Dev / Both
+
+**Time**: 1-2 weeks per experiment
+
+**Prerequisites**: [09 — Private Beta](09-private-beta.md), [10 — Instrumentation](10-instrumentation.md) (recommended)
 
 ## Learning Outcomes
 

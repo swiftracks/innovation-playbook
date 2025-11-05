@@ -1,10 +1,14 @@
 # 10 — Instrumentation
 
-> **Purpose**: Set up comprehensive tracking for usage and behavior
-> **Outcome**: Have detailed analytics and understanding of user behavior
-> **Audience**: PM / Dev / Both
-> **Time**: 1-2 days
-> **Prerequisites**: [09 — Private Beta](09-private-beta.md)
+**Purpose**: Set up comprehensive tracking for usage and behavior
+
+**Outcome**: Have detailed analytics and understanding of user behavior
+
+**Audience**: PM / Dev / Both
+
+**Time**: 1-2 days
+
+**Prerequisites**: [09 — Private Beta](09-private-beta.md)
 
 ## Learning Outcomes
 
