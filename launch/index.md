@@ -8,7 +8,7 @@
 
 **Time**: Ongoing (continuous iteration)
 
-**Prerequisites**: [Build the MVP](build/index.md) - Working MVP
+**Prerequisites**: [Build the MVP](build/index) - Working MVP
 
 ## Learning Outcomes
 
@@ -27,7 +27,7 @@ By the end of this section, you will be able to:
 
 ## Inputs
 
-- Working MVP from [Build the MVP](build/index.md)
+- Working MVP from [Build the MVP](build/index)
 - Quality and observability setup
 - Access to users for testing
 - Understanding of what to learn
@@ -36,10 +36,10 @@ By the end of this section, you will be able to:
 
 This section follows a systematic launch and iteration process:
 
-1. **[09 — Private Beta](09-private-beta.md)**: Launch MVP to select users
-2. **[10 — Instrumentation](10-instrumentation.md)**: Set up tracking for usage and behavior
-3. **[11 — Experiments](11-experiments.md)**: Run experiments to test improvements
-4. **[12 — Feedback Ops](12-feedback-ops.md)**: Establish feedback loops for continuous learning
+1. **[09 — Private Beta](09-private-beta)**: Launch MVP to select users
+2. **[10 — Instrumentation](10-instrumentation)**: Set up tracking for usage and behavior
+3. **[11 — Experiments](11-experiments)**: Run experiments to test improvements
+4. **[12 — Feedback Ops](12-feedback-ops)**: Establish feedback loops for continuous learning
 
 > 💡 **Tip**: Private Beta must come first. Instrumentation and Experiments can be set up in parallel after launch.
 
@@ -49,11 +49,11 @@ This section follows a systematic launch and iteration process:
 
 1. Do you have a working MVP?
    - [ ] Yes → Ready to proceed
-   - [ ] No → Return to [Build the MVP](build/index.md)
+   - [ ] No → Return to [Build the MVP](build/index)
 
 2. Do you have quality and observability set up?
-   - [ ] Yes → Ready for [09 — Private Beta](09-private-beta.md)
-   - [ ] No → Set up [08 — Quality & Observability (Lite)](build/08-quality-observability-lite.md)
+   - [ ] Yes → Ready for [09 — Private Beta](09-private-beta)
+   - [ ] No → Set up [09 — Deploy](build/09-deploy)
 
 3. Do you have access to users for testing?
    - [ ] Yes → Ready to proceed
@@ -122,10 +122,10 @@ You're ready to iterate when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [Build the MVP](build/index.md) - Working MVP
+- [Build the MVP](build/index) - Working MVP
 
 ### Next Steps
-- Start with [09 — Private Beta](09-private-beta.md) to launch MVP
+- Start with [09 — Private Beta](09-private-beta) to launch MVP
 - Follow chapters sequentially or in parallel as appropriate
 
 ### What This Enables
@@ -137,8 +137,8 @@ Completing this section enables:
 - Product-market fit validation
 
 ### Related Sections
-- [Build the MVP](build/index.md) - If you need to iterate on features
-- [Decide What to Build](decide/index.md) - If you need to pivot or restart
+- [Build the MVP](build/index) - If you need to iterate on features
+- [Decide What to Build](decide/index) - If you need to pivot or restart
 
 ---
 

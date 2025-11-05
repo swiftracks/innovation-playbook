@@ -8,7 +8,7 @@
 
 **Time**: 1-2 weeks per experiment (ongoing)
 
-**Prerequisites**: [03 — Form Testable Hypotheses](03-form-testable-hypotheses.md) - Hypotheses created in Swift CNS
+**Prerequisites**: [03 — Form Testable Hypotheses](03-form-testable-hypotheses) - Hypotheses created in Swift CNS
 
 ## Learning Outcomes
 
@@ -27,7 +27,7 @@ By the end of this chapter, you will be able to:
 
 ## Inputs
 
-- Testable hypotheses from [03 — Form Testable Hypotheses](03-form-testable-hypotheses.md) in Swift CNS
+- Testable hypotheses from [03 — Form Testable Hypotheses](03-form-testable-hypotheses) in Swift CNS
 - Success criteria for each hypothesis
 - Access to users or test environment
 - Time and resources for experimentation
@@ -232,11 +232,11 @@ You're ready to proceed when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [03 — Form Testable Hypotheses](03-form-testable-hypotheses.md) - Testable hypotheses in Swift CNS
+- [03 — Form Testable Hypotheses](03-form-testable-hypotheses) - Testable hypotheses in Swift CNS
 
 ### Next Steps
 - Continue running experiments and collecting data
-- Proceed to [05 — Extract Key Learnings](05-extract-key-learnings.md) to analyze results in Swift CNS
+- Proceed to [05 — Extract Key Learnings](05-extract-key-learnings) to analyze results in Swift CNS
 - Use Swift CNS Learning Cards to document learnings
 
 ### What This Enables

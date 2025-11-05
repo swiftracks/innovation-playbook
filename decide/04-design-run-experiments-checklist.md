@@ -26,15 +26,15 @@ Use this checklist to verify you've completed the chapter requirements.
 ## Results Documentation
 - [ ] Results are documented
 - [ ] Initial observations are noted
-- [ ] Ready to proceed to [05 — Extract Key Learnings](05-extract-key-learnings.md)
+- [ ] Ready to proceed to [05 — Extract Key Learnings](05-extract-key-learnings)
 
 ## Ready to Proceed
 - [ ] All items above are complete
 - [ ] At least one experiment is complete
 - [ ] You have reliable data (met sample size)
-- [ ] Ready to proceed to [05 — Extract Key Learnings](05-extract-key-learnings.md)
+- [ ] Ready to proceed to [05 — Extract Key Learnings](05-extract-key-learnings)
 
 ---
 
-**Next Step**: Proceed to [05 — Extract Key Learnings](05-extract-key-learnings.md) when all items are checked.
+**Next Step**: Proceed to [05 — Extract Key Learnings](05-extract-key-learnings) when all items are checked.
 

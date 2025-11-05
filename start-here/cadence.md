@@ -8,7 +8,7 @@
 
 **Time**: 30-45 minutes
 
-**Prerequisites**: [Start Here](index.md)
+**Prerequisites**: [Start Here](index)
 
 ## Learning Outcomes
 
@@ -173,12 +173,12 @@ You're ready to proceed when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [Start Here](index.md) - Understanding the guide structure
+- [Start Here](index) - Understanding the guide structure
 
 ### Next Steps
-- Review [Assets](assets.md) to understand available resources
-- Proceed to [Decide What to Build](decide/index.md) if ready to validate
-- Proceed to [Build the MVP](build/index.md) if ready to build
+- Review [Assets](assets) to understand available resources
+- Proceed to [Decide What to Build](decide/index) if ready to validate
+- Proceed to [Build the MVP](build/index) if ready to build
 
 ### What This Enables
 

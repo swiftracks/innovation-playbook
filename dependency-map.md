@@ -44,30 +44,35 @@ This map shows how chapters relate to each other and different learning paths th
 
 ### Build the MVP
 
-#### 05 — Setup
+#### 05 — Planning
 - **Depends on**: 06 — Synthesize Insights → Decision (from Decide)
-- **Enables**: 06 — AI Baseline, 07 — UX Thin Vertical
+- **Enables**: 06 — Setup
 - **Can be done in parallel with**: None
 
-#### 06 — AI Baseline
-- **Depends on**: 05 — Setup
-- **Enables**: 07 — UX Thin Vertical, 08 — Quality & Observability
-- **Can be done in parallel with**: 07 — UX Thin Vertical (after setup)
+#### 06 — Setup
+- **Depends on**: 05 — Planning
+- **Enables**: 07 — AI Baseline, 08 — Build Features
+- **Can be done in parallel with**: None
 
-#### 07 — UX Thin Vertical
-- **Depends on**: 05 — Setup
-- **Enables**: 08 — Quality & Observability
-- **Can be done in parallel with**: 06 — AI Baseline (after setup)
+#### 07 — AI Baseline
+- **Depends on**: 06 — Setup
+- **Enables**: 09 — Deploy
+- **Can be done in parallel with**: 08 — Build Features (after setup)
 
-#### 08 — Quality & Observability (Lite)
-- **Depends on**: 06 — AI Baseline OR 07 — UX Thin Vertical
+#### 08 — Build Features
+- **Depends on**: 06 — Setup
+- **Enables**: 09 — Deploy
+- **Can be done in parallel with**: 07 — AI Baseline (after setup)
+
+#### 09 — Deploy
+- **Depends on**: 07 — AI Baseline OR 08 — Build Features
 - **Enables**: Launch & Iterate (all chapters)
 - **Can be done in parallel with**: None
 
 ### Launch & Iterate
 
 #### 09 — Private Beta
-- **Depends on**: 08 — Quality & Observability
+- **Depends on**: 09 — Deploy
 - **Enables**: 10 — Instrumentation, 11 — Experiments
 - **Can be done in parallel with**: None
 

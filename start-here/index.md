@@ -41,7 +41,7 @@ This guide follows a systematic approach:
 
 ### 2. Choose Your Path
 
-Review the [Dependency Map](dependency-map.md) to find your path:
+Review the [Dependency Map](../dependency-map) to find your path:
 
 - **Validating an idea?** → Start with "Decide What to Build"
 - **Ready to build?** → Start with "Build the MVP"
@@ -64,10 +64,10 @@ Every chapter includes:
 ### 4. Review Resources
 
 Familiarize yourself with:
-- [Getting Started](../GETTING-STARTED.md) - How to use this guide and learning paths
-- [Style Guide](../style-guide.md) - How content is formatted
-- [Glossary](../glossary.md) - Key terms and definitions
-- [Dependency Map](../dependency-map.md) - Chapter relationships
+- [Getting Started](../GETTING-STARTED) - How to use this guide and learning paths
+- [Style Guide](../style-guide) - How content is formatted
+- [Glossary](../glossary) - Key terms and definitions
+- [Dependency Map](../dependency-map) - Chapter relationships
 
 ## Apply It Now
 
@@ -147,9 +147,9 @@ You're ready to proceed when:
 ### Next Steps
 
 Based on your chosen path:
-- **Decide path**: Proceed to [Decide What to Build](decide/index.md)
-- **Build path**: Proceed to [Build the MVP](build/index.md)
-- **Launch path**: Proceed to [Launch & Iterate](launch/index.md)
+- **Decide path**: Proceed to [Decide What to Build](decide/index)
+- **Build path**: Proceed to [Build the MVP](build/index)
+- **Launch path**: Proceed to [Launch & Iterate](launch/index)
 
 ### What This Enables
 
@@ -161,10 +161,10 @@ Understanding the guide structure enables you to:
 
 ### Related Chapters
 
-- [Cadence](cadence.md) - Understanding work rhythms
-- [Assets](assets.md) - Available resources and tools
+- [Cadence](cadence) - Understanding work rhythms
+- [Assets](assets) - Available resources and tools
 
 ---
 
-> 💡 **Tip**: Bookmark the [Dependency Map](dependency-map.md) for quick navigation
+> 💡 **Tip**: Bookmark the [Dependency Map](../dependency-map) for quick navigation
 > 📝 **Note**: You can always return to this section if you need to reorient yourself

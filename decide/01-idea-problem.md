@@ -8,7 +8,7 @@
 
 **Time**: 15-30 minutes
 
-**Prerequisites**: [Start Here](start-here/index.md), [Decide What to Build](index.md), Swift CNS account at [app.swiftcns.ai](https://app.swiftcns.ai)
+**Prerequisites**: [Start Here](start-here/index), [Decide What to Build](index), Swift CNS account at [app.swiftcns.ai](https://app.swiftcns.ai)
 
 ## Learning Outcomes
 
@@ -205,13 +205,13 @@ You're ready to proceed when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [Start Here](start-here/index.md) - Understanding the guide structure
-- [Decide What to Build](index.md) - Understanding the validation process
+- [Start Here](start-here/index) - Understanding the guide structure
+- [Decide What to Build](index) - Understanding the validation process
 - Swift CNS account created
 
 ### Next Steps
 - Continue the chat conversation in Swift CNS
-- The AI will guide you through [02 — Identify Critical Assumptions](02-identify-critical-assumptions.md)
+- The AI will guide you through [02 — Identify Critical Assumptions](02-identify-critical-assumptions)
 - Follow the AI's prompts and questions
 
 ### What This Enables

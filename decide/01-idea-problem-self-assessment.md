@@ -78,7 +78,7 @@ Based on your self-assessment:
 - [ ] If problem is too vague, refine it
 - [ ] If not validated with users, conduct interviews
 - [ ] If problem worthiness is unclear, reassess
-- [ ] If ready, proceed to [02 — Identify Critical Assumptions](02-identify-critical-assumptions.md)
+- [ ] If ready, proceed to [02 — Identify Critical Assumptions](02-identify-critical-assumptions)
 
 ---
 

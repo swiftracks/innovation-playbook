@@ -94,4 +94,4 @@ We'll keep this practical, battle-tested, and bias toward action. If a template 
 
 ***
 
-**Ready to get started?** Jump to [Getting Started](GETTING-STARTED.md) to learn how to use this playbook, or head to [Start Here](start-here/index.md) to begin your journey.
+**Ready to get started?** Jump to [Getting Started](GETTING-STARTED) to learn how to use this playbook, or head to [Start Here](start-here/index) to begin your journey.

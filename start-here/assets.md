@@ -8,7 +8,7 @@
 
 **Time**: 20-30 minutes
 
-**Prerequisites**: [Start Here](index.md)
+**Prerequisites**: [Start Here](index)
 
 ## Learning Outcomes
 
@@ -198,12 +198,12 @@ You're ready to proceed when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [Start Here](index.md) - Understanding the guide structure
+- [Start Here](index) - Understanding the guide structure
 
 ### Next Steps
-- Review [Cadence](cadence.md) to establish work rhythm
-- Proceed to [Decide What to Build](decide/index.md) to start validation
-- Proceed to [Build the MVP](build/index.md) if ready to build
+- Review [Cadence](cadence) to establish work rhythm
+- Proceed to [Decide What to Build](decide/index) to start validation
+- Proceed to [Build the MVP](build/index) if ready to build
 
 ### What This Enables
 

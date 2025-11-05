@@ -8,7 +8,7 @@
 
 **Time**: 2-4 weeks (depending on complexity)
 
-**Prerequisites**: [Start Here](start-here/index.md), Swift CNS account at [app.swiftcns.ai](https://app.swiftcns.ai)
+**Prerequisites**: [Start Here](start-here/index), Swift CNS account at [app.swiftcns.ai](https://app.swiftcns.ai)
 
 ## Learning Outcomes
 
@@ -36,12 +36,12 @@ By the end of this section, you will be able to:
 
 This section follows a systematic validation process using Swift CNS:
 
-1. **[01 — Idea / Problem](01-idea-problem.md)**: Use Swift CNS chat to articulate the problem and value proposition
-2. **[02 — Identify Critical Assumptions](02-identify-critical-assumptions.md)**: Use Swift CNS AI to find what must be true for success
-3. **[03 — Form Testable Hypotheses](03-form-testable-hypotheses.md)**: Use Swift CNS AI to create testable statements
-4. **[04 — Design & Run Experiments](04-design-run-experiments.md)**: Use Swift CNS to test your hypotheses
-5. **[05 — Extract Key Learnings](05-extract-key-learnings.md)**: Use Swift CNS Learning Cards to analyze results
-6. **[06 — Synthesize Insights → Decision](06-synthesize-insights-decision.md)**: Use Swift CNS Insights to make a go/no-go decision
+1. **[01 — Idea / Problem](01-idea-problem)**: Use Swift CNS chat to articulate the problem and value proposition
+2. **[02 — Identify Critical Assumptions](02-identify-critical-assumptions)**: Use Swift CNS AI to find what must be true for success
+3. **[03 — Form Testable Hypotheses](03-form-testable-hypotheses)**: Use Swift CNS AI to create testable statements
+4. **[04 — Design & Run Experiments](04-design-run-experiments)**: Use Swift CNS to test your hypotheses
+5. **[05 — Extract Key Learnings](05-extract-key-learnings)**: Use Swift CNS Learning Cards to analyze results
+6. **[06 — Synthesize Insights → Decision](06-synthesize-insights-decision)**: Use Swift CNS Insights to make a go/no-go decision
 
 > 💡 **Tip**: These chapters must be done sequentially. Each builds on the previous one. Swift CNS AI guides you through the entire process.
 
@@ -67,7 +67,7 @@ This section follows a systematic validation process using Swift CNS:
    - [ ] No → Sign up at [app.swiftcns.ai](https://app.swiftcns.ai)
 
 2. Do you have a project in Swift CNS?
-   - [ ] Yes → Ready for [01 — Idea / Problem](01-idea-problem.md)
+   - [ ] Yes → Ready for [01 — Idea / Problem](01-idea-problem)
    - [ ] No → Create a new project first
 
 3. Do you have access to potential users for experiments?
@@ -76,7 +76,7 @@ This section follows a systematic validation process using Swift CNS:
 
 4. Do you have time allocated for experimentation (2-4 weeks)?
    - [ ] Yes → Ready to proceed
-   - [ ] No → Plan time allocation using [Cadence](start-here/cadence.md)
+   - [ ] No → Plan time allocation using [Cadence](start-here/cadence)
 
 **Artifact**: A readiness assessment showing what you need before starting
 
@@ -144,12 +144,12 @@ You're ready to proceed to "Build the MVP" when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [Start Here](start-here/index.md) - Understanding the guide structure
+- [Start Here](start-here/index) - Understanding the guide structure
 - Swift CNS account created
 
 ### Next Steps
-- Start with [01 — Idea / Problem](01-idea-problem.md) to start a chat in Swift CNS
-- Follow chapters sequentially through [06 — Synthesize Insights → Decision](06-synthesize-insights-decision.md)
+- Start with [01 — Idea / Problem](01-idea-problem) to start a chat in Swift CNS
+- Follow chapters sequentially through [06 — Synthesize Insights → Decision](06-synthesize-insights-decision)
 
 ### What This Enables
 
@@ -161,8 +161,8 @@ Completing this section with Swift CNS enables:
 - All your work documented in Swift CNS
 
 ### Related Sections
-- [Build the MVP](build/index.md) - If decision is to build
-- [Start Here](start-here/index.md) - If you need to pivot or restart
+- [Build the MVP](build/index) - If decision is to build
+- [Start Here](start-here/index) - If you need to pivot or restart
 
 ---
 

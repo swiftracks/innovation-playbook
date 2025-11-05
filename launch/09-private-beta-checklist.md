@@ -38,9 +38,9 @@ Use this checklist to verify you've completed the chapter requirements.
 - [ ] MVP is launched to beta users
 - [ ] Usage is being monitored
 - [ ] Feedback is being collected
-- [ ] Ready to proceed to [10 — Instrumentation](10-instrumentation.md) or [11 — Experiments](11-experiments.md)
+- [ ] Ready to proceed to [10 — Instrumentation](10-instrumentation) or [11 — Experiments](11-experiments)
 
 ---
 
-**Next Step**: Proceed to [10 — Instrumentation](10-instrumentation.md) or [11 — Experiments](11-experiments.md) when all items are checked.
+**Next Step**: Proceed to [10 — Instrumentation](10-instrumentation) or [11 — Experiments](11-experiments) when all items are checked.
 

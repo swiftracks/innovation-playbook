@@ -44,9 +44,9 @@ Use this checklist to verify you've completed the chapter requirements.
 - [ ] All items above are complete
 - [ ] Problem is validated through user research
 - [ ] Problem is worth solving
-- [ ] Ready to proceed to [02 — Identify Critical Assumptions](02-identify-critical-assumptions.md)
+- [ ] Ready to proceed to [02 — Identify Critical Assumptions](02-identify-critical-assumptions)
 
 ---
 
-**Next Step**: Proceed to [02 — Identify Critical Assumptions](02-identify-critical-assumptions.md) when all items are checked.
+**Next Step**: Proceed to [02 — Identify Critical Assumptions](02-identify-critical-assumptions) when all items are checked.
 

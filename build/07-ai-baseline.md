@@ -1,4 +1,4 @@
-# 06 — AI Baseline
+# 07 — AI Baseline
 
 **Purpose**: Build core AI functionality that powers the MVP
 
@@ -8,7 +8,7 @@
 
 **Time**: 1-2 weeks
 
-**Prerequisites**: [05 — Setup](05-setup.md)
+**Prerequisites**: [06 — Setup](06-setup)
 
 ## Learning Outcomes
 
@@ -27,7 +27,7 @@ By the end of this chapter, you will be able to:
 
 ## Inputs
 
-- Development environment from [05 — Setup](05-setup.md)
+- Development environment from [06 — Setup](06-setup)
 - Understanding of AI requirements from validated hypotheses
 - API keys for AI services (e.g., OpenAI)
 - Understanding of user needs and use cases
@@ -226,11 +226,11 @@ You're ready to proceed when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [05 — Setup](05-setup.md) - Development environment
+- [06 — Setup](06-setup) - Development environment
 
 ### Next Steps
-- Proceed to [07 — UX Thin Vertical](07-ux-thin-vertical.md) to build user experience
-- OR proceed to [08 — Quality & Observability (Lite)](08-quality-observability-lite.md) to add quality essentials
+- Proceed to [08 — Build Features](08-build-features) to implement UI based on mockups
+- OR proceed to [09 — Deploy](09-deploy) to deploy with quality & observability
 - These can be done in parallel
 
 ### What This Enables
@@ -245,3 +245,4 @@ AI baseline enables:
 
 > 💡 **Tip**: Start simple. You can enhance AI features later.
 > 📝 **Note**: Test AI with real inputs early. Don't wait for perfect implementation.
+

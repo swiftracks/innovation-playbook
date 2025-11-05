@@ -8,7 +8,7 @@
 
 **Time**: Ongoing (continuous process)
 
-**Prerequisites**: [09 — Private Beta](09-private-beta.md)
+**Prerequisites**: [09 — Private Beta](09-private-beta)
 
 ## Learning Outcomes
 
@@ -27,7 +27,7 @@ By the end of this chapter, you will be able to:
 
 ## Inputs
 
-- Launched MVP from [09 — Private Beta](09-private-beta.md)
+- Launched MVP from [09 — Private Beta](09-private-beta)
 - Instrumentation setup (if available)
 - Understanding of what to learn
 - Feedback collection tools
@@ -272,13 +272,13 @@ You're ready to proceed when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [09 — Private Beta](09-private-beta.md) - Launched MVP
+- [09 — Private Beta](09-private-beta) - Launched MVP
 
 ### Next Steps
 - Continue iterating based on feedback
-- Return to [Decide What to Build](decide/index.md) if you need to pivot
-- Return to [Build the MVP](build/index.md) if you need to add features
-- Return to [Launch & Iterate](index.md) to continue iterating
+- Return to [Decide What to Build](decide/index) if you need to pivot
+- Return to [Build the MVP](build/index) if you need to add features
+- Return to [Launch & Iterate](index) to continue iterating
 
 ### What This Enables
 

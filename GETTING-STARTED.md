@@ -13,8 +13,8 @@ This guide helps you systematically validate ideas, build MVPs, and launch produ
 ## Quick Start
 
 **New to the guide?** Start here:
-1. Read [Start Here](start-here/index.md) to understand the framework
-2. Check the [Dependency Map](dependency-map.md) to find your path
+1. Read [Start Here](start-here/index) to understand the framework
+2. Check the [Dependency Map](dependency-map) to find your path
 3. Follow the chapters in order, or jump to what you need
 
 **Need a specific template?** Jump to any chapter's template section.
@@ -32,7 +32,7 @@ This guide helps you systematically validate ideas, build MVPs, and launch produ
 - **Skim**: Overview and templates only
 - **Deep Dive**: Comprehensive understanding with examples
 
-See the [Dependency Map](dependency-map.md) for detailed paths.
+See the [Dependency Map](dependency-map) for detailed paths.
 
 ### Guide Structure
 
@@ -82,9 +82,9 @@ As you work through this guide, you'll produce:
 
 ## Resources
 
-- [Style Guide](style-guide.md) - Voice, formatting, and callout standards
-- [Glossary](glossary.md) - Terms and definitions
-- [Dependency Map](dependency-map.md) - Chapter relationships and learning paths
+- [Style Guide](style-guide) - Voice, formatting, and callout standards
+- [Glossary](glossary) - Terms and definitions
+- [Dependency Map](dependency-map) - Chapter relationships and learning paths
 
 ## Contributing
 
@@ -93,11 +93,11 @@ This is a living guide. As you use it, you'll discover improvements. Share your 
 ## Support
 
 For questions or issues:
-- Check the [Glossary](glossary.md) for definitions
-- Review the [Dependency Map](dependency-map.md) for navigation
+- Check the [Glossary](glossary) for definitions
+- Review the [Dependency Map](dependency-map) for navigation
 - Consult chapter self-assessments to verify understanding
 
 ---
 
-**Ready to start?** Begin with [Start Here](start-here/index.md) or jump to the [Dependency Map](dependency-map.md) to find your path.
+**Ready to start?** Begin with [Start Here](start-here/index) or jump to the [Dependency Map](dependency-map) to find your path.
 

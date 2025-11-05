@@ -8,7 +8,7 @@
 
 **Time**: 30-60 minutes (guided by AI)
 
-**Prerequisites**: [01 — Idea / Problem](01-idea-problem.md) - Chat started in Swift CNS
+**Prerequisites**: [01 — Idea / Problem](01-idea-problem) - Chat started in Swift CNS
 
 ## Learning Outcomes
 
@@ -27,7 +27,7 @@ By the end of this chapter, you will be able to:
 
 ## Inputs
 
-- Active chat in Swift CNS from [01 — Idea / Problem](01-idea-problem.md)
+- Active chat in Swift CNS from [01 — Idea / Problem](01-idea-problem)
 - AI analysis of your idea
 - Understanding of your proposed solution
 
@@ -211,11 +211,11 @@ You're ready to proceed when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [01 — Idea / Problem](01-idea-problem.md) - Chat started in Swift CNS
+- [01 — Idea / Problem](01-idea-problem) - Chat started in Swift CNS
 
 ### Next Steps
 - Continue the chat conversation in Swift CNS
-- The AI will guide you through [03 — Form Testable Hypotheses](03-form-testable-hypotheses.md)
+- The AI will guide you through [03 — Form Testable Hypotheses](03-form-testable-hypotheses)
 - Follow the AI's prompts to convert assumptions to hypotheses
 
 ### What This Enables
