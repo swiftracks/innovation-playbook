@@ -64,9 +64,10 @@ Every chapter includes:
 ### 4. Review Resources
 
 Familiarize yourself with:
-- [Style Guide](style-guide.md) - How content is formatted
-- [Glossary](glossary.md) - Key terms and definitions
-- [Dependency Map](dependency-map.md) - Chapter relationships
+- [Getting Started](../GETTING-STARTED.md) - How to use this guide and learning paths
+- [Style Guide](../style-guide.md) - How content is formatted
+- [Glossary](../glossary.md) - Key terms and definitions
+- [Dependency Map](../dependency-map.md) - Chapter relationships
 
 ## Apply It Now
 

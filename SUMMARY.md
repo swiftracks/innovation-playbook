@@ -1,5 +1,6 @@
 # Summary
 
+* [Getting Started](GETTING-STARTED.md)
 * [Start Here](start-here/index.md)
   * [Cadence](start-here/cadence.md)
   * [Assets](start-here/assets.md)
