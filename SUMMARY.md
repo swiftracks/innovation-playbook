@@ -15,7 +15,6 @@
 * [Build the MVP](build/index.md)
   * [05 — Planning](build/05-planning.md)
   * [06 — Setup](build/06-setup.md)
-  * [07 — AI Baseline](build/07-ai-baseline.md)
   * [08 — Build Features](build/08-build-features.md)
   * [09 — Deploy](build/09-deploy.md)
 * [Launch & Iterate](launch/index.md)

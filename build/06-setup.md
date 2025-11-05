@@ -266,9 +266,7 @@ You're ready to proceed when:
 - [05 — Planning](05-planning.md) - User stories, PRD, and mockups complete
 
 ### Next Steps
-- Proceed to [07 — AI Baseline](07-ai-baseline.md) to build core AI functionality
-- OR proceed to [08 — Build Features](08-build-features.md) to implement UI based on mockups
-- These can be done in parallel after setup, following your implementation plan
+- Proceed to [08 — Build Features](08-build-features.md) to build features end-to-end using Cursor collaboration
 
 ### What This Enables
 

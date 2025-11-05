@@ -48,10 +48,10 @@ Decide What to Build
     └─ Synthesize Insights → Decision
     ↓
 Build the MVP
+    ├─ Planning
     ├─ Setup
-    ├─ AI Baseline
-    ├─ UX Thin Vertical
-    └─ Quality & Observability (Lite)
+    ├─ Build Features
+    └─ Deploy
     ↓
 Launch & Iterate
     ├─ Private Beta

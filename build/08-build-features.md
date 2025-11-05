@@ -1,242 +1,282 @@
 # 08 — Build Features
 
-**Purpose**: Implement UI components and features based on the designed mockups from Planning
+**Purpose**: Build features end-to-end using Cursor collaboration, following the approved implementation plan
 
-**Outcome**: Have working frontend features that match the designed user journey
+**Outcome**: Have working features that match the designed user journey, built through iterative Cursor collaboration
 
 **Audience**: PM / Dev / Both
 
 **Time**: 1-2 weeks
 
-**Prerequisites**: [06 — Setup](06-setup.md) - Implementation plan approved
+**Prerequisites**: [06 — Setup](06-setup.md) - Comprehensive Cursor Plan approved to develop the product end-to-end including AI components
 
 ## Learning Outcomes
 
 By the end of this chapter, you will be able to:
-1. Implement UI components based on mockups from Planning
-2. Build frontend features following the designed journey
-3. Connect frontend to backend and AI baseline
-4. Create a functional interface matching the mockups
-5. Test the implemented user journey
+1. Collaborate effectively with Cursor to build features following an approved plan
+2. Test and iterate using `npm run dev` throughout the development process
+3. Use Cursor's planning function to fix issues and enhance features
+4. Guide Cursor through questions and approvals during development
+5. Refine features iteratively until ready for private beta
 
 ## Jobs-to-Be-Done
 
-- **When**: I have implementation plan and need to build the UI features
-- **I want**: To implement UI components based on the designed mockups
-- **So that**: Users can complete the designed journey end-to-end
+- **When**: I have an approved Cursor implementation plan and need to build the product
+- **I want**: To collaborate with Cursor to build features end-to-end following the plan
+- **So that**: I have a working MVP ready for private beta testing
 
 ## Inputs
 
-- Implementation plan from [06 — Setup](06-setup.md)
+- Approved Cursor implementation plan from [06 — Setup](06-setup.md)
 - Mockups from [05 — Planning](05-planning.md) (designed journey)
-- PRD from [05 — Planning](05-planning.md)
-- AI baseline from [07 — AI Baseline](07-ai-baseline.md) (if applicable)
-- Development environment configured
+- PRD from [05 — Planning](05-planning.md) (including AI Baseline design)
+- Development environment configured with `.cursorrules`
+- Cursor IDE ready for collaboration
 
 ## Activities
 
-### 1. Review Mockups and Implementation Plan
+### 1. Approve and Start Building
 
-**Review Design**:
-- Review mockups from Planning phase
-- Understand the designed user journey
-- Identify components needed
-- Review implementation plan tasks
+**Review Cursor Plan**:
+- Review the comprehensive Cursor plan that includes all features and AI components
+- Ensure the plan covers all PRD requirements and follows the designed user journey
+- The plan should include order of priority and dependencies - Cursor has already determined this in the planning phase
 
-**Journey Reference**:
-- The complete user journey was designed in Planning using UX Pilot
-- Mockups show the flow: Signup → Core Value → Success
-- Your task is to implement these designed screens
+**Start Building**:
+- In Cursor, approve the plan and click "Build" (or equivalent action to begin implementation)
+- Cursor will begin scaffolding and building features according to the plan
+- Trust Cursor's recommended plan and order of priority from the planning phase
 
-> 💡 **Tip**: Keep mockups open as reference while building. Match the design as closely as possible.
+> 💡 **Tip**: If you have concerns about the plan, address them before starting. Once building begins, let Cursor follow its plan.
 
-### 2. Implement UI Components
+### 2. Collaborate with Cursor During Building
 
-**Build Components Based on Mockups**:
-- Start with authentication screens (signup/login)
-- Build core value screens (main user journey)
-- Create success/completion screens
-- Implement navigation and layout components
+**Cursor's Building Process**:
+- Cursor will scaffold the project structure
+- Cursor will build features following the approved plan
+- Cursor may ask questions or request approvals for certain tasks
+- Some tasks may need to be filled manually - follow Cursor's instructions
 
-**Component Structure**:
-- Create reusable components
-- Follow component organization from `.cursorrules`
-- Use design system components (Radix UI, Tailwind)
-- Match mockup designs
+**Your Role During Building**:
+- **Answer Questions**: When Cursor asks questions, provide clear answers based on your PRD and mockups
+- **Provide Approvals**: When Cursor requests approval, review the approach and approve if appropriate
+- **Use "ASK" Function**: If you're unsure about something, use Cursor's "ASK" function to get clarification
+- **Continue Working with Cursor**: Stay engaged - Cursor may need guidance on next steps or clarification on requirements
 
-**Implementation Process**:
-1. Review mockup for a screen
-2. Create component structure
-3. Implement UI matching mockup
-4. Connect to state management
-5. Test component functionality
+**Best Practices for Large Plans**:
+- If the plan is large, Cursor will break it down into manageable tasks
+- Cursor will present the plan and ask for approval before proceeding
+- You can approve sections of the plan as Cursor progresses
+- Cursor will navigate through the plan systematically, asking questions when needed
 
-### 3. Build Core UX Flows
+> 📝 **Note**: Cursor is designed to handle large plans. Trust its process and provide guidance when asked. Don't try to micromanage the implementation order.
 
-**Implement Essential Flows**:
-- **Onboarding**: Signup/login flow
-- **Core Value**: Main user journey flow
-- **Success**: Completion and value delivery flow
+### 3. Test Throughout Development
 
-**Flow Implementation**:
-- Build flows step by step following the mockups
-- Connect screens with routing
-- Implement state management between screens
-- Ensure flows work end-to-end
-- Test each flow
+**Start Development Server**:
+- Use `npm run dev` to boot up the development environment
+- Test the application as Cursor builds features
+- Keep the dev server running throughout the development process
 
-> 📝 **Note**: Focus on functionality over polish. Match the mockup design but prioritize working features.
+**Iterative Testing**:
+- As Cursor builds features, test them in the browser
+- Navigate through the user journey as it's implemented
+- Verify that features work as expected
+- Check that the UI matches the mockups from Planning
 
-### 4. Integrate with Backend
+> 💡 **Tip**: Test frequently, not just at the end. Early testing helps catch issues before they compound.
 
-**Connect Frontend to Backend**:
-- API integration for data fetching
-- Connect to Firebase services (Auth, Firestore)
-- Integrate with AI baseline (if applicable)
-- Implement state management (Zustand)
-- Handle loading and error states
+### 4. Identify and Fix Issues
 
-**Integration Points**:
-- Authentication: Firebase Auth
-- Data: Cloud Firestore
-- AI Features: API calls to AI baseline
-- State: Zustand stores
+**When You Find Issues**:
+- As you test, you'll notice some features may not be built perfectly
+- Some experiences may not make sense
+- Components may not match the mockups exactly
+- Features may have bugs or edge cases not handled
 
-### 5. Test User Journey
+**Using Cursor Planning for Fixes**:
+- When you find issues, use Cursor's planning function in a new chat
+- Provide Cursor with a detailed list of issues and problems:
+  - What component or feature has the issue
+  - What the expected behavior is
+  - What the actual behavior is
+  - Any relevant context or screenshots
+- Allow Cursor to present a plan to fix, add, or enhance features
+- Review and approve the fix plan
+- Let Cursor implement the fixes
 
-**Testing**:
-- Test complete user journey end-to-end
-- Verify flows match the designed mockups
+**Example Issue Report for Cursor**:
+```
+I've found these issues while testing:
+1. Login form doesn't show validation errors
+2. Dashboard cards don't match the mockup layout
+3. AI insights generation is slow and needs loading state
+4. Export button doesn't work on mobile devices
+
+Please create a plan to fix these issues.
+```
+
+> 💡 **Tip**: Be specific about issues. The more detail you provide, the better Cursor can plan and fix them.
+
+### 5. Continue Iterative Refinement
+
+**Refinement Cycle**:
+1. Cursor builds features
+2. You test with `npm run dev`
+3. You identify issues or improvements
+4. You use Cursor planning to create a fix plan
+5. Cursor implements fixes
+6. You test again
+7. Repeat until satisfied
+
+**Continue Testing**:
+- Use `npm run dev` throughout the entire testing process
+- Test the complete user journey end-to-end
 - Test error cases and edge states
-- Verify backend integration works
-- Test with real data
+- Test with different data scenarios
+- Verify all features work together
 
-**User Testing**:
-- Test with real users (if possible)
-- Observe completion rate
-- Gather feedback on implementation
-- Identify issues and improvements
+**Refinement Criteria**:
+- Features work as expected
+- UI matches mockups (or improvements are acceptable)
+- User journey is smooth and intuitive
+- No critical bugs or broken features
+- Ready for private beta testing
+
+> 📝 **Note**: Don't aim for perfection. Focus on reaching a point of satisfaction for private beta. You can iterate further based on user feedback.
 
 ## Apply It Now
 
-**Task**: Build features based on designed mockups
+**Task**: Build features using Cursor collaboration
 
-1. Review mockups and implementation plan
-2. Implement UI components matching mockups
-3. Build core UX flows (onboarding, core value, success)
-4. Integrate with backend and AI baseline
-5. Test complete user journey
-6. Get user feedback and iterate
+1. Review and approve the Cursor implementation plan
+2. Click "Build" in Cursor to begin implementation
+3. Answer questions and provide approvals as Cursor builds
+4. Use `npm run dev` to test throughout development
+5. Document issues and problems as you find them
+6. Use Cursor planning function to fix issues
+7. Continue iterative testing and refinement
+8. Reach satisfaction point for private beta
 
-**Artifact**: Working frontend features with:
-- UI components matching mockups
+**Artifact**: Working features with:
 - Complete user journey implemented
-- Backend integration
-- User testing results
+- All features from PRD built
+- AI components integrated (if applicable)
+- UI matching mockups
+- Ready for private beta
 
 ## Artifacts
 
 You'll create:
-- UI components matching mockups
-- Implemented user journey
-- Backend integration
-- Frontend state management
-- User testing documentation
+- Working application with all features built
+- Complete user journey implemented
+- Backend integration (Firebase, AI, etc.)
+- Issue documentation and fixes
+- Test results and refinement notes
 
 ## Worked Example
 
-**Situation**: Implementing features for retrospective tool MVP
+**Situation**: Building features for retrospective tool MVP using Cursor
 
-**Implementation Process**:
-1. **Review Mockups**: Reviewed 10 mockup PNGs from Planning
-   - Authentication flow (3 screens)
-   - Primary journey: Create → Add → View → Export (5 screens)
-   - Dashboard (2 screens)
+**Building Process**:
+1. **Approved Plan**: Reviewed comprehensive Cursor plan covering all features and AI components
+   - Plan included 25 tasks with proper dependencies
+   - Cursor determined order of priority automatically
+   - Approved plan and clicked "Build"
 
-2. **Implement Components**: Built React components
-   - Authentication: LoginForm, SignupForm
-   - Core: CreateRetroForm, FeedbackList, InsightsView
-   - Navigation: Dashboard, ProjectTabs
-   - Matched mockup designs using Tailwind CSS
+2. **Cursor Building**: Cursor began scaffolding and building
+   - Cursor asked 3 questions about authentication flow
+   - Provided answers based on PRD
+   - Cursor built authentication, dashboard, and core features
+   - Cursor requested approval for AI integration approach - approved
 
-3. **Build Flows**: Implemented complete flows
-   - Signup → Login → Dashboard
-   - Create Retrospective → Add Feedback → View Insights → Export
-   - Connected with React Router
+3. **Testing**: Started `npm run dev` and tested as features were built
+   - Tested authentication flow - worked well
+   - Tested dashboard - layout didn't match mockup
+   - Tested core journey - AI insights were slow
+   - Found 5 issues total
 
-4. **Integrate Backend**: Connected to Firebase
-   - Firebase Auth for authentication
-   - Firestore for data storage
-   - AI baseline API for insights generation
+4. **Fixing Issues**: Used Cursor planning in new chat
+   - Provided detailed list of 5 issues
+   - Cursor created fix plan with 8 tasks
+   - Approved fix plan
+   - Cursor implemented fixes
+   - Tested again - 4 of 5 issues fixed
 
-5. **Test**: Tested complete journey
-   - 8 out of 10 users completed journey
-   - Average time: 5 minutes
-   - Feedback: "Matches design", "Easy to use"
-   - Issues: Export button needs improvement
+5. **Iterative Refinement**: Continued cycle
+   - Found 2 more minor issues
+   - Used Cursor planning again
+   - Cursor fixed remaining issues
+   - Tested complete journey - satisfied
 
-**Time**: Implementation took 10 days
+6. **Ready for Beta**: Reached satisfaction point
+   - All features working
+   - UI matches mockups
+   - User journey smooth
+   - Ready for private beta
+
+**Time**: Building took 12 days with iterative refinement
 
 ## Checklist
 
 Before proceeding to the next chapter, verify:
-- [ ] UI components implemented based on mockups
-- [ ] Core UX flows are working end-to-end
-- [ ] Backend integration is complete
-- [ ] User journey matches designed mockups
-- [ ] User journey is tested
-- [ ] User feedback is collected
+- [ ] Cursor implementation plan is approved
+- [ ] Cursor has built all features from the plan
+- [ ] You've tested with `npm run dev` throughout development
+- [ ] All issues have been identified and fixed
+- [ ] Complete user journey works end-to-end
+- [ ] Features are ready for private beta
+- [ ] You've reached a point of satisfaction
 
 ## Self-Assessment
 
-1. **Where was the user journey designed?**
-   - [ ] During implementation
-   - [ ] In the Setup chapter
-   - [ ] In UX Pilot during Planning ✓
-   - [ ] After deployment
+1. **When should you start testing?**
+   - [ ] After all features are built
+   - [ ] Throughout the development process ✓
+   - [ ] Only at the end
+   - [ ] Before starting to build
 
-2. **What should you focus on when implementing?** (Select all)
-   - [ ] Match mockup designs ✓
-   - [ ] Build working features ✓
-   - [ ] Perfect design
-   - [ ] All features
+2. **What should you do when you find issues?** (Select all)
+   - [ ] Fix them manually
+   - [ ] Use Cursor planning function to create a fix plan ✓
+   - [ ] Provide detailed list of issues to Cursor ✓
+   - [ ] Ignore them and move on
 
-3. **What should you test?** (Select all)
-   - [ ] Complete user journey ✓
-   - [ ] Error cases ✓
-   - [ ] Backend integration ✓
-   - [ ] Perfect design
+3. **How should you handle Cursor's questions during building?**
+   - [ ] Ignore them
+   - [ ] Answer based on PRD and mockups ✓
+   - [ ] Tell Cursor to figure it out
+   - [ ] Stop building
 
 ## Exit Criteria
 
 You're ready to proceed when:
-- [ ] UI components match mockups
-- [ ] Core UX flows are working
-- [ ] Backend integration is complete
-- [ ] User journey is tested with real users
-- [ ] Features are ready for deployment
+- [ ] All features from the Cursor plan are built
+- [ ] You've tested thoroughly with `npm run dev`
+- [ ] All identified issues have been fixed
+- [ ] Complete user journey works end-to-end
+- [ ] Features match mockups and PRD requirements
+- [ ] You've reached satisfaction point for private beta
 
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [05 — Planning](05-planning.md) - Mockups and designed journey
-- [06 — Setup](06-setup.md) - Implementation plan
-- [07 — AI Baseline](07-ai-baseline.md) - AI features (if applicable)
+- [05 — Planning](05-planning.md) - Mockups, PRD, and AI Baseline design
+- [06 — Setup](06-setup.md) - Comprehensive Cursor Plan approved
 
 ### Next Steps
-- Proceed to [09 — Deploy](09-deploy.md) to deploy MVP with quality & observability
+- Proceed to [09 — Deploy](09-deploy.md) to conduct QA and deploy MVP
 
 ### What This Enables
 
-Implemented features enable:
+Built features enable:
 - Complete user value demonstration
-- Real user testing
-- Learning about user behavior
-- Iteration and improvement
+- Private beta testing opportunity
+- Learning from real user feedback
+- Iteration and improvement based on usage
 
 ---
 
-> 💡 **Tip**: Keep mockups open as reference. Focus on matching the design while building working features.
-> 📝 **Note**: The journey design happened in Planning. Your job here is to implement it accurately.
-> ⚠️ **Warning**: Don't redesign during implementation. Stick to the mockups from Planning unless you discover critical issues.
-
+> 💡 **Tip**: Trust Cursor's plan and process. Your role is to guide, test, and provide feedback. Let Cursor do the heavy lifting.
+> 📝 **Note**: The order of priority was determined by Cursor in the planning phase. Follow Cursor's recommended plan and order.
+> ⚠️ **Warning**: Don't skip testing. Test frequently throughout development to catch issues early. Use `npm run dev` regularly.

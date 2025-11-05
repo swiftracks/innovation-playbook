@@ -13,11 +13,10 @@
 ## Learning Outcomes
 
 By the end of this section, you will be able to:
-1. Create a comprehensive plan (user stories, PRD, mockups)
+1. Create a comprehensive plan (user stories, PRD, mockups, AI Baseline design)
 2. Set up development environment and create implementation plan
-3. Build an AI baseline for core functionality
-4. Implement UI features based on designed mockups
-5. Deploy MVP to production with quality & observability
+3. Build features end-to-end using Cursor collaboration
+4. Conduct QA and deploy MVP to production with Firebase
 
 ## Jobs-to-Be-Done
 
@@ -36,13 +35,12 @@ By the end of this section, you will be able to:
 
 This section follows a systematic build process:
 
-1. **[05 — Planning](05-planning.md)**: Create user stories, PRD, and design mockups using UX Pilot
-2. **[06 — Setup](06-setup.md)**: Set up development environment, configure Cursor, and create implementation plan
-3. **[07 — AI Baseline](07-ai-baseline.md)**: Build core AI functionality
-4. **[08 — Build Features](08-build-features.md)**: Implement UI components based on designed mockups
-5. **[09 — Deploy](09-deploy.md)**: Deploy MVP to production with quality & observability
+1. **[05 — Planning](05-planning.md)**: Create user stories, PRD, design mockups using UX Pilot, and plan AI Baseline integration
+2. **[06 — Setup](06-setup.md)**: Set up development environment, configure Cursor, and create comprehensive implementation plan
+3. **[08 — Build Features](08-build-features.md)**: Build features end-to-end using Cursor collaboration following the approved plan
+4. **[09 — Deploy](09-deploy.md)**: Conduct QA, set up Firebase infrastructure, and deploy MVP to production
 
-> 💡 **Tip**: Planning must come first. After Setup, AI Baseline and Build Features can be done in parallel following the implementation plan.
+> 💡 **Tip**: Planning must come first. After Setup, proceed directly to Build Features where Cursor will build all features including AI components according to the approved plan.
 
 ## Apply It Now
 
@@ -67,25 +65,23 @@ This section follows a systematic build process:
 You'll create throughout this section:
 - User stories and PRD
 - UX mockups (designed journey)
+- AI Baseline plan/design
 - Development environment setup
-- Implementation plan
-- AI baseline implementation
-- UI features matching mockups
-- Quality and observability setup
-- Deployed MVP
+- Comprehensive Cursor implementation plan
+- Complete features built end-to-end
+- Deployed MVP with Firebase infrastructure
 
 ## Worked Example
 
 **Situation**: Building MVP for retrospective tool
 
 **Process**:
-1. **Planning**: Generated user stories, created PRD, designed mockups in UX Pilot
-2. **Setup**: Set up development environment, configured Cursor, created implementation plan
-3. **AI Baseline**: Built AI model for generating retrospective insights
-4. **Build Features**: Implemented UI components matching mockups, complete user journey
-5. **Deploy**: Deployed MVP with error tracking, logging, analytics, and monitoring
+1. **Planning**: Generated user stories, created PRD, designed mockups in UX Pilot, planned AI Baseline integration
+2. **Setup**: Set up development environment, configured Cursor, created comprehensive implementation plan
+3. **Build Features**: Collaborated with Cursor to build features end-to-end, tested iteratively, refined until ready
+4. **Deploy**: Conducted QA, set up Firebase infrastructure, deployed MVP to production
 
-**Time**: Planning: 1.5 days, Setup: 6 hours, Building: 2 weeks, Deploy: 1 day
+**Time**: Planning: 1.5 days, Setup: 6 hours, Building: 2 weeks, Deploy: 1.5 days
 
 ## Checklist
 
@@ -110,11 +106,11 @@ Before starting this section, verify:
    - [ ] In UX Pilot during Planning ✓
    - [ ] After deployment
 
-3. **Which chapters can be done in parallel after Setup?**
-   - [ ] Planning and Setup
-   - [ ] AI Baseline and Build Features ✓
-   - [ ] All chapters
-   - [ ] None
+3. **What happens after Setup?**
+   - [ ] Build Features directly ✓
+   - [ ] AI Baseline first
+   - [ ] Planning again
+   - [ ] Deploy immediately
 
 4. **What should you have before building?** (Select all)
    - [ ] Decision to build ✓
@@ -125,9 +121,9 @@ Before starting this section, verify:
 ## Exit Criteria
 
 You're ready to proceed to "Launch & Iterate" when:
-- [ ] You've completed all Build chapters (05-09)
+- [ ] You've completed all Build chapters (05-06, 08-09)
 - [ ] You have a working MVP (at least thin vertical)
-- [ ] You have quality and observability essentials
+- [ ] You have Firebase infrastructure set up
 - [ ] MVP is deployed and accessible
 
 ## Dependencies & Next Steps

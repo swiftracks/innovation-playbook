@@ -1,8 +1,8 @@
 # 05 — Planning
 
-**Purpose**: Create a comprehensive plan for your MVP including user stories, PRD, and visual mockups
+**Purpose**: Create a comprehensive plan for your MVP including user stories, PRD, visual mockups, and AI Baseline design
 
-**Outcome**: Have a complete plan (user stories, PRD, mockups) that guides implementation
+**Outcome**: Have a complete plan (user stories, PRD, mockups, AI Baseline design) that guides implementation
 
 **Audience**: PM / Dev / Both
 
@@ -16,13 +16,14 @@ By the end of this chapter, you will be able to:
 1. Generate and refine user stories using AI tools
 2. Create a comprehensive PRD using AI tools
 3. Design complete user journeys and create visual mockups using UX Pilot
-4. Export mockups ready for implementation planning
+4. Plan AI Baseline integration including service selection, model choice, and prompt design
+5. Export mockups ready for implementation planning
 
 ## Jobs-to-Be-Done
 
 - **When**: I have a decision to build and need to create a detailed plan
-- **I want**: To generate user stories, create a PRD, and design visual mockups
-- **So that**: I have a clear blueprint that guides implementation
+- **I want**: To generate user stories, create a PRD, design visual mockups, and plan AI Baseline integration
+- **So that**: I have a clear blueprint that guides implementation including AI components
 
 ## Inputs
 
@@ -116,6 +117,61 @@ Use UX Pilot to create visual mockups of your application. This is where you **d
 
 > 🎯 **Goal**: Create mockups that clearly communicate your vision. These will be used by Cursor to understand the UI structure during implementation.
 
+### 4. Plan AI Baseline Integration
+
+If your MVP includes AI functionality, plan the AI Baseline integration during the Planning phase. This ensures AI components are designed alongside the rest of your product architecture.
+
+**Process**:
+1. **Select AI Service**: Choose your AI provider
+   - **OpenAI**: GPT models, embeddings
+   - **Anthropic**: Claude models (recommended for this stack)
+   - **Custom**: Build your own (not recommended for MVP)
+2. **Choose Model**: Select appropriate model for MVP
+   - **Claude 3.5 Sonnet**: Best quality, balanced cost
+   - **Claude 3 Haiku**: Fast responses, lower cost
+   - **GPT-4**: Alternative option
+   - **GPT-3.5**: Lower cost option
+3. **Design AI Integration**: Define AI features and integration points
+   - What will AI do in your product?
+   - What inputs does it need?
+   - What outputs does it produce?
+   - How will users interact with AI features?
+   - Where in the user journey does AI add value?
+4. **Design Prompt Templates**: Create prompt structures for AI interactions
+   - System prompts that define AI behavior
+   - User prompt templates
+   - Response formatting requirements
+   - Error handling and fallbacks
+5. **Document API Requirements**: Define technical requirements
+   - API keys and authentication
+   - Rate limiting considerations
+   - Error handling strategy
+   - Response processing requirements
+6. **Include in PRD**: Ensure AI Baseline is documented in your PRD
+   - AI features in Functional Requirements
+   - AI integration points in User Journeys
+   - Acceptance criteria for AI features
+   - Technical requirements for AI integration
+
+**Example** (Retrospective Tool):
+- **AI Service**: Anthropic Claude 3.5 Sonnet
+- **Use Case**: Generate insights from retrospective feedback
+- **Input**: User feedback from retrospective session
+- **Output**: Structured insights with themes, action items, and recognition points
+- **Integration Point**: After user submits feedback, AI generates insights
+- **Prompt Design**: System prompt defines retrospective facilitator role, user prompt includes feedback data
+
+**Example Prompt Structure**:
+```
+System: You are a retrospective facilitator. Analyze feedback and provide structured insights.
+User: [Retrospective feedback data]
+Output Format: JSON with themes, action items, recognition
+```
+
+> 💡 **Tip**: Start simple with AI. You can enhance AI features later. Focus on core value delivery first.
+> 📝 **Note**: AI Baseline planning happens here in Planning. Implementation will follow in Build Features where Cursor will build the AI components as part of the comprehensive plan.
+> ⚠️ **Warning**: Don't skip AI planning if your product relies on AI. Proper planning ensures AI integration aligns with your product vision.
+
 ## Apply It Now
 
 **Task**: Complete planning for your MVP
@@ -127,11 +183,14 @@ Use UX Pilot to create visual mockups of your application. This is where you **d
 5. Create user flows and screens in UX Pilot
 6. Iterate on mockups
 7. Export all mockups to PNG
+8. Plan AI Baseline integration (if applicable)
+9. Document AI service, model, and prompt design
 
 **Artifacts**: You'll create:
 - Finalized user stories list
 - Comprehensive PRD document
 - UX Pilot mockups (PNG files for all screens)
+- AI Baseline plan/design (if applicable)
 
 ## Artifacts
 
@@ -139,6 +198,7 @@ You'll create:
 - User stories list (prioritized)
 - Product Requirements Document (PRD)
 - UX mockups (PNG files for all screens)
+- AI Baseline plan/design (if applicable)
 
 ## Worked Example
 
@@ -157,6 +217,11 @@ You'll create:
    - Primary user journey (5 screens)
    - Dashboard (2 screens)
    - Exported 10 PNG mockup files
+4. **AI Baseline Planning**: Planned AI integration
+   - Selected Anthropic Claude 3.5 Sonnet
+   - Designed prompt templates for insights generation
+   - Documented AI features in PRD
+   - Defined integration points in user journeys
 
 **Time**: Planning took 1.5 days total
 
@@ -168,6 +233,7 @@ Before proceeding to the next chapter, verify:
 - [ ] UX mockups created in UX Pilot
 - [ ] All mockups exported to PNG
 - [ ] Complete user journey designed and documented
+- [ ] AI Baseline planned and designed (if applicable)
 
 ## Self-Assessment
 
@@ -196,6 +262,7 @@ You're ready to proceed when:
 - [ ] PRD is complete and reviewed
 - [ ] All mockups are created and exported
 - [ ] Complete user journey is designed and documented
+- [ ] AI Baseline planning is complete (if applicable)
 
 ## Dependencies & Next Steps
 

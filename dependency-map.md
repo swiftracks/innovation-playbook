@@ -51,21 +51,16 @@ This map shows how chapters relate to each other and different learning paths th
 
 #### 06 — Setup
 - **Depends on**: 05 — Planning
-- **Enables**: 07 — AI Baseline, 08 — Build Features
+- **Enables**: 08 — Build Features
 - **Can be done in parallel with**: None
-
-#### 07 — AI Baseline
-- **Depends on**: 06 — Setup
-- **Enables**: 09 — Deploy
-- **Can be done in parallel with**: 08 — Build Features (after setup)
 
 #### 08 — Build Features
 - **Depends on**: 06 — Setup
 - **Enables**: 09 — Deploy
-- **Can be done in parallel with**: 07 — AI Baseline (after setup)
+- **Can be done in parallel with**: None
 
 #### 09 — Deploy
-- **Depends on**: 07 — AI Baseline OR 08 — Build Features
+- **Depends on**: 08 — Build Features
 - **Enables**: Launch & Iterate (all chapters)
 - **Can be done in parallel with**: None
 
@@ -139,7 +134,6 @@ This map shows how chapters relate to each other and different learning paths th
 ## Parallel Work Opportunities
 
 ### Can Work in Parallel
-- **06 — AI Baseline** and **07 — UX Thin Vertical** (after Setup)
 - **10 — Instrumentation** and **11 — Experiments** (after Private Beta)
 - **11 — Experiments** and **12 — Feedback Ops** (after Private Beta)
 
@@ -157,7 +151,7 @@ Decide What to Build
     ├─ 01 → 02 → 03 → 04 → 05 → 06
     ↓
 Build the MVP
-    ├─ 05 → [06, 07] → 08
+    ├─ 05 → 06 → 08 → 09
     ↓
 Launch & Iterate
     ├─ 09 → [10, 11] → 12
