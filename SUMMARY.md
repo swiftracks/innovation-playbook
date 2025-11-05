@@ -1,5 +1,6 @@
-# Summary
+# Table of contents
 
+* [Swift Racks - Innovation Playbook](README.md)
 * [Getting Started](GETTING-STARTED.md)
 * [Start Here](start-here/index.md)
   * [Cadence](start-here/cadence.md)
@@ -21,4 +22,3 @@
   * [10 — Instrumentation](launch/10-instrumentation.md)
   * [11 — Experiments](launch/11-experiments.md)
   * [12 — Feedback Ops](launch/12-feedback-ops.md)
-
