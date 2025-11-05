@@ -70,7 +70,7 @@ Each chapter includes goals, inputs, outputs, and templates you can drop into yo
 
 We're builders. Since 2017, we've partnered with startups and enterprises to launch products, modernize stacks, and unlock growth. We've shipped 100+ solutions and supported $200M+ in SaaS transactions, refining this system through real customer engagements and continuous iteration.
 
-**SwiftCNS** is our contribution to the craft: an AI-powered environment that turns this playbook into runnable workflows, helping teams coordinate experiments, generate artifacts, and maintain momentum from idea to impact.
+**SwiftCNS** is our contribution to the craft: an AI-powered innovation platform that turns this playbook into runnable workflows, helping teams coordinate experiments, generate artifacts, and maintain momentum from idea to impact.
 
 ## How SwiftCNS fits
 
