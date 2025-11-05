@@ -30,164 +30,81 @@ By the end of this chapter, you will be able to:
 - User stories, PRD, and mockups from [05 — Planning](05-planning.md)
 - GitLab or GitHub account for version control
 - Cursor IDE installed
-- Understanding of foundation tech stack
+- Understanding of foundation tech stack (see [06 — Setup: Implementation Planning](06-setup-implementation-planning.md))
 
-## Activities
+## Setup Workflow
 
-### 1. Create Git Repository
+Setup follows a sequential workflow with three main activities:
 
-Create a new GitLab or GitHub project for your MVP.
+1. **[Git & Cursor Setup](06-setup-git-cursor.md)**: Create Git repository and clone in Cursor IDE
+2. **[.cursorrules Configuration](06-setup-cursorrules.md)**: Configure development rules for rapid MVP development
+3. **[Implementation Planning](06-setup-implementation-planning.md)**: Use Cursor Plan Mode to generate and approve implementation plan
 
-**Steps**:
-1. Create a new repository in GitLab or GitHub
-2. Initialize with a README (optional)
-3. Note the repository URL
+> 💡 **Tip**: Follow the activities in order. Each builds on the previous one.
 
-> 💡 **Tip**: Choose a repository name that reflects your MVP. Keep it simple and descriptive.
+## Activities Overview
 
-### 2. Clone Repository in Cursor
+### 1. Git & Cursor Setup
 
-Open Cursor and clone your Git repository.
+**Purpose**: Create Git repository and clone it in Cursor IDE
 
-**Steps**:
-1. Open Cursor IDE
-2. Use File → Open Folder or Clone Repository
-3. Enter your Git repository URL
-4. Clone the repository to your local machine
-5. Open the cloned folder in Cursor
+**Key Steps**:
+- Create a new repository in GitLab or GitHub
+- Clone the repository in Cursor
+- Verify the setup is correct
 
-### 3. Set Up .cursorrules
+**Time**: 15-30 minutes
 
-Create a `.cursorrules` file in your project root with strong rules for rapid MVP development.
+**Detailed Guide**: [06 — Setup: Git & Cursor](06-setup-git-cursor.md)
 
-**Process**:
-1. Create a `.cursorrules` file in the project root
-2. Use the [.cursorrules template](05-setup-cursorrules-template.md) as a starting point
-3. Customize rules based on your specific needs
-4. Include rules for:
-   - Code quality standards
-   - TypeScript best practices
-   - React patterns
-   - Component organization
-   - Error handling
-   - Testing considerations
-   - MVP-specific guidelines
+### 2. .cursorrules Configuration
 
-> ⚠️ **Warning**: Strong `.cursorrules` help Cursor generate better code. Don't skip this step - it significantly improves code quality and consistency.
+**Purpose**: Configure `.cursorrules` file with development rules for rapid MVP development
 
-### 4. Use Cursor Plan Mode
+**Key Steps**:
+- Review the `.cursorrules` template
+- Create `.cursorrules` file in project root
+- Customize rules based on your specific needs
+- Test configuration with Cursor
 
-Use Cursor's plan mode to generate an implementation plan based on your PRD and mockups.
+**Time**: 30-60 minutes
 
-**Process**:
-1. In Cursor, select "Plan Mode" (or equivalent planning feature)
-2. Provide your PRD document
-3. Upload all mockup PNG files
-4. Specify your foundation tech stack (see Tech Stack section below)
-5. Request an implementation plan that breaks down the work into manageable tasks
+**Detailed Guide**: [06 — Setup: .cursorrules](06-setup-cursorrules.md)
 
-**Example Request**:
-```
-I'm building an MVP using this PRD: [PRD content]
-Mockups: [upload all PNG files]
-Tech Stack: [list tech stack]
-Generate a comprehensive implementation plan that breaks down the work into 
-logical phases and tasks. Prioritize core MVP features first.
-```
+### 3. Implementation Planning
 
-**Tech Stack to Specify**:
-- Core Framework: React 19, TypeScript 5.9.3, Vite 7.7
-- Routing & State: React Router DOM 7.4, Zustand 5.8
-- UI & Styling: Tailwind CSS 3.3.6, Radix UI (Dialog, Dropdown Menu, Select, Label, Slot, Tabs, Toast), Lucide React 0.546, Heroicons React 2.0
-- Utilities: class-variance-authority, clsx
-- Backend: Firebase 12.4.0 (Authentication, Cloud Firestore, Firebase Hosting)
-- AI Integration: Anthropic SDK 0.67.0 (Claude API)
-- Monitoring: LogRocket 10.1.0
-- Development Tools: PostCSS, Autoprefixer, ESBuild
+**Purpose**: Use Cursor Plan Mode to generate and approve an implementation plan
 
-> 📝 **Note**: Review Cursor's plan carefully. Ensure it aligns with your PRD and covers all MVP features. Adjust the plan if needed before proceeding.
+**Key Steps**:
+- Prepare PRD, mockups, and tech stack
+- Use Cursor Plan Mode to generate implementation plan
+- Review and refine the plan
+- Approve the plan for building
 
-### 5. Review and Approve Implementation Plan
+**Time**: 1-2 hours
 
-Review Cursor's generated implementation plan.
-
-**Review Checklist**:
-- [ ] Plan covers all PRD features
-- [ ] Tasks are logically sequenced
-- [ ] Plan follows MVP scope (not over-engineering)
-- [ ] Dependencies are identified
-- [ ] Plan aligns with mockups
-
-**If Plan Needs Adjustment**:
-- Provide feedback to Cursor about what to change
-- Request revisions to the plan
-- Iterate until satisfied
-
-## Foundation Tech Stack
-
-This tech stack is optimized for rapid MVP development as of November 2024:
-
-### Core Framework & Language
-
-- **React 19** - UI framework with latest features
-- **TypeScript 5.9.3** - Type safety (strict mode)
-- **Vite 7.7** - Fast build tool and dev server
-
-### Routing & State Management
-
-- **React Router DOM 7.4** - Client-side routing
-- **Zustand 5.8** - Lightweight state management
-
-### UI & Styling
-
-- **Tailwind CSS 3.3.6** - Utility-first CSS framework
-- **Radix UI** - Headless, accessible components:
-  - Dialog
-  - Dropdown Menu
-  - Select
-  - Label
-  - Slot
-  - Tabs
-  - Toast
-- **Lucide React 0.546** - Icon library
-- **Heroicons React 2.0** - Icon library
-- **class-variance-authority** & **clsx** - ClassName utilities
-
-### Backend & Database
-
-- **Firebase 12.4.0**:
-  - Authentication
-  - Cloud Firestore (database)
-  - Firebase Hosting (deployment)
-
-### AI Integration
-
-- **Anthropic SDK 0.67.0** - Claude API integration
-
-### Monitoring & Observability
-
-- **LogRocket 10.1.0** - Production monitoring and session replay
-
-### Development Tools
-
-- **PostCSS** & **Autoprefixer** - CSS processing
-- **ESBuild** - Bundling and minification
-
-### Deployment
-
-- **Firebase Hosting** - Static site hosting with SPA routing support
-
-> 📝 **Note**: This is a modern React/TypeScript stack using Firebase for backend services and Vite for development and building. The stack is optimized for rapid MVP development while maintaining code quality.
+**Detailed Guide**: [06 — Setup: Implementation Planning](06-setup-implementation-planning.md)
 
 ## Apply It Now
 
 **Task**: Set up development environment and create implementation plan
 
-1. Create GitLab or GitHub repository
-2. Clone repository in Cursor
-3. Set up `.cursorrules` file with development rules
-4. Use Cursor plan mode with PRD, mockups, and tech stack
-5. Review and approve implementation plan
+Follow the sequential workflow:
+
+1. **Git & Cursor Setup**: Complete [06 — Setup: Git & Cursor](06-setup-git-cursor.md)
+   - Create GitLab or GitHub repository
+   - Clone repository in Cursor
+   - Verify setup
+
+2. **.cursorrules Configuration**: Complete [06 — Setup: .cursorrules](06-setup-cursorrules.md)
+   - Review template
+   - Create and customize `.cursorrules` file
+   - Test configuration
+
+3. **Implementation Planning**: Complete [06 — Setup: Implementation Planning](06-setup-implementation-planning.md)
+   - Prepare PRD, mockups, and tech stack
+   - Use Cursor Plan Mode
+   - Review and approve implementation plan
 
 **Artifacts**: You'll create:
 - Git repository with `.cursorrules`
@@ -196,7 +113,7 @@ This tech stack is optimized for rapid MVP development as of November 2024:
 
 ## Artifacts
 
-You'll create:
+You'll create throughout setup:
 - Git repository configuration
 - `.cursorrules` file
 - Cursor implementation plan
@@ -207,46 +124,69 @@ You'll create:
 **Situation**: Setting up for a B2B AI SaaS MVP
 
 **Setup Process**:
-1. **Git Repository**: Created GitHub repository `mvp-product-name`
-2. **Cursor Setup**: Cloned repository in Cursor
-3. **.cursorrules**: Created `.cursorrules` with rules for:
+1. **Git & Cursor Setup** ([06 — Setup: Git & Cursor](06-setup-git-cursor.md)): Created GitHub repository `mvp-product-name`
+   - Cloned repository in Cursor
+   - Verified setup
+   - Time: 15 minutes
+
+2. **.cursorrules Configuration** ([06 — Setup: .cursorrules](06-setup-cursorrules.md)): Created `.cursorrules` with rules for:
    - TypeScript strict mode
    - React best practices
    - Component organization
    - Error handling standards
    - MVP-specific guidelines
-4. **Cursor Plan Mode**: Provided PRD, 10 mockup PNGs, and tech stack
+   - Customized for retrospective tool
+   - Time: 45 minutes
+
+3. **Implementation Planning** ([06 — Setup: Implementation Planning](06-setup-implementation-planning.md)): Provided PRD, 10 mockup PNGs, and tech stack
    - Cursor generated 15-task implementation plan
    - Reviewed and approved plan (1 adjustment requested)
-5. **Ready to Build**: Project structure ready for implementation
+   - Time: 1.5 hours
 
-**Time**: Setup took 6 hours
+**Time**: Setup took 2.5 hours total
 
 ## Checklist
 
 Before proceeding to the next chapter, verify:
+
+**Git & Cursor Setup** ([06 — Setup: Git & Cursor](06-setup-git-cursor.md)):
 - [ ] Git repository created
 - [ ] Repository cloned in Cursor
-- [ ] `.cursorrules` file created and customized
-- [ ] Cursor plan mode used with PRD and mockups
-- [ ] Implementation plan reviewed and approved
-- [ ] Initial project structure ready
+- [ ] Setup verified
+
+**.cursorrules Configuration** ([06 — Setup: .cursorrules](06-setup-cursorrules.md)):
+- [ ] `.cursorrules` file created in project root
+- [ ] Rules customized for your MVP
+- [ ] Configuration tested with Cursor
+- [ ] File committed to repository
+
+**Implementation Planning** ([06 — Setup: Implementation Planning](06-setup-implementation-planning.md)):
+- [ ] Cursor Plan Mode used with PRD and mockups
+- [ ] Implementation plan generated
+- [ ] Plan reviewed and approved
+- [ ] Plan documented and saved
 
 ## Self-Assessment
 
-1. **When should you set up `.cursorrules`?**
+1. **What should you do first in the setup phase?**
+   - [ ] Configure `.cursorrules`
+   - [ ] Create Git repository and clone in Cursor ✓
+   - [ ] Generate implementation plan
+   - [ ] Start building features
+
+2. **When should you set up `.cursorrules`?**
    - [ ] After building the first feature
-   - [ ] Before using Cursor plan mode ✓
+   - [ ] Before using Cursor Plan Mode ✓
    - [ ] After deployment
    - [ ] It's optional
 
-2. **What should you provide to Cursor plan mode?** (Select all)
+3. **What should you provide to Cursor Plan Mode?** (Select all)
    - [ ] PRD document ✓
    - [ ] All mockup PNG files ✓
    - [ ] Tech stack specification ✓
    - [ ] Complete codebase
 
-3. **What should you review in the implementation plan?** (Select all)
+4. **What should you review in the implementation plan?** (Select all)
    - [ ] Plan covers all PRD features ✓
    - [ ] Tasks are logically sequenced ✓
    - [ ] Plan follows MVP scope ✓
@@ -254,7 +194,7 @@ Before proceeding to the next chapter, verify:
 
 ## Exit Criteria
 
-You're ready to proceed when:
+You're ready to proceed to [08 — Build Features](08-build-features.md) when:
 - [ ] Git repository is set up and cloned
 - [ ] `.cursorrules` file is configured
 - [ ] Cursor implementation plan is approved
@@ -266,7 +206,13 @@ You're ready to proceed when:
 - [05 — Planning](05-planning.md) - User stories, PRD, and mockups complete
 
 ### Next Steps
-- Proceed to [08 — Build Features](08-build-features.md) to build features end-to-end using Cursor collaboration
+
+Follow the sequential workflow:
+
+1. **Start with**: [06 — Setup: Git & Cursor](06-setup-git-cursor.md) - Create Git repository and clone in Cursor
+2. **Then**: [06 — Setup: .cursorrules](06-setup-cursorrules.md) - Configure development rules
+3. **Then**: [06 — Setup: Implementation Planning](06-setup-implementation-planning.md) - Generate and approve implementation plan
+4. **Finally**: Proceed to [08 — Build Features](08-build-features.md) - Build features end-to-end using Cursor collaboration
 
 ### What This Enables
 
@@ -278,11 +224,13 @@ Completing setup enables:
 
 ### Related Resources
 
+- [06 — Setup: Git & Cursor](06-setup-git-cursor.md) - Detailed Git and Cursor setup guide
+- [06 — Setup: .cursorrules](06-setup-cursorrules.md) - Detailed `.cursorrules` configuration guide
+- [06 — Setup: Implementation Planning](06-setup-implementation-planning.md) - Detailed implementation planning guide
 - [.cursorrules Template](05-setup-cursorrules-template.md) - Template for Cursor development rules
 
 ---
 
 > 💡 **Tip**: The `.cursorrules` file is critical for maintaining code quality. Take time to customize it for your needs.
 > 📝 **Note**: Review Cursor's implementation plan carefully. A good plan will save significant time during development.
-> ⚠️ **Warning**: Don't skip the implementation plan review. Ensure it aligns with your PRD and MVP scope.
-
+> ⚠️ **Warning**: Don't skip the implementation plan review. Ensure it aligns with your PRD and MVP scope before proceeding to building.
