@@ -1,6 +1,6 @@
 # Table of contents
 
-* [README](README.md)
+* [Swift Racks - Innovation Playbook](README.md)
 * [Getting Started](GETTING-STARTED.md)
 * [Start Here](start-here/index.md)
   * [Cadence](start-here/cadence.md)
