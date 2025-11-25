@@ -69,6 +69,51 @@ Familiarize yourself with:
 - [Glossary](../glossary.md) - Key terms and definitions
 - [Dependency Map](../dependency-map.md) - Chapter relationships
 
+## Tool Prerequisites
+
+This guide uses specific tools throughout. Here's a heads up about what you'll need:
+
+**For "Decide What to Build" section:**
+- **Swift CNS** - AI-powered validation platform for experiments, learning cards, and insights
+  - Access at [app.swiftcns.ai](https://app.swiftcns.ai)
+  - Used in all Decide chapters (01-06)
+
+**For "Build the MVP" section:**
+- **UX Pilot** - Mockup generation tool for visual design
+  - Used in Planning chapter (05)
+- **Cursor** - AI-powered IDE for collaborative development
+  - Used in Setup (06) and Build Features (08) chapters
+- **Firebase** - Backend infrastructure for hosting, authentication, and functions
+  - Used in Deploy chapter (09)
+
+> 💡 **Tip**: You don't need all tools upfront. Set them up as you reach each section. See [Assets](assets.md) for detailed setup instructions.
+
+## Workflow Overviews
+
+### Decide What to Build Workflow
+
+The Decide section uses **Swift CNS** to guide you through validation:
+
+1. **Start New Chat** - Begin AI-guided conversation about your idea in Swift CNS
+2. **Idea Analysis** - Swift CNS AI analyzes your idea and asks clarifying questions
+3. **Assumptions Mapping** - AI helps identify critical assumptions that must be true
+4. **Experiment Design** - AI guides you to create structured experiments
+5. **Learning Cards** - Document insights and learnings from experiments in Swift CNS
+6. **Insights** - View aggregated insights in Swift CNS to make go/no-go decisions
+
+All validation work happens within Swift CNS, providing a systematic, AI-guided approach to decision-making.
+
+### Build the MVP Workflow
+
+The Build section combines multiple tools for efficient MVP development:
+
+1. **Planning** - Use UX Pilot to generate visual mockups of your complete user journey
+2. **Setup** - Configure Cursor IDE with `.cursorrules` and use Cursor's plan mode to generate implementation plans
+3. **Build Features** - Collaborate with Cursor AI to build features end-to-end following the approved plan
+4. **Deploy** - Set up Firebase infrastructure (Authentication, Hosting, Functions) and deploy your MVP
+
+The workflow leverages AI collaboration (Cursor) and visual design (UX Pilot) to build efficiently, then deploys to Firebase for production.
+
 ## Apply It Now
 
 **Task**: Map your current situation to the guide structure

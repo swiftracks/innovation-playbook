@@ -1,8 +1,8 @@
 # Assets
 
-**Purpose**: Identify and organize available resources for innovation work
+**Purpose**: Understand the tools used in this guide and how to access them
 
-**Outcome**: Understand what tools, templates, and resources are available
+**Outcome**: Know what tools you'll need, when you'll use them, and how to set them up
 
 **Audience**: PM / Dev / Both
 
@@ -13,187 +13,216 @@
 ## Learning Outcomes
 
 By the end of this chapter, you will be able to:
-1. Identify available templates and tools
-2. Access worked examples for each chapter
-3. Understand where to find reusable assets
-4. Organize project-specific assets
-5. Create custom assets based on templates
+1. Identify the tools used in each section of the guide
+2. Understand when each tool is used and for what purpose
+3. Access and set up each tool as needed
+4. Know the prerequisites for each tool
 
 ## Jobs-to-Be-Done
 
 - **When**: I'm starting a new innovation project
-- **I want**: To know what resources are available
-- **So that**: I can work efficiently without recreating materials
+- **I want**: To know what tools I'll need and how to access them
+- **So that**: I can set them up before I reach the relevant chapters
 
 ## Inputs
 
-- Project requirements
-- Team preferences for tools
-- Existing organizational assets (if any)
+- Understanding of which section you'll be working in (Decide, Build, or Launch)
+- Basic familiarity with the tools mentioned
 
 ## Activities
 
-### 1. Review Guide Assets
+This guide uses specific tools throughout. Here's what you need to know about each:
 
-Each chapter provides:
+## Tools for Decide Section
 
-**Templates**
-- Located in chapter folders as `template.md`
-- Reusable structures for common artifacts
-- Copy and customize for your needs
+### Swift CNS
 
-**Examples**
-- Located in chapter folders as `example.md`
-- Worked examples showing completed artifacts
-- Reference for format and content
+**What it's used for:**
+- AI-guided validation of product ideas
+- Creating and managing experiments
+- Documenting learnings in Learning Cards
+- Synthesizing insights for decision-making
 
-**Checklists**
-- Located in chapter folders as `checklist.md`
-- Quick reference for verification
-- Use to ensure completeness
+**When it's used:**
+- All chapters in "Decide What to Build" section (01-06)
+- Primary tool for the entire validation process
 
-**Self-Assessments**
-- Located in chapter folders as `self-assessment.md`
-- Quizzes and reflection questions
-- Verify understanding before proceeding
+**How to access:**
+- Sign up at [app.swiftcns.ai](https://app.swiftcns.ai)
+- Create a new project or use an existing one
+- Start a new chat to begin the validation process
 
-### 2. Identify Required Tools
+**Prerequisites:**
+- Google account for sign-in
+- Initial idea or problem hypothesis to validate
 
-**For Product Managers:**
-- Documentation tools (Notion, Confluence, Google Docs)
-- Design tools (Figma, Sketch) for mockups
-- Analytics tools (Google Analytics, Mixpanel)
-- User research tools (UserTesting, Dovetail)
+**Setup:**
+1. Visit [app.swiftcns.ai](https://app.swiftcns.ai)
+2. Sign in with your Google account
+3. Create a new project (or select existing)
+4. You're ready to start with [01 — Idea / Problem](decide/01-idea-problem.md)
 
-**For Developers:**
-- Code editor and development environment
-- Version control (Git)
-- Testing frameworks
-- Deployment tools
-- Monitoring and observability tools
+> 💡 **Tip**: All validation work happens within Swift CNS. You'll use chat, experiments, learning cards, and insights features throughout the Decide section.
 
-**For Both:**
-- Collaboration tools (Slack, Teams)
-- Project management (Jira, Linear, Trello)
-- Experimentation platforms (if applicable)
+## Tools for Build Section
 
-### 3. Set Up Asset Organization
+### UX Pilot
 
-Create a structure for your project assets:
+**What it's used for:**
+- Generating visual mockups of complete user journeys
+- Creating design mockups for MVP planning
 
-```
-project-assets/
-├── templates/
-│   ├── prd-template.md
-│   ├── hypothesis-template.md
-│   └── experiment-plan-template.md
-├── examples/
-│   ├── prd-example.md
-│   └── hypothesis-example.md
-├── artifacts/
-│   ├── prds/
-│   ├── experiments/
-│   └── learnings/
-└── resources/
-    ├── user-research/
-    └── market-data/
-```
+**When it's used:**
+- [05 — Planning](build/05-planning.md) chapter
+- Specifically in the mockup design phase
 
-### 4. Customize Templates
+**How to access:**
+- Access UX Pilot through the Planning chapter instructions
+- Follow the chapter-specific setup steps
 
-For each chapter:
-1. Copy the template from the chapter folder
-2. Customize for your project context
-3. Save in your project assets folder
-4. Share with team members
+**Prerequisites:**
+- Access to UX Pilot (check chapter for current access method)
+- User stories and PRD from earlier in Planning chapter
+
+**Setup:**
+- Follow the instructions in [05 — Planning: Design Mockups](build/05-planning-mockups.md)
+- Setup is done as part of the Planning workflow
+
+> 💡 **Tip**: UX Pilot is used specifically for mockup generation during Planning. You'll export mockups for use in implementation planning.
+
+### Cursor
+
+**What it's used for:**
+- AI-powered collaborative development
+- Generating implementation plans using plan mode
+- Building features end-to-end with AI assistance
+- Configuring development rules via `.cursorrules`
+
+**When it's used:**
+- [06 — Setup](build/06-setup.md) chapter - Git setup, `.cursorrules` configuration, and implementation planning
+- [08 — Build Features](build/08-build-features.md) chapter - Building features collaboratively
+
+**How to access:**
+- Download and install Cursor IDE from [cursor.sh](https://cursor.sh)
+- Sign up for a Cursor account if required
+
+**Prerequisites:**
+- Cursor IDE installed
+- Git repository (created in Setup chapter)
+- Approved implementation plan (generated in Setup chapter)
+
+**Setup:**
+1. Install Cursor IDE from [cursor.sh](https://cursor.sh)
+2. Follow [06 — Setup: Git & Cursor](build/06-setup-git-cursor.md) to clone your repository
+3. Configure `.cursorrules` as described in [06 — Setup: .cursorrules](build/06-setup-cursorrules.md)
+4. Use Cursor's plan mode to generate implementation plan in [06 — Setup: Implementation Planning](build/06-setup-implementation-planning.md)
+
+> 💡 **Tip**: Cursor is your primary development tool for the Build section. You'll collaborate with Cursor AI throughout Setup and Build Features chapters.
+
+### Firebase
+
+**What it's used for:**
+- Hosting your MVP application
+- Authentication for user management
+- Cloud Functions for backend logic
+- Infrastructure for production deployment
+
+**When it's used:**
+- [09 — Deploy](build/09-deploy.md) chapter
+- Final step before MVP is live
+
+**How to access:**
+- Sign up at [firebase.google.com](https://firebase.google.com)
+- Create a new Firebase project
+- Access Firebase Console for configuration
+
+**Prerequisites:**
+- Google account
+- Working MVP features ready for deployment
+- Completed QA testing
+
+**Setup:**
+1. Sign up at [firebase.google.com](https://firebase.google.com)
+2. Create a new Firebase project
+3. Follow [09 — Deploy](build/09-deploy.md) for detailed setup instructions
+4. Configure Authentication, Hosting, and Functions as needed
+
+> 💡 **Tip**: Firebase setup happens during the Deploy chapter. You'll configure all services as part of the deployment process.
 
 ## Apply It Now
 
-**Task**: Set up your project asset structure
+**Task**: Identify which tools you'll need for your chosen path
 
-1. Create a folder structure for your project assets
-2. Copy relevant templates from chapter folders
-3. Set up folders for:
-   - Templates you'll use
-   - Examples for reference
-   - Artifacts you'll create
-   - Resources you'll gather
-4. Document tool access and setup requirements
+1. If starting with "Decide What to Build":
+   - [ ] Set up Swift CNS account at [app.swiftcns.ai](https://app.swiftcns.ai)
+   - [ ] Create a project in Swift CNS
+   - [ ] Ready to proceed to [01 — Idea / Problem](decide/01-idea-problem.md)
 
-**Artifact**: A project asset structure with initial templates copied
+2. If starting with "Build the MVP":
+   - [ ] Install Cursor IDE from [cursor.sh](https://cursor.sh)
+   - [ ] Set up Firebase account at [firebase.google.com](https://firebase.google.com)
+   - [ ] Note: UX Pilot access will be set up during Planning chapter
+   - [ ] Ready to proceed to [05 — Planning](build/05-planning.md)
+
+**Artifact**: A checklist of tools you've set up and which ones you'll need later
 
 ## Artifacts
 
 You'll create:
-- Project asset folder structure
-- Customized templates
-- Tool inventory
-- Asset organization documentation
+- Tool access accounts (Swift CNS, Firebase)
+- Installed tools (Cursor IDE)
+- Understanding of when each tool is used
 
 ## Worked Example
 
-**Situation**: Setting up assets for a new product validation project
+**Situation**: Starting with "Decide What to Build" section
 
-**Asset Structure**:
-```
-my-product-assets/
-├── templates/
-│   ├── problem-statement-template.md (from decide/01-idea-problem/)
-│   ├── hypothesis-template.md (from decide/03-form-testable-hypotheses/)
-│   └── experiment-plan-template.md (from decide/04-design-run-experiments/)
-├── artifacts/
-│   ├── problem-statements/
-│   ├── hypotheses/
-│   └── experiments/
-└── resources/
-    ├── user-interviews/
-    └── market-research/
-```
+**Tool Setup**:
+- ✅ Swift CNS account created at [app.swiftcns.ai](https://app.swiftcns.ai)
+- ✅ Project created in Swift CNS
+- ⏳ Cursor IDE - will install when reaching Build section
+- ⏳ Firebase - will set up when reaching Deploy chapter
+- ⏳ UX Pilot - will access during Planning chapter
 
-**Tools Setup**:
-- ✅ Notion for documentation
-- ✅ Figma for mockups
-- ✅ Google Analytics for tracking
-- ✅ UserTesting for user research
-- ⏳ Need to set up: Experiment tracking tool
+**Next Steps**:
+- Proceed to [01 — Idea / Problem](decide/01-idea-problem.md) to start validation in Swift CNS
 
 ## Checklist
 
 Before proceeding, verify:
-- [ ] I've reviewed available templates in chapter folders
-- [ ] I've identified required tools for my role
-- [ ] I've created a project asset structure
-- [ ] I've copied relevant templates
-- [ ] I've documented tool access and setup
-- [ ] I've shared asset structure with team
+- [ ] I understand which tools are used in each section
+- [ ] I've set up tools needed for my chosen path
+- [ ] I know when I'll need additional tools
+- [ ] I've created accounts for tools I'll use (Swift CNS, Firebase)
+- [ ] I've installed tools I'll use (Cursor IDE)
 
 ## Self-Assessment
 
-1. **Where are chapter templates located?**
-   - [ ] In the root folder
-   - [ ] In each chapter folder as `template.md` ✓
-   - [ ] In a central templates folder
+1. **Which tool is used throughout the entire Decide section?**
+   - [ ] UX Pilot
+   - [ ] Cursor
+   - [ ] Swift CNS ✓
+   - [ ] Firebase
 
-2. **What should you do with templates?** (Select all)
-   - [ ] Copy them ✓
-   - [ ] Customize for your project ✓
-   - [ ] Save in your project assets ✓
-   - [ ] Use as-is without changes
+2. **When is Firebase set up?**
+   - [ ] During Planning
+   - [ ] During Setup
+   - [ ] During Build Features
+   - [ ] During Deploy ✓
 
-3. **What assets does each chapter provide?** (Select all)
-   - [ ] Templates ✓
-   - [ ] Examples ✓
-   - [ ] Checklists ✓
-   - [ ] Self-Assessments ✓
+3. **Which tool is used for both Setup and Build Features chapters?**
+   - [ ] Swift CNS
+   - [ ] UX Pilot
+   - [ ] Cursor ✓
+   - [ ] Firebase
 
 ## Exit Criteria
 
 You're ready to proceed when:
-- [ ] You've reviewed available assets
-- [ ] You've set up your project asset structure
-- [ ] You've copied relevant templates
-- [ ] You've identified required tools
-- [ ] You've documented your asset organization
+- [ ] You understand which tools are used in each section
+- [ ] You've set up tools needed for your chosen path
+- [ ] You know when you'll need additional tools
+- [ ] You've documented tool access and setup
 
 ## Dependencies & Next Steps
 
@@ -202,18 +231,18 @@ You're ready to proceed when:
 
 ### Next Steps
 - Review [Cadence](cadence.md) to establish work rhythm
-- Proceed to [Decide What to Build](decide/index.md) to start validation
-- Proceed to [Build the MVP](build/index.md) if ready to build
+- Proceed to [Decide What to Build](decide/index.md) if using Swift CNS
+- Proceed to [Build the MVP](build/index.md) if using Cursor, UX Pilot, and Firebase
 
 ### What This Enables
 
-Organized assets enable:
-- Efficient work without recreating materials
-- Consistent artifact formats
-- Easy reference to examples
-- Team collaboration and sharing
+Understanding the tools enables:
+- Proper preparation before starting each section
+- Efficient setup when you reach relevant chapters
+- Clear expectations about what you'll be working with
+- Smooth workflow through the guide
 
 ---
 
-> 💡 **Tip**: Keep templates updated as you learn what works best for your team
-> 📝 **Note**: Asset structure should evolve as your project progresses
+> 💡 **Tip**: You don't need all tools upfront. Set them up as you reach each section.
+> 📝 **Note**: Tool access methods may change. Always check the relevant chapter for current setup instructions.
