@@ -13,6 +13,7 @@
 ## Learning Outcomes
 
 By the end of this section, you will be able to:
+
 1. Navigate the guide structure and find relevant chapters
 2. Understand the Jobs-to-Be-Done framework used throughout
 3. Identify which learning path fits your current situation
@@ -21,13 +22,13 @@ By the end of this section, you will be able to:
 
 ## Jobs-to-Be-Done
 
-- **When**: I'm starting a new product innovation project
-- **I want**: To understand how to use this guide effectively
-- **So that**: I can validate ideas and build products systematically
+* **When**: I'm starting a new product innovation project
+* **I want**: To understand how to use this guide effectively
+* **So that**: I can validate ideas and build products systematically
 
 ## Inputs
 
-- None required - this is your entry point
+* None required - this is your entry point
 
 ## Activities
 
@@ -43,48 +44,52 @@ This guide follows a systematic approach:
 
 Review the [Dependency Map](../dependency-map.md) to find your path:
 
-- **Validating an idea?** → Start with "Decide What to Build"
-- **Ready to build?** → Start with "Build the MVP"
-- **Have an MVP?** → Start with "Launch & Iterate"
+* **Validating an idea?** → Start with "Decide What to Build"
+* **Ready to build?** → Start with "Build the MVP"
+* **Have an MVP?** → Start with "Launch & Iterate"
 
 ### 3. Understand Chapter Structure
 
 Every chapter includes:
-- **Learning Outcomes** - What you'll achieve
-- **Jobs-to-Be-Done** - Context for when to use it
-- **Inputs** - What you need before starting
-- **Activities** - Step-by-step guidance
-- **Apply It Now** - Interactive task
-- **Artifacts** - What you'll create
-- **Templates** - Reusable structures
-- **Examples** - Worked examples
-- **Checklist** - Quick reference
-- **Self-Assessment** - Verify understanding
+
+* **Learning Outcomes** - What you'll achieve
+* **Jobs-to-Be-Done** - Context for when to use it
+* **Inputs** - What you need before starting
+* **Activities** - Step-by-step guidance
+* **Apply It Now** - Interactive task
+* **Artifacts** - What you'll create
+* **Templates** - Reusable structures
+* **Examples** - Worked examples
+* **Checklist** - Quick reference
+* **Self-Assessment** - Verify understanding
 
 ### 4. Review Resources
 
 Familiarize yourself with:
-- [Getting Started](../GETTING-STARTED.md) - How to use this guide and learning paths
-- [Style Guide](../style-guide.md) - How content is formatted
-- [Glossary](../glossary.md) - Key terms and definitions
-- [Dependency Map](../dependency-map.md) - Chapter relationships
+
+* [Getting Started](../GETTING-STARTED.md) - How to use this guide and learning paths
+* [Style Guide](/broken/pages/eQPCw2dkrAu2IfAAE7W1) - How content is formatted
+* [Glossary](../glossary.md) - Key terms and definitions
+* [Dependency Map](../dependency-map.md) - Chapter relationships
 
 ## Tool Prerequisites
 
 This guide uses specific tools throughout. Here's a heads up about what you'll need:
 
 **For "Decide What to Build" section:**
-- **Swift CNS** - AI-powered validation platform for experiments, learning cards, and insights
-  - Access at [app.swiftcns.ai](https://app.swiftcns.ai)
-  - Used in all Decide chapters (01-06)
+
+* **Swift CNS** - AI-powered validation platform for experiments, learning cards, and insights
+  * Access at [app.swiftcns.ai](https://app.swiftcns.ai)
+  * Used in all Decide chapters (01-06)
 
 **For "Build the MVP" section:**
-- **UX Pilot** - Mockup generation tool for visual design
-  - Used in Planning chapter (05)
-- **Cursor** - AI-powered IDE for collaborative development
-  - Used in Setup (06) and Build Features (08) chapters
-- **Firebase** - Backend infrastructure for hosting, authentication, and functions
-  - Used in Deploy chapter (09)
+
+* **UX Pilot** - Mockup generation tool for visual design
+  * Used in Planning chapter (05)
+* **Cursor** - AI-powered IDE for collaborative development
+  * Used in Setup (06) and Build Features (08) chapters
+* **Firebase** - Backend infrastructure for hosting, authentication, and functions
+  * Used in Deploy chapter (09)
 
 > 💡 **Tip**: You don't need all tools upfront. Set them up as you reach each section. See [Assets](assets.md) for detailed setup instructions.
 
@@ -119,12 +124,10 @@ The workflow leverages AI collaboration (Cursor) and visual design (UX Pilot) to
 **Task**: Map your current situation to the guide structure
 
 1. Identify where you are in your innovation journey:
-   - [ ] Have an idea but need validation → "Decide What to Build"
-   - [ ] Validated idea, ready to build → "Build the MVP"
-   - [ ] Have MVP, ready to launch → "Launch & Iterate"
-
+   * [ ] Have an idea but need validation → "Decide What to Build"
+   * [ ] Validated idea, ready to build → "Build the MVP"
+   * [ ] Have MVP, ready to launch → "Launch & Iterate"
 2. Review the dependency map for your chosen path
-
 3. Identify any prerequisites you need to gather
 
 **Artifact**: A simple plan showing which chapters you'll follow and what you need before starting
@@ -132,84 +135,88 @@ The workflow leverages AI collaboration (Cursor) and visual design (UX Pilot) to
 ## Artifacts
 
 You'll create:
-- A learning path plan
-- Understanding of the guide structure
-- Prerequisites checklist
+
+* A learning path plan
+* Understanding of the guide structure
+* Prerequisites checklist
 
 ## Worked Example
 
 **Situation**: You have a product idea for helping teams manage their product backlogs more effectively.
 
 **Path Selection**:
-- Start with "Decide What to Build" → "01 — Idea / Problem"
-- Follow through the Decide section to validate
-- Then proceed to Build if validated
+
+* Start with "Decide What to Build" → "01 — Idea / Problem"
+* Follow through the Decide section to validate
+* Then proceed to Build if validated
 
 **Prerequisites**:
-- Access to potential users for interviews
-- Understanding of current backlog management pain points
+
+* Access to potential users for interviews
+* Understanding of current backlog management pain points
 
 ## Checklist
 
 Before moving to the next section, verify:
-- [ ] I understand the three main sections of the guide
-- [ ] I've reviewed the dependency map
-- [ ] I know which path I'll follow
-- [ ] I've identified my prerequisites
-- [ ] I understand how chapters are structured
+
+* [ ] I understand the three main sections of the guide
+* [ ] I've reviewed the dependency map
+* [ ] I know which path I'll follow
+* [ ] I've identified my prerequisites
+* [ ] I understand how chapters are structured
 
 ## Self-Assessment
 
 Answer these questions:
 
 1. **Which section should you start with if you have a validated idea?**
-   - [ ] Decide What to Build
-   - [ ] Build the MVP ✓
-   - [ ] Launch & Iterate
-
+   * [ ] Decide What to Build
+   * [ ] Build the MVP ✓
+   * [ ] Launch & Iterate
 2. **What does every chapter include?** (Select all that apply)
-   - [ ] Learning Outcomes ✓
-   - [ ] Jobs-to-Be-Done ✓
-   - [ ] Templates ✓
-   - [ ] Examples ✓
-   - [ ] All of the above ✓
-
+   * [ ] Learning Outcomes ✓
+   * [ ] Jobs-to-Be-Done ✓
+   * [ ] Templates ✓
+   * [ ] Examples ✓
+   * [ ] All of the above ✓
 3. **Where do you find chapter relationships and learning paths?**
-   - [ ] Style Guide
-   - [ ] Glossary
-   - [ ] Dependency Map ✓
+   * [ ] Style Guide
+   * [ ] Glossary
+   * [ ] Dependency Map ✓
 
 ## Exit Criteria
 
 You're ready to proceed when:
-- [ ] You understand the guide structure
-- [ ] You've chosen your learning path
-- [ ] You've reviewed the dependency map
-- [ ] You know where to find templates and examples
+
+* [ ] You understand the guide structure
+* [ ] You've chosen your learning path
+* [ ] You've reviewed the dependency map
+* [ ] You know where to find templates and examples
 
 ## Dependencies & Next Steps
 
 ### Next Steps
 
 Based on your chosen path:
-- **Decide path**: Proceed to [Decide What to Build](../decide/index.md)
-- **Build path**: Proceed to [Build the MVP](../build/index.md)
-- **Launch path**: Proceed to [Launch & Iterate](../launch/index.md)
+
+* **Decide path**: Proceed to [Decide What to Build](../decide/index.md)
+* **Build path**: Proceed to [Build the MVP](../build/index.md)
+* **Launch path**: Proceed to [Launch & Iterate](../launch/index.md)
 
 ### What This Enables
 
 Understanding the guide structure enables you to:
-- Navigate efficiently to relevant content
-- Understand how chapters relate to each other
-- Access templates and examples when needed
-- Follow the systematic innovation process
+
+* Navigate efficiently to relevant content
+* Understand how chapters relate to each other
+* Access templates and examples when needed
+* Follow the systematic innovation process
 
 ### Related Chapters
 
-- [Cadence](cadence.md) - Understanding work rhythms
-- [Assets](assets.md) - Available resources and tools
+* [Cadence](cadence.md) - Understanding work rhythms
+* [Assets](assets.md) - Available resources and tools
 
----
+***
 
-> 💡 **Tip**: Bookmark the [Dependency Map](../dependency-map.md) for quick navigation
-> 📝 **Note**: You can always return to this section if you need to reorient yourself
+> 💡 **Tip**: Bookmark the [Dependency Map](../dependency-map.md) for quick navigation 📝 **Note**: You can always return to this section if you need to reorient yourself
