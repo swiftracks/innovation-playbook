@@ -1,9 +1,9 @@
 ---
-cover: .gitbook/assets/Screenshot 2025-11-03 at 12.18.18 PM.png
+cover: .gitbook/assets/SR - Innovation Playbook.png
 coverY: 0
 ---
 
-# README
+# Swift Racks - Innovation Playbook
 
 **Ship faster. Learn faster. Win faster.**
 
@@ -48,13 +48,22 @@ Most guides stop at software delivery. This is a product innovation playbook:
 The playbook follows a three-phase journey:
 
 1. **Decide What to Build** (using Swift CNS): Validate your idea before building. Start with articulating the problem, identify critical assumptions, form testable hypotheses, design and run experiments, extract learnings, and synthesize insights into a go/no-go decision.
-
 2. **Build the MVP** (using Cursor, UX Pilot, Firebase): Once validated, plan your MVP (user stories, PRD, mockups), set up your development environment with Cursor, build features collaboratively with AI assistance, and deploy to Firebase.
-
 3. **Launch & Iterate** (using Swift CNS): Prepare your ICP, develop messaging and channel strategies, build your website, launch private beta, run experiments across outbound, growth marketing, and product, synthesize insights, and exit to public beta when ready.
 
 Each chapter includes learning outcomes, inputs, activities, templates, examples, and checklists. You can follow the full journey or jump to the phase that matches where you are today.
 
+<<<<<<< HEAD
+=======
+## What's inside (at a glance)
+
+* **Decide What to Build**: Idea/problem articulation, critical assumptions identification, testable hypotheses formation, experiment design and execution, learning extraction, and insights synthesis for go/no-go decisions. All powered by Swift CNS.
+* **Build the MVP**: Planning (user stories, PRD, visual mockups with UX Pilot, AI Baseline design), setup (Cursor configuration, .cursorrules, implementation planning), feature building (end-to-end with Cursor AI collaboration), and deployment (Firebase infrastructure, QA, production launch).
+* **Launch & Iterate**: ICP preparation, messaging strategy development, channel strategy design, website V1 build, tool stack setup, private beta launch, experiment execution (outbound, growth marketing, product), insights synthesis, and public beta exit. Experiments and insights managed in Swift CNS.
+
+Every chapter includes templates, examples, checklists, and self-assessments embedded throughout.
+
+>>>>>>> ec89d118f6589d0f655a34d57fc8d076ef3b1f95
 ## Principles we operate by
 
 * **Speed is a skill**: reduce batch size, shorten feedback loops, keep score.

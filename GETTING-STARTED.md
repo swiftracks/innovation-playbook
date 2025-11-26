@@ -1,4 +1,4 @@
-# Product Innovation Guide — MVP Edition
+# Getting Started
 
 **Purpose**: A practical, outcome-focused guide for product innovation teams
 
@@ -13,6 +13,7 @@ This guide helps you systematically validate ideas, build MVPs, and launch produ
 ## Quick Start
 
 **New to the guide?** Start here:
+
 1. Read [Start Here](start-here/index.md) to understand the framework
 2. Check the [Dependency Map](dependency-map.md) to find your path
 3. Follow the chapters in order, or jump to what you need
@@ -25,12 +26,12 @@ This guide helps you systematically validate ideas, build MVPs, and launch produ
 
 ### Learning Paths
 
-- **Full Cycle**: Complete end-to-end innovation journey
-- **Quick Decision**: Validate ideas before building
-- **Build MVP**: Focus on execution
-- **Optimize Product**: Iterate on existing products
-- **Skim**: Overview and templates only
-- **Deep Dive**: Comprehensive understanding with examples
+* **Full Cycle**: Complete end-to-end innovation journey
+* **Quick Decision**: Validate ideas before building
+* **Build MVP**: Focus on execution
+* **Optimize Product**: Iterate on existing products
+* **Skim**: Overview and templates only
+* **Deep Dive**: Comprehensive understanding with examples
 
 See the [Dependency Map](dependency-map.md) for detailed paths.
 
@@ -79,17 +80,17 @@ This guide follows these core principles:
 
 As you work through this guide, you'll produce:
 
-- **Problem statements** and value propositions
-- **Hypothesis canvases** and experiment plans
-- **PRDs** and technical specifications
-- **MVP architectures** and thin vertical implementations
-- **Launch plans** and feedback loops
+* **Problem statements** and value propositions
+* **Hypothesis canvases** and experiment plans
+* **PRDs** and technical specifications
+* **MVP architectures** and thin vertical implementations
+* **Launch plans** and feedback loops
 
 ## Resources
 
-- [Style Guide](style-guide.md) - Voice, formatting, and callout standards
-- [Glossary](glossary.md) - Terms and definitions
-- [Dependency Map](dependency-map.md) - Chapter relationships and learning paths
+* [Style Guide](/broken/pages/eQPCw2dkrAu2IfAAE7W1) - Voice, formatting, and callout standards
+* [Glossary](glossary.md) - Terms and definitions
+* [Dependency Map](dependency-map.md) - Chapter relationships and learning paths
 
 ## Contributing
 
@@ -98,11 +99,11 @@ This is a living guide. As you use it, you'll discover improvements. Share your 
 ## Support
 
 For questions or issues:
-- Check the [Glossary](glossary.md) for definitions
-- Review the [Dependency Map](dependency-map.md) for navigation
-- Consult chapter self-assessments to verify understanding
 
----
+* Check the [Glossary](glossary.md) for definitions
+* Review the [Dependency Map](dependency-map.md) for navigation
+* Consult chapter self-assessments to verify understanding
+
+***
 
 **Ready to start?** Begin with [Start Here](start-here/index.md) or jump to the [Dependency Map](dependency-map.md) to find your path.
-
