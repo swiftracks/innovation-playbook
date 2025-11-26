@@ -40,7 +40,7 @@ We've poured a lot of love into this because we believe better innovation compou
 
 Most guides stop at software delivery. This is a product innovation playbook:
 
-* **Three-phase system**: Decide What to Build → Build the MVP → Launch & Iterate. A complete journey from idea validation to product-market fit.
+* **Three-phase system**: Decide What to Build → Build the MVP → Launch & Iterate (Coming Soon). A complete journey from idea validation to product-market fit.
 * **Evidence-driven**: hypotheses → tests → decisions → metrics, all traceable through Swift CNS.
 * **Artifact-first**: every step produces a concrete output you can share, critique, and ship against (problem statements, PRDs, mockups, experiments, insights).
 * **Tool-integrated**: built to work with Swift CNS (validation and experiments), Cursor (AI-powered development), UX Pilot (visual design), and Firebase (deployment). Each tool fits a specific phase of the journey.
@@ -51,7 +51,7 @@ The playbook follows a three-phase journey:
 
 1. **Decide What to Build** (using Swift CNS): Validate your idea before building. Start with articulating the problem, identify critical assumptions, form testable hypotheses, design and run experiments, extract learnings, and synthesize insights into a go/no-go decision.
 2. **Build the MVP** (using Cursor, UX Pilot, Firebase): Once validated, plan your MVP (user stories, PRD, mockups), set up your development environment with Cursor, build features collaboratively with AI assistance, and deploy to Firebase.
-3. **Launch & Iterate** (using Swift CNS): Prepare your ICP, develop messaging and channel strategies, build your website, launch private beta, run experiments across outbound, growth marketing, and product, synthesize insights, and exit to public beta when ready.
+3. **Launch & Iterate (Coming Soon)** (using Swift CNS): Prepare your ICP, develop messaging and channel strategies, build your website, launch private beta, run experiments across outbound, growth marketing, and product, synthesize insights, and exit to public beta when ready.
 
 Each chapter includes learning outcomes, inputs, activities, templates, examples, and checklists. You can follow the full journey or jump to the phase that matches where you are today.
 
@@ -59,7 +59,7 @@ Each chapter includes learning outcomes, inputs, activities, templates, examples
 
 * **Decide What to Build**: Idea/problem articulation, critical assumptions identification, testable hypotheses formation, experiment design and execution, learning extraction, and insights synthesis for go/no-go decisions. All powered by Swift CNS.
 * **Build the MVP**: Planning (user stories, PRD, visual mockups with UX Pilot, AI Baseline design), setup (Cursor configuration, .cursorrules, implementation planning), feature building (end-to-end with Cursor AI collaboration), and deployment (Firebase infrastructure, QA, production launch).
-* **Launch & Iterate**: ICP preparation, messaging strategy development, channel strategy design, website V1 build, tool stack setup, private beta launch, experiment execution (outbound, growth marketing, product), insights synthesis, and public beta exit. Experiments and insights managed in Swift CNS.
+* **Launch & Iterate (Coming Soon)**: ICP preparation, messaging strategy development, channel strategy design, website V1 build, tool stack setup, private beta launch, experiment execution (outbound, growth marketing, product), insights synthesis, and public beta exit. Experiments and insights managed in Swift CNS.
 
 Every chapter includes templates, examples, checklists, and self-assessments embedded throughout.
 
@@ -76,7 +76,7 @@ Every chapter includes templates, examples, checklists, and self-assessments emb
 
 We're builders. Since 2017, we've partnered with startups and enterprises to launch products, modernize stacks, and unlock growth. We've shipped 100+ solutions and supported $200M+ in SaaS transactions, refining this system through real customer engagements and continuous iteration.
 
-**Swift CNS** is our contribution to the craft: an AI-powered innovation platform that guides you through the Decide and Launch phases, helping teams validate ideas, run experiments, document learnings, and synthesize insights into decisions.
+**Swift CNS** is our contribution to the craft: an AI-powered innovation platform that guides you through the Decide and Launch (Coming Soon) phases, helping teams validate ideas, run experiments, document learnings, and synthesize insights into decisions.
 
 ### Our promise
 

@@ -61,10 +61,10 @@ This map shows how chapters relate to each other and different learning paths th
 
 #### 09 — Deploy
 - **Depends on**: 08 — Build Features
-- **Enables**: Launch & Iterate (all chapters)
+- **Enables**: Launch & Iterate (Coming Soon) (all chapters)
 - **Can be done in parallel with**: None
 
-### Launch & Iterate
+### Launch & Iterate (Coming Soon)
 
 #### 01 — Prepare ICP
 - **Depends on**: 09 — Deploy (from Build), Decide What to Build (initial ICP research)
@@ -115,7 +115,7 @@ This map shows how chapters relate to each other and different learning paths th
 
 ### Path 1: Full Product Innovation Cycle
 **Duration**: Complete end-to-end journey
-**Path**: Getting Started → Decide (all) → Build (all) → Launch (all) → Iterate
+**Path**: Getting Started → Decide (all) → Build (all) → Launch (Coming Soon) (all) → Iterate
 
 ### Path 2: Quick Decision Making
 **Duration**: Focus on validation before building
@@ -123,11 +123,11 @@ This map shows how chapters relate to each other and different learning paths th
 
 ### Path 3: Building an MVP
 **Duration**: Focus on execution
-**Path**: Getting Started → Build (all) → Launch (all)
+**Path**: Getting Started → Build (all) → Launch (Coming Soon) (all)
 
 ### Path 4: Optimizing Existing Product
 **Duration**: Focus on iteration
-**Path**: Getting Started → Launch (all) → [Iterate]
+**Path**: Getting Started → Launch (Coming Soon) (all) → [Iterate]
 
 ### Path 5: Skimmer Path
 **Duration**: Overview and templates
@@ -150,7 +150,7 @@ This map shows how chapters relate to each other and different learning paths th
 - [ ] Have development environment ready (for Dev path)
 - [ ] Have design tools ready (for PM path)
 
-### Before Starting "Launch & Iterate"
+### Before Starting "Launch & Iterate (Coming Soon)"
 - [ ] Completed "Build the MVP" (all chapters)
 - [ ] Have working MVP (at least thin vertical)
 - [ ] Have access to deployment infrastructure
@@ -178,7 +178,7 @@ Decide What to Build
 Build the MVP
     ├─ 05 → 06 → 08 → 09
     ↓
-Launch & Iterate
+Launch & Iterate (Coming Soon)
     ├─ 01 → 02 → 03 → 04 → 05 → 06 → [07, 08] → 09
     ↓
 [Iterate back to Decide, Build, or Launch]
@@ -188,7 +188,7 @@ Launch & Iterate
 
 - **Need to validate an idea?** → Start at "Decide What to Build"
 - **Ready to build?** → Start at "Build the MVP"
-- **Have an MVP to launch?** → Start at "Launch & Iterate"
+- **Have an MVP to launch?** → Start at "Launch & Iterate (Coming Soon)"
 - **Want templates only?** → Go directly to chapter Templates
 - **Want examples only?** → Go directly to chapter Examples
 

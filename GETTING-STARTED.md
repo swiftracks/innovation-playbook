@@ -46,7 +46,7 @@ This guide helps you systematically validate ideas, build MVPs, and launch produ
 
 **Start here**: [Build the MVP](build/index.md)
 
-### 🚀 Have an MVP? → Start with "Launch & Iterate"
+### 🚀 Have an MVP? → Start with "Launch & Iterate (Coming Soon)"
 
 **When to use**: You have a working MVP and need to get it in front of users, gather feedback, and iterate.
 
@@ -58,7 +58,7 @@ This guide helps you systematically validate ideas, build MVPs, and launch produ
 - Working MVP
 - Deployment infrastructure ready
 
-**Start here**: [Launch & Iterate](launch/index.md)
+**Start here**: [Launch & Iterate (Coming Soon)](launch/index.md)
 
 ## Guide Structure
 
@@ -79,7 +79,7 @@ Build the MVP (Cursor, UX Pilot, Firebase)
     ├─ 08 — Build Features
     └─ 09 — Deploy
     ↓
-Launch & Iterate (Swift CNS)
+Launch & Iterate (Coming Soon) (Swift CNS)
     ├─ 01 — Prepare ICP
     ├─ 02 — Develop Messaging Strategy
     ├─ 03 — Design Channel Strategy
@@ -175,7 +175,7 @@ As you work through this guide, you'll produce:
 
 **Need to validate an idea?** → [Decide What to Build](decide/index.md)  
 **Ready to build?** → [Build the MVP](build/index.md)  
-**Have an MVP to launch?** → [Launch & Iterate](launch/index.md)  
+**Have an MVP to launch?** → [Launch & Iterate (Coming Soon)](launch/index.md)  
 **Want templates only?** → Go directly to chapter Templates  
 **Want examples only?** → Go directly to chapter Examples
 

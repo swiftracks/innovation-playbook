@@ -119,7 +119,7 @@ Before starting this section, verify:
 
 ## Exit Criteria
 
-You're ready to proceed to "Launch & Iterate" when:
+You're ready to proceed to "Launch & Iterate (Coming Soon)" when:
 
 * [ ] You've completed all Build chapters (05-06, 08-09)
 * [ ] You have a working MVP (at least thin vertical)
@@ -148,7 +148,7 @@ Completing this section enables:
 
 ### Related Sections
 
-* [Launch & Iterate](../launch/index.md) - If MVP is ready for launch
+* [Launch & Iterate (Coming Soon)](../launch/index.md) - If MVP is ready for launch
 * [Decide What to Build](/broken/pages/rz5te4UitE8m4DNQogZJ) - If you need to pivot or restart
 
 ***
