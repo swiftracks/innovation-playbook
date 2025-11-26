@@ -8,7 +8,7 @@
 
 **Time**: 30-45 minutes
 
-**Prerequisites**: [Start Here](index.md)
+**Prerequisites**: [Getting Started](../GETTING-STARTED.md)
 
 ## Learning Outcomes
 
@@ -173,7 +173,7 @@ You're ready to proceed when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [Start Here](index.md) - Understanding the guide structure
+- [Getting Started](../GETTING-STARTED.md) - Understanding the guide structure
 
 ### Next Steps
 - Review [Assets](assets.md) to understand available resources

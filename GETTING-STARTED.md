@@ -10,61 +10,172 @@
 
 This guide helps you systematically validate ideas, build MVPs, and launch products that deliver real value. Every chapter is designed for action—you'll create real artifacts, not just read concepts.
 
-## Quick Start
+## Choose Your Path
 
-**New to the guide?** Start here:
+**Where are you in your innovation journey?**
 
-1. Read [Start Here](start-here/index.md) to understand the framework
-2. Check the [Dependency Map](dependency-map.md) to find your path
-3. Follow the chapters in order, or jump to what you need
+### 🎯 Validating an Idea? → Start with "Decide What to Build"
 
-**Need a specific template?** Jump to any chapter's template section.
+**Why validation matters**: Most product failures happen because we build something nobody wants. The Decide section helps you validate your idea **before** investing time and resources in building.
 
-**Want to see examples?** Each chapter includes worked examples.
+**What you'll do**: Use **Swift CNS** (an AI-powered validation platform) to systematically test your assumptions through experiments, document learnings, and make data-driven go/no-go decisions.
 
-## How to Use This Guide
+**Time commitment**: 2-4 weeks for thorough validation
 
-### Learning Paths
+**Prerequisites**: 
+- Swift CNS account at [app.swiftcns.ai](https://app.swiftcns.ai)
+- Initial idea or problem hypothesis
+- Access to potential users for experiments
 
-* **Full Cycle**: Complete end-to-end innovation journey
-* **Quick Decision**: Validate ideas before building
-* **Build MVP**: Focus on execution
-* **Optimize Product**: Iterate on existing products
-* **Skim**: Overview and templates only
-* **Deep Dive**: Comprehensive understanding with examples
+**Start here**: [Decide What to Build](decide/index.md)
 
-See the [Dependency Map](dependency-map.md) for detailed paths.
+> 💡 **Tip**: Even if you're eager to build, spending 2-4 weeks validating can save months of wasted effort. The Decide section uses Swift CNS to make validation systematic and efficient.
 
-### Guide Structure
+### 🏗️ Ready to Build? → Start with "Build the MVP"
+
+**When to use**: You have a validated idea (completed Decide section) or you're building something with clear requirements.
+
+**What you'll do**: Plan your MVP, set up development tools (Cursor IDE), build features collaboratively with AI assistance, and deploy to Firebase.
+
+**Time commitment**: 4-8 weeks depending on complexity
+
+**Prerequisites**:
+- Validated hypothesis or clear requirements
+- Cursor IDE installed
+- Firebase account
+
+**Start here**: [Build the MVP](build/index.md)
+
+### 🚀 Have an MVP? → Start with "Launch & Iterate"
+
+**When to use**: You have a working MVP and need to get it in front of users, gather feedback, and iterate.
+
+**What you'll do**: Prepare your ICP, develop messaging and channel strategies, build your website, launch private beta, run experiments, and synthesize insights.
+
+**Time commitment**: Ongoing iteration cycles
+
+**Prerequisites**:
+- Working MVP
+- Deployment infrastructure ready
+
+**Start here**: [Launch & Iterate](launch/index.md)
+
+## Guide Structure
+
+This guide follows a three-phase journey:
 
 ```
-Start Here
+Decide What to Build (Swift CNS)
+    ├─ 01 — Idea / Problem
+    ├─ 02 — Identify Critical Assumptions
+    ├─ 03 — Form Testable Hypotheses
+    ├─ 04 — Design & Run Experiments
+    ├─ 05 — Extract Key Learnings
+    └─ 06 — Synthesize Insights → Decision
     ↓
-Decide What to Build
-    ├─ Idea / Problem
-    ├─ Identify Critical Assumptions
-    ├─ Form Testable Hypotheses
-    ├─ Design & Run Experiments
-    ├─ Extract Key Learnings
-    └─ Synthesize Insights → Decision
+Build the MVP (Cursor, UX Pilot, Firebase)
+    ├─ 05 — Planning
+    ├─ 06 — Setup
+    ├─ 08 — Build Features
+    └─ 09 — Deploy
     ↓
-Build the MVP
-    ├─ Planning
-    ├─ Setup
-    ├─ Build Features
-    └─ Deploy
-    ↓
-Launch & Iterate
-    ├─ Prepare ICP
-    ├─ Develop Messaging Strategy
-    ├─ Design Channel Strategy
-    ├─ Build Website V1
-    ├─ Setup Tool Stack
-    ├─ Launch Private Beta
-    ├─ Run Experiments
-    ├─ Synthesize Insights
-    └─ Exit to Public Beta
+Launch & Iterate (Swift CNS)
+    ├─ 01 — Prepare ICP
+    ├─ 02 — Develop Messaging Strategy
+    ├─ 03 — Design Channel Strategy
+    ├─ 04 — Build Website V1
+    ├─ 05 — Setup Tool Stack
+    ├─ 06 — Launch Private Beta
+    ├─ 07 — Run Experiments
+    ├─ 08 — Synthesize Insights
+    └─ 09 — Exit to Public Beta
 ```
+
+See the [Dependency Map](dependency-map.md) for detailed chapter relationships and learning paths.
+
+## Understanding the DECIDE Section
+
+**Why validation before building is critical:**
+
+Most teams jump straight to building, only to discover later that:
+- Users don't actually have the problem you thought they had
+- The solution doesn't fit their workflow
+- They won't pay for it
+- The market isn't ready
+
+The **Decide What to Build** section uses **Swift CNS** to help you avoid these pitfalls by:
+
+1. **Articulating the problem clearly** - Use Swift CNS chat to refine your idea and value proposition
+2. **Identifying critical assumptions** - Swift CNS AI helps you find what must be true for success
+3. **Forming testable hypotheses** - Convert assumptions into measurable statements
+4. **Designing experiments** - Create structured tests to validate your hypotheses
+5. **Extracting learnings** - Document insights in Swift CNS Learning Cards
+6. **Making decisions** - Use Swift CNS Insights to synthesize everything into a go/no-go decision
+
+**The Swift CNS Workflow:**
+
+1. **Start New Chat** - Begin AI-guided conversation about your idea in Swift CNS
+2. **Idea Analysis** - Swift CNS AI analyzes your idea and asks clarifying questions
+3. **Assumptions Mapping** - AI helps identify critical assumptions that must be true
+4. **Experiment Design** - AI guides you to create structured experiments
+5. **Learning Cards** - Document insights and learnings from experiments in Swift CNS
+6. **Insights** - View aggregated insights in Swift CNS to make go/no-go decisions
+
+All validation work happens within Swift CNS, providing a systematic, AI-guided approach to decision-making.
+
+> ⚠️ **Important**: The Decide chapters (01-06) must be done sequentially. Each builds on the previous one. Swift CNS AI guides you through the entire process.
+
+**Ready to validate?** Set up Swift CNS and start: [Decide What to Build](decide/index.md)
+
+## Tool Prerequisites
+
+You don't need all tools upfront. Set them up as you reach each section.
+
+### For "Decide What to Build" Section
+
+**Swift CNS** - AI-powered validation platform
+- **Access**: [app.swiftcns.ai](https://app.swiftcns.ai)
+- **Used in**: All Decide chapters (01-06)
+- **Setup**: Sign up with Google account, create a project, start a new chat
+- **When**: Set up before starting Decide section
+
+### For "Build the MVP" Section
+
+**UX Pilot** - Mockup generation tool
+- **Used in**: Planning chapter (05)
+- **Setup**: Follow instructions in Planning chapter
+
+**Cursor** - AI-powered IDE
+- **Access**: [cursor.sh](https://cursor.sh)
+- **Used in**: Setup (06) and Build Features (08) chapters
+- **Setup**: Install Cursor IDE, configure `.cursorrules` in Setup chapter
+
+**Firebase** - Backend infrastructure
+- **Access**: [firebase.google.com](https://firebase.google.com)
+- **Used in**: Deploy chapter (09)
+- **Setup**: Create Firebase project during Deploy chapter
+
+### For "Launch & Iterate" Section
+
+**Swift CNS** - Also used for experiments and insights in Launch section
+- **Used in**: Run Experiments (07) and Synthesize Insights (08) chapters
+
+See [Assets](start-here/assets.md) for detailed tool setup instructions.
+
+## Chapter Structure
+
+Every chapter includes:
+
+* **Learning Outcomes** - What you'll achieve
+* **Jobs-to-Be-Done** - Context for when to use it
+* **Inputs** - What you need before starting
+* **Activities** - Step-by-step guidance
+* **Apply It Now** - Interactive task
+* **Artifacts** - What you'll create
+* **Templates** - Reusable structures
+* **Examples** - Worked examples
+* **Checklist** - Quick reference
+* **Self-Assessment** - Verify understanding
 
 ## Key Principles
 
@@ -88,22 +199,30 @@ As you work through this guide, you'll produce:
 
 ## Resources
 
-* [Style Guide](/broken/pages/eQPCw2dkrAu2IfAAE7W1) - Voice, formatting, and callout standards
-* [Glossary](glossary.md) - Terms and definitions
 * [Dependency Map](dependency-map.md) - Chapter relationships and learning paths
+* [Glossary](glossary.md) - Key terms and definitions
+* [Assets](start-here/assets.md) - Detailed tool setup instructions
+* [Cadence](start-here/cadence.md) - Establishing work rhythms
+* [Style Guide](/broken/pages/eQPCw2dkrAu2IfAAE7W1) - Voice, formatting, and callout standards
 
-## Contributing
+## Quick Reference
 
-This is a living guide. As you use it, you'll discover improvements. Share your feedback and suggestions.
+**Need to validate an idea?** → [Decide What to Build](decide/index.md)  
+**Ready to build?** → [Build the MVP](build/index.md)  
+**Have an MVP to launch?** → [Launch & Iterate](launch/index.md)  
+**Want templates only?** → Go directly to chapter Templates  
+**Want examples only?** → Go directly to chapter Examples
 
-## Support
+## Next Steps
 
-For questions or issues:
+1. **Choose your path** above based on where you are in your journey
+2. **Set up required tools** for your chosen section
+3. **Start with the first chapter** in your chosen section
+4. **Follow chapters sequentially** (especially in Decide section)
 
-* Check the [Glossary](glossary.md) for definitions
-* Review the [Dependency Map](dependency-map.md) for navigation
-* Consult chapter self-assessments to verify understanding
+**Most common starting point**: If you have an idea, start with [Decide What to Build](decide/index.md) to validate it before building.
 
 ***
 
-**Ready to start?** Begin with [Start Here](start-here/index.md) or jump to the [Dependency Map](dependency-map.md) to find your path.
+> 💡 **Tip**: Bookmark the [Dependency Map](dependency-map.md) for quick navigation  
+> 📝 **Note**: You can always return to this section if you need to reorient yourself

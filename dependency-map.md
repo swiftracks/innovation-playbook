@@ -6,14 +6,14 @@ This map shows how chapters relate to each other and different learning paths th
 
 ## Chapter Dependencies
 
-### Start Here
+### Getting Started
 - **No dependencies** - Start here for all paths
 - **Enables**: All subsequent chapters
 
 ### Decide What to Build
 
 #### 01 — Idea / Problem
-- **Depends on**: Start Here
+- **Depends on**: Getting Started
 - **Enables**: 02 — Identify Critical Assumptions
 - **Can be done in parallel with**: None
 
@@ -115,32 +115,32 @@ This map shows how chapters relate to each other and different learning paths th
 
 ### Path 1: Full Product Innovation Cycle
 **Duration**: Complete end-to-end journey
-**Path**: Start Here → Decide (all) → Build (all) → Launch (all) → Iterate
+**Path**: Getting Started → Decide (all) → Build (all) → Launch (all) → Iterate
 
 ### Path 2: Quick Decision Making
 **Duration**: Focus on validation before building
-**Path**: Start Here → Decide (all) → [Decision Point: Build or Pivot]
+**Path**: Getting Started → Decide (all) → [Decision Point: Build or Pivot]
 
 ### Path 3: Building an MVP
 **Duration**: Focus on execution
-**Path**: Start Here → Build (all) → Launch (all)
+**Path**: Getting Started → Build (all) → Launch (all)
 
 ### Path 4: Optimizing Existing Product
 **Duration**: Focus on iteration
-**Path**: Start Here → Launch (all) → [Iterate]
+**Path**: Getting Started → Launch (all) → [Iterate]
 
 ### Path 5: Skimmer Path
 **Duration**: Overview and templates
-**Path**: Start Here → [Chapter summaries] → Templates → Examples
+**Path**: Getting Started → [Chapter summaries] → Templates → Examples
 
 ### Path 6: Deep Dive Path
 **Duration**: Comprehensive understanding
-**Path**: Start Here → [All chapters in order] → Worked Examples → Self-Assessments
+**Path**: Getting Started → [All chapters in order] → Worked Examples → Self-Assessments
 
 ## Prerequisites Map
 
 ### Before Starting "Decide What to Build"
-- [ ] Completed "Start Here"
+- [ ] Completed "Getting Started"
 - [ ] Understand Jobs-to-Be-Done framework
 - [ ] Have access to user research or customer insights
 
@@ -170,7 +170,7 @@ This map shows how chapters relate to each other and different learning paths th
 ## Dependency Graph
 
 ```
-Start Here
+Getting Started
     ↓
 Decide What to Build
     ├─ 01 → 02 → 03 → 04 → 05 → 06

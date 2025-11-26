@@ -8,7 +8,7 @@
 
 **Time**: 2-4 weeks (depending on complexity)
 
-**Prerequisites**: [Start Here](start-here/index.md), Swift CNS account at [app.swiftcns.ai](https://app.swiftcns.ai)
+**Prerequisites**: [Getting Started](GETTING-STARTED.md), Swift CNS account at [app.swiftcns.ai](https://app.swiftcns.ai)
 
 ## Learning Outcomes
 
@@ -145,7 +145,7 @@ You're ready to proceed to "Build the MVP" when:
 
 ### Prerequisites Completed
 
-* [Start Here](start-here/index.md) - Understanding the guide structure
+* [Getting Started](GETTING-STARTED.md) - Understanding the guide structure
 * Swift CNS account created
 
 ### Next Steps
@@ -166,7 +166,7 @@ Completing this section with Swift CNS enables:
 ### Related Sections
 
 * [Build the MVP](../build/index.md) - If decision is to build
-* [Start Here](start-here/index.md) - If you need to pivot or restart
+* [Getting Started](../GETTING-STARTED.md) - If you need to pivot or restart
 
 ***
 

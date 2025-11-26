@@ -8,7 +8,7 @@
 
 **Time**: 15-30 minutes
 
-**Prerequisites**: [Start Here](start-here/index.md), [Decide What to Build](index.md), Swift CNS account at [app.swiftcns.ai](https://app.swiftcns.ai)
+**Prerequisites**: [Getting Started](../GETTING-STARTED.md), [Decide What to Build](index.md), Swift CNS account at [app.swiftcns.ai](https://app.swiftcns.ai)
 
 ## Learning Outcomes
 
@@ -220,7 +220,7 @@ You're ready to proceed when:
 
 ### Prerequisites Completed
 
-* [Start Here](start-here/index.md) - Understanding the guide structure
+* [Getting Started](../GETTING-STARTED.md) - Understanding the guide structure
 * [Decide What to Build](index.md) - Understanding the validation process
 * Swift CNS account created
 
