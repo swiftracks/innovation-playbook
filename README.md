@@ -38,31 +38,32 @@ We've poured a lot of love into this because we believe better innovation compou
 
 Most guides stop at software delivery. This is a product innovation playbook:
 
-* **Beyond "build"**: it covers discovery, validation, go-to-market, and operating cadence.
-* **Evidence-driven**: hypotheses → tests → decisions → metrics, all traceable.
-* **Artifact-first**: every step produces a concrete output you can share, critique, and ship against.
-* **Tool-integrated**: built to pair with SwiftCNS, our AI-powered environment that turns playbook steps into executable workflows.
+* **Three-phase system**: Decide What to Build → Build the MVP → Launch & Iterate. A complete journey from idea validation to product-market fit.
+* **Evidence-driven**: hypotheses → tests → decisions → metrics, all traceable through Swift CNS.
+* **Artifact-first**: every step produces a concrete output you can share, critique, and ship against (problem statements, PRDs, mockups, experiments, insights).
+* **Tool-integrated**: built to work with Swift CNS (validation and experiments), Cursor (AI-powered development), UX Pilot (visual design), and Firebase (deployment). Each tool fits a specific phase of the journey.
 
 ## How to use this playbook
 
-1. **Start with the problem**: clarify target users, pains, and success metrics.
-2. **Form hypotheses**: what must be true for this to work?
-3. **Design tests**: the fastest, cheapest ways to learn (interviews, prototypes, concierge flows, fake-door tests, pilots).
-4. **Decide with evidence**: invest, pivot, or kill. Record the why.
-5. **Build thin, learn thick**: ship the smallest slice that can teach you the most.
-6. **Instrument everything**: telemetry, qualitative signals, decision logs.
-7. **Iterate on a cadence**: weekly demos, monthly strategy reviews, quarterly resets.
+The playbook follows a three-phase journey:
 
-Each chapter includes goals, inputs, outputs, and templates you can drop into your workflow or run inside SwiftCNS.
+1. **Decide What to Build** (using Swift CNS): Validate your idea before building. Start with articulating the problem, identify critical assumptions, form testable hypotheses, design and run experiments, extract learnings, and synthesize insights into a go/no-go decision.
+
+2. **Build the MVP** (using Cursor, UX Pilot, Firebase): Once validated, plan your MVP (user stories, PRD, mockups), set up your development environment with Cursor, build features collaboratively with AI assistance, and deploy to Firebase.
+
+3. **Launch & Iterate** (using Swift CNS): Prepare your ICP, develop messaging and channel strategies, build your website, launch private beta, run experiments across outbound, growth marketing, and product, synthesize insights, and exit to public beta when ready.
+
+Each chapter includes learning outcomes, inputs, activities, templates, examples, and checklists. You can follow the full journey or jump to the phase that matches where you are today.
 
 ## What's inside (at a glance)
 
-* **Discovery**: Opportunity framing, JTBD, risk maps, user narratives.
-* **Validation**: Hypothesis design, evidence ladders, experiment boards, readouts.
-* **MVP & Delivery**: Scope slicing, architecture quickstarts, acceptance criteria, release trains.
-* **GTM & Growth**: Positioning, landing pages, activation loops, pricing tests.
-* **Operating System**: Decision memos, review cadence, portfolio governance, metrics.
-* **Templates & Artifacts**: One-pagers, experiment briefs, demo scripts, retro guides.
+* **Decide What to Build**: Idea/problem articulation, critical assumptions identification, testable hypotheses formation, experiment design and execution, learning extraction, and insights synthesis for go/no-go decisions. All powered by Swift CNS.
+
+* **Build the MVP**: Planning (user stories, PRD, visual mockups with UX Pilot, AI Baseline design), setup (Cursor configuration, .cursorrules, implementation planning), feature building (end-to-end with Cursor AI collaboration), and deployment (Firebase infrastructure, QA, production launch).
+
+* **Launch & Iterate**: ICP preparation, messaging strategy development, channel strategy design, website V1 build, tool stack setup, private beta launch, experiment execution (outbound, growth marketing, product), insights synthesis, and public beta exit. Experiments and insights managed in Swift CNS.
+
+Every chapter includes templates, examples, checklists, and self-assessments embedded throughout.
 
 ## Principles we operate by
 
@@ -77,16 +78,15 @@ Each chapter includes goals, inputs, outputs, and templates you can drop into yo
 
 We're builders. Since 2017, we've partnered with startups and enterprises to launch products, modernize stacks, and unlock growth. We've shipped 100+ solutions and supported $200M+ in SaaS transactions, refining this system through real customer engagements and continuous iteration.
 
-**SwiftCNS** is our contribution to the craft: an AI-powered innovation platform that turns this playbook into runnable workflows, helping teams coordinate experiments, generate artifacts, and maintain momentum from idea to impact.
+**Swift CNS** is our contribution to the craft: an AI-powered innovation platform that guides you through the Decide and Launch phases, helping teams validate ideas, run experiments, document learnings, and synthesize insights into decisions.
 
-## How SwiftCNS fits
+## How the tools fit
 
-* Guided workflows for each chapter (discovery → MVP → growth).
-* Auto-generated artifacts (briefs, PRDs, test plans, readouts).
-* Evidence registry that ties hypotheses to data and decisions.
-* Portfolio view to manage multiple innovations in parallel.
+**Swift CNS** is the core platform that powers the Decide and Launch phases, providing AI-guided workflows for validation, experimentation, and insights synthesis.
 
-Use the playbook anywhere. Use SwiftCNS when you want the turbo button.
+Throughout the playbook, we also reference **Cursor**, **UX Pilot**, and **Firebase** for the Build phase. These tools were selected based on a few key criteria: quality of output, ease of use, tight integration with our process, and simple adoption. They've been battle-tested across our projects and consistently deliver results without adding complexity.
+
+Use the playbook anywhere. Use these tools when you want the turbo button for each phase.
 
 ## Our promise
 
