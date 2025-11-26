@@ -192,9 +192,9 @@ You're ready to proceed when:
 ### Next Steps
 
 Based on your chosen path:
-- **Decide path**: Proceed to [Decide What to Build](decide/index.md)
-- **Build path**: Proceed to [Build the MVP](build/index.md)
-- **Launch path**: Proceed to [Launch & Iterate](launch/index.md)
+- **Decide path**: Proceed to [Decide What to Build](../decide/index.md)
+- **Build path**: Proceed to [Build the MVP](../build/index.md)
+- **Launch path**: Proceed to [Launch & Iterate](../launch/index.md)
 
 ### What This Enables
 

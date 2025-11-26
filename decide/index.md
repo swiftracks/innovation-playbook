@@ -161,7 +161,7 @@ Completing this section with Swift CNS enables:
 - All your work documented in Swift CNS
 
 ### Related Sections
-- [Build the MVP](build/index.md) - If decision is to build
+- [Build the MVP](../build/index.md) - If decision is to build
 - [Start Here](start-here/index.md) - If you need to pivot or restart
 
 ---

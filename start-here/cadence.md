@@ -177,8 +177,8 @@ You're ready to proceed when:
 
 ### Next Steps
 - Review [Assets](assets.md) to understand available resources
-- Proceed to [Decide What to Build](decide/index.md) if ready to validate
-- Proceed to [Build the MVP](build/index.md) if ready to build
+- Proceed to [Decide What to Build](../decide/index.md) if ready to validate
+- Proceed to [Build the MVP](../build/index.md) if ready to build
 
 ### What This Enables
 

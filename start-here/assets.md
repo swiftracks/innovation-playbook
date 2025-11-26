@@ -60,7 +60,7 @@ This guide uses specific tools throughout. Here's what you need to know about ea
 1. Visit [app.swiftcns.ai](https://app.swiftcns.ai)
 2. Sign in with your Google account
 3. Create a new project (or select existing)
-4. You're ready to start with [01 — Idea / Problem](decide/01-idea-problem.md)
+4. You're ready to start with [01 — Idea / Problem](../decide/01-idea-problem.md)
 
 > 💡 **Tip**: All validation work happens within Swift CNS. You'll use chat, experiments, learning cards, and insights features throughout the Decide section.
 
@@ -73,7 +73,7 @@ This guide uses specific tools throughout. Here's what you need to know about ea
 - Creating design mockups for MVP planning
 
 **When it's used:**
-- [05 — Planning](build/05-planning.md) chapter
+- [05 — Planning](../build/05-planning.md) chapter
 - Specifically in the mockup design phase
 
 **How to access:**
@@ -85,7 +85,7 @@ This guide uses specific tools throughout. Here's what you need to know about ea
 - User stories and PRD from earlier in Planning chapter
 
 **Setup:**
-- Follow the instructions in [05 — Planning: Design Mockups](build/05-planning-mockups.md)
+- Follow the instructions in [05 — Planning: Design Mockups](../build/05-planning-mockups.md)
 - Setup is done as part of the Planning workflow
 
 > 💡 **Tip**: UX Pilot is used specifically for mockup generation during Planning. You'll export mockups for use in implementation planning.
@@ -99,8 +99,8 @@ This guide uses specific tools throughout. Here's what you need to know about ea
 - Configuring development rules via `.cursorrules`
 
 **When it's used:**
-- [06 — Setup](build/06-setup.md) chapter - Git setup, `.cursorrules` configuration, and implementation planning
-- [08 — Build Features](build/08-build-features.md) chapter - Building features collaboratively
+- [06 — Setup](../build/06-setup.md) chapter - Git setup, `.cursorrules` configuration, and implementation planning
+- [08 — Build Features](../build/08-build-features.md) chapter - Building features collaboratively
 
 **How to access:**
 - Download and install Cursor IDE from [cursor.sh](https://cursor.sh)
@@ -113,9 +113,9 @@ This guide uses specific tools throughout. Here's what you need to know about ea
 
 **Setup:**
 1. Install Cursor IDE from [cursor.sh](https://cursor.sh)
-2. Follow [06 — Setup: Git & Cursor](build/06-setup-git-cursor.md) to clone your repository
-3. Configure `.cursorrules` as described in [06 — Setup: .cursorrules](build/06-setup-cursorrules.md)
-4. Use Cursor's plan mode to generate implementation plan in [06 — Setup: Implementation Planning](build/06-setup-implementation-planning.md)
+2. Follow [06 — Setup: Git & Cursor](../build/06-setup-git-cursor.md) to clone your repository
+3. Configure `.cursorrules` as described in [06 — Setup: .cursorrules](../build/06-setup-cursorrules.md)
+4. Use Cursor's plan mode to generate implementation plan in [06 — Setup: Implementation Planning](../build/06-setup-implementation-planning.md)
 
 > 💡 **Tip**: Cursor is your primary development tool for the Build section. You'll collaborate with Cursor AI throughout Setup and Build Features chapters.
 
@@ -128,7 +128,7 @@ This guide uses specific tools throughout. Here's what you need to know about ea
 - Infrastructure for production deployment
 
 **When it's used:**
-- [09 — Deploy](build/09-deploy.md) chapter
+- [09 — Deploy](../build/09-deploy.md) chapter
 - Final step before MVP is live
 
 **How to access:**
@@ -144,7 +144,7 @@ This guide uses specific tools throughout. Here's what you need to know about ea
 **Setup:**
 1. Sign up at [firebase.google.com](https://firebase.google.com)
 2. Create a new Firebase project
-3. Follow [09 — Deploy](build/09-deploy.md) for detailed setup instructions
+3. Follow [09 — Deploy](../build/09-deploy.md) for detailed setup instructions
 4. Configure Authentication, Hosting, and Functions as needed
 
 > 💡 **Tip**: Firebase setup happens during the Deploy chapter. You'll configure all services as part of the deployment process.
@@ -156,13 +156,13 @@ This guide uses specific tools throughout. Here's what you need to know about ea
 1. If starting with "Decide What to Build":
    - [ ] Set up Swift CNS account at [app.swiftcns.ai](https://app.swiftcns.ai)
    - [ ] Create a project in Swift CNS
-   - [ ] Ready to proceed to [01 — Idea / Problem](decide/01-idea-problem.md)
+   - [ ] Ready to proceed to [01 — Idea / Problem](../decide/01-idea-problem.md)
 
 2. If starting with "Build the MVP":
    - [ ] Install Cursor IDE from [cursor.sh](https://cursor.sh)
    - [ ] Set up Firebase account at [firebase.google.com](https://firebase.google.com)
    - [ ] Note: UX Pilot access will be set up during Planning chapter
-   - [ ] Ready to proceed to [05 — Planning](build/05-planning.md)
+   - [ ] Ready to proceed to [05 — Planning](../build/05-planning.md)
 
 **Artifact**: A checklist of tools you've set up and which ones you'll need later
 
@@ -185,7 +185,7 @@ You'll create:
 - ⏳ UX Pilot - will access during Planning chapter
 
 **Next Steps**:
-- Proceed to [01 — Idea / Problem](decide/01-idea-problem.md) to start validation in Swift CNS
+- Proceed to [01 — Idea / Problem](../decide/01-idea-problem.md) to start validation in Swift CNS
 
 ## Checklist
 
@@ -231,8 +231,8 @@ You're ready to proceed when:
 
 ### Next Steps
 - Review [Cadence](cadence.md) to establish work rhythm
-- Proceed to [Decide What to Build](decide/index.md) if using Swift CNS
-- Proceed to [Build the MVP](build/index.md) if using Cursor, UX Pilot, and Firebase
+- Proceed to [Decide What to Build](../decide/index.md) if using Swift CNS
+- Proceed to [Build the MVP](../build/index.md) if using Cursor, UX Pilot, and Firebase
 
 ### What This Enables
 

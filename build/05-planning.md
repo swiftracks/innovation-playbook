@@ -8,7 +8,7 @@
 
 **Time**: 1-2 days
 
-**Prerequisites**: [Decide What to Build](decide/index.md) - Decision to build, key problems identified, innovation aspects defined
+**Prerequisites**: [Decide What to Build](../decide/index.md) - Decision to build, key problems identified, innovation aspects defined
 
 ## Learning Outcomes
 
@@ -27,7 +27,7 @@ By the end of this chapter, you will be able to:
 
 ## Inputs
 
-- Decision to build from [06 — Synthesize Insights → Decision](decide/06-synthesize-insights-decision.md)
+- Decision to build from [06 — Synthesize Insights → Decision](../decide/06-synthesize-insights-decision.md)
 - Key problems identified and innovation aspects defined
 - Understanding of target users and value proposition
 - Access to AI tools (ChatGPT, Claude, or Cursor)
@@ -205,7 +205,7 @@ You're ready to proceed to [06 — Setup](06-setup.md) when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [Decide What to Build](decide/index.md) - Decision to build, key problems identified, innovation aspects defined
+- [Decide What to Build](../decide/index.md) - Decision to build, key problems identified, innovation aspects defined
 
 ### Next Steps
 

@@ -8,7 +8,7 @@
 
 **Time**: 2-4 weeks (depending on complexity)
 
-**Prerequisites**: [Decide What to Build](decide/index.md) - Decision to build
+**Prerequisites**: [Decide What to Build](../decide/index.md) - Decision to build
 
 ## Learning Outcomes
 
@@ -26,7 +26,7 @@ By the end of this section, you will be able to:
 
 ## Inputs
 
-- Decision to build from [06 — Synthesize Insights → Decision](decide/06-synthesize-insights-decision.md)
+- Decision to build from [06 — Synthesize Insights → Decision](../decide/06-synthesize-insights-decision.md)
 - Validated hypotheses and learnings
 - Problem statement and value proposition
 - Understanding of user needs
@@ -48,11 +48,11 @@ This section follows a systematic build process:
 
 1. Do you have a decision to build?
    - [ ] Yes → Ready to proceed
-   - [ ] No → Return to [Decide What to Build](decide/index.md)
+   - [ ] No → Return to [Decide What to Build](../decide/index.md)
 
 2. Do you have key problems identified and innovation aspects defined?
    - [ ] Yes → Ready for [05 — Planning](05-planning.md)
-   - [ ] No → Return to [Decide What to Build](decide/index.md)
+   - [ ] No → Return to [Decide What to Build](../decide/index.md)
 
 3. Do you have access to AI tools (ChatGPT, Claude, or Cursor) and UX Pilot?
    - [ ] Yes → Ready to proceed
@@ -129,7 +129,7 @@ You're ready to proceed to "Launch & Iterate" when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [Decide What to Build](decide/index.md) - Decision to build
+- [Decide What to Build](../decide/index.md) - Decision to build
 
 ### Next Steps
 - Start with [05 — Planning](05-planning.md) to create user stories, PRD, and mockups
@@ -144,8 +144,8 @@ Completing this section enables:
 - Iteration and improvement
 
 ### Related Sections
-- [Launch & Iterate](launch/index.md) - If MVP is ready for launch
-- [Decide What to Build](decide/index.md) - If you need to pivot or restart
+- [Launch & Iterate](../launch/index.md) - If MVP is ready for launch
+- [Decide What to Build](../decide/index.md) - If you need to pivot or restart
 
 ---
 

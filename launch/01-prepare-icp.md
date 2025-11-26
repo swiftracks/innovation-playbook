@@ -8,7 +8,7 @@
 
 **Time**: 2-4 hours
 
-**Prerequisites**: [Decide What to Build](decide/index.md) - Initial ICP research, [Launch & Iterate](index.md)
+**Prerequisites**: [Decide What to Build](../decide/index.md) - Initial ICP research, [Launch & Iterate](index.md)
 
 ## Learning Outcomes
 
@@ -28,7 +28,7 @@ By the end of this chapter, you will be able to:
 
 ## Inputs
 
-- Initial ICP research from [Decide What to Build](decide/index.md)
+- Initial ICP research from [Decide What to Build](../decide/index.md)
 - User research on pains, gains, and life without solution
 - Competitor research and market analysis
 - Understanding of target market from earlier validation
@@ -39,9 +39,9 @@ By the end of this chapter, you will be able to:
 ### 1. Review Earlier Research
 
 **Leverage Decide Section Research**:
-1. Review problem statements and user research from [01 — Idea / Problem](decide/01-idea-problem.md)
-2. Review assumptions and hypotheses from [02 — Identify Critical Assumptions](decide/02-identify-critical-assumptions.md) and [03 — Form Testable Hypotheses](decide/03-form-testable-hypotheses.md)
-3. Review experiment results and learnings from [04 — Design & Run Experiments](decide/04-design-run-experiments.md) and [05 — Extract Key Learnings](decide/05-extract-key-learnings.md)
+1. Review problem statements and user research from [01 — Idea / Problem](../decide/01-idea-problem.md)
+2. Review assumptions and hypotheses from [02 — Identify Critical Assumptions](../decide/02-identify-critical-assumptions.md) and [03 — Form Testable Hypotheses](../decide/03-form-testable-hypotheses.md)
+3. Review experiment results and learnings from [04 — Design & Run Experiments](../decide/04-design-run-experiments.md) and [05 — Extract Key Learnings](../decide/05-extract-key-learnings.md)
 4. Extract key insights about who your users are and what they need
 
 **What to Extract**:
@@ -610,7 +610,7 @@ You're ready to proceed when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [Decide What to Build](decide/index.md) - Initial ICP research
+- [Decide What to Build](../decide/index.md) - Initial ICP research
 - [Launch & Iterate](index.md) - Understanding launch process
 
 ### Next Steps

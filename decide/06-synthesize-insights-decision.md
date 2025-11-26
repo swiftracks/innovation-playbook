@@ -151,7 +151,7 @@ Surprises:
 
 **If Go**:
 - Document decision in Swift CNS
-- Proceed to [Build the MVP](build/index.md)
+- Proceed to [Build the MVP](../build/index.md)
 - Use validated learnings to inform build
 - Address any remaining risks
 
@@ -292,7 +292,7 @@ Based on your decision:
 
 **If Go**:
 - Document decision in Swift CNS
-- Proceed to [Build the MVP](build/index.md) to start building
+- Proceed to [Build the MVP](../build/index.md) to start building
 
 **If No-Go**:
 - Document decision in Swift CNS

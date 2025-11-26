@@ -8,7 +8,7 @@
 
 **Time**: 4-8 weeks (private beta) + ongoing iteration
 
-**Prerequisites**: [Build the MVP](build/index.md) - Working MVP, [Decide What to Build](decide/index.md) - Initial ICP research
+**Prerequisites**: [Build the MVP](../build/index.md) - Working MVP, [Decide What to Build](../decide/index.md) - Initial ICP research
 
 ## Learning Outcomes
 
@@ -31,8 +31,8 @@ By the end of this section, you will be able to:
 
 ## Inputs
 
-- Working MVP from [Build the MVP](build/index.md)
-- Initial ICP research from [Decide What to Build](decide/index.md)
+- Working MVP from [Build the MVP](../build/index.md)
+- Initial ICP research from [Decide What to Build](../decide/index.md)
 - Competitor research and market analysis
 - Understanding of user pains and gains from earlier validation
 - Quality and observability setup from deployment
@@ -74,11 +74,11 @@ This section follows a systematic launch process working backwards from private 
 
 1. Do you have a working MVP?
    - [ ] Yes → Ready to proceed
-   - [ ] No → Return to [Build the MVP](build/index.md)
+   - [ ] No → Return to [Build the MVP](../build/index.md)
 
 2. Do you have initial ICP research from the decide section?
    - [ ] Yes → Ready for [01 — Prepare ICP](01-prepare-icp.md)
-   - [ ] No → Complete [Decide What to Build](decide/index.md) first
+   - [ ] No → Complete [Decide What to Build](../decide/index.md) first
 
 3. Have you researched competitors and their GTM strategies?
    - [ ] Yes → Ready to proceed
@@ -86,11 +86,11 @@ This section follows a systematic launch process working backwards from private 
 
 4. Do you understand your user's pains, gains, and life without your solution?
    - [ ] Yes → Ready to proceed
-   - [ ] No → Review research from [Decide What to Build](decide/index.md)
+   - [ ] No → Review research from [Decide What to Build](../decide/index.md)
 
 5. Do you have quality and observability set up?
    - [ ] Yes → Ready for launch
-   - [ ] No → Set up [09 — Deploy](build/09-deploy.md) first
+   - [ ] No → Set up [09 — Deploy](../build/09-deploy.md) first
 
 **Artifact**: A readiness assessment showing what you need before launching
 
@@ -170,8 +170,8 @@ You're ready to proceed to public beta when:
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [Build the MVP](build/index.md) - Working MVP
-- [Decide What to Build](decide/index.md) - Initial ICP research and validation
+- [Build the MVP](../build/index.md) - Working MVP
+- [Decide What to Build](../decide/index.md) - Initial ICP research and validation
 
 ### Next Steps
 - Start with [01 — Prepare ICP](01-prepare-icp.md) to develop comprehensive ICP framework
@@ -190,8 +190,8 @@ Completing this section enables:
 - Foundation for scaling to public beta
 
 ### Related Sections
-- [Build the MVP](build/index.md) - If you need to iterate on features
-- [Decide What to Build](decide/index.md) - If you need to pivot or restart ICP research
+- [Build the MVP](../build/index.md) - If you need to iterate on features
+- [Decide What to Build](../decide/index.md) - If you need to pivot or restart ICP research
 
 ---
 

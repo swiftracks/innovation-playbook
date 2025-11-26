@@ -33,7 +33,7 @@ By the end of this chapter, you will be able to:
 - Channel strategy from [03 — Design Channel Strategy](03-design-channel-strategy.md)
 - Website V1 from [04 — Build Website V1](04-build-website-v1.md)
 - Tool stack from [05 — Setup Tool Stack](05-setup-tool-stack.md)
-- Working MVP from [Build the MVP](build/index.md)
+- Working MVP from [Build the MVP](../build/index.md)
 
 ## Activities
 
@@ -339,7 +339,7 @@ You're ready to proceed when:
 
 ### Prerequisites Completed
 - [01 — Prepare ICP](01-prepare-icp.md) through [05 — Setup Tool Stack](05-setup-tool-stack.md) - All preparation complete
-- [Build the MVP](build/index.md) - Working MVP
+- [Build the MVP](../build/index.md) - Working MVP
 
 ### Next Steps
 - Proceed to [07 — Run Experiments](07-run-experiments.md) to run experiments across Outbound, Growth Marketing, and Product

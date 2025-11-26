@@ -358,7 +358,7 @@ You're ready to proceed when:
 - [08 — Build Features](08-build-features.md) - Working MVP features ready for private beta
 
 ### Next Steps
-- Proceed to [Launch & Iterate](launch/index.md) to launch MVP and gather feedback
+- Proceed to [Launch & Iterate](../launch/index.md) to launch MVP and gather feedback
 
 ### What This Enables
 
