@@ -66,25 +66,50 @@ This map shows how chapters relate to each other and different learning paths th
 
 ### Launch & Iterate
 
-#### 09 — Private Beta
-- **Depends on**: 09 — Deploy
-- **Enables**: 10 — Instrumentation, 11 — Experiments
+#### 01 — Prepare ICP
+- **Depends on**: 09 — Deploy (from Build), Decide What to Build (initial ICP research)
+- **Enables**: 02 — Develop Messaging Strategy
 - **Can be done in parallel with**: None
 
-#### 10 — Instrumentation
-- **Depends on**: 09 — Private Beta
-- **Enables**: 11 — Experiments, 12 — Feedback Ops
-- **Can be done in parallel with**: 11 — Experiments (after instrumentation setup)
+#### 02 — Develop Messaging Strategy
+- **Depends on**: 01 — Prepare ICP
+- **Enables**: 03 — Design Channel Strategy
+- **Can be done in parallel with**: None
 
-#### 11 — Experiments
-- **Depends on**: 09 — Private Beta, 10 — Instrumentation (recommended)
-- **Enables**: 12 — Feedback Ops
-- **Can be done in parallel with**: 10 — Instrumentation (for setup)
+#### 03 — Design Channel Strategy
+- **Depends on**: 02 — Develop Messaging Strategy
+- **Enables**: 04 — Build Website V1
+- **Can be done in parallel with**: None
 
-#### 12 — Feedback Ops
-- **Depends on**: 09 — Private Beta, 10 — Instrumentation (recommended)
+#### 04 — Build Website V1
+- **Depends on**: 03 — Design Channel Strategy
+- **Enables**: 05 — Setup Tool Stack
+- **Can be done in parallel with**: None
+
+#### 05 — Setup Tool Stack
+- **Depends on**: 04 — Build Website V1
+- **Enables**: 06 — Launch Private Beta
+- **Can be done in parallel with**: None
+
+#### 06 — Launch Private Beta
+- **Depends on**: 05 — Setup Tool Stack
+- **Enables**: 07 — Run Experiments, 08 — Synthesize Insights
+- **Can be done in parallel with**: None
+
+#### 07 — Run Experiments
+- **Depends on**: 06 — Launch Private Beta
+- **Enables**: 08 — Synthesize Insights
+- **Can be done in parallel with**: 08 — Synthesize Insights (after initial experiments)
+
+#### 08 — Synthesize Insights
+- **Depends on**: 06 — Launch Private Beta, 07 — Run Experiments (recommended)
+- **Enables**: 09 — Exit to Public Beta
+- **Can be done in parallel with**: 07 — Run Experiments (for ongoing synthesis)
+
+#### 09 — Exit to Public Beta
+- **Depends on**: 08 — Synthesize Insights
 - **Enables**: Iteration back to Decide, Build, or Launch
-- **Can be done in parallel with**: 11 — Experiments
+- **Can be done in parallel with**: None
 
 ## Learning Paths
 
@@ -134,13 +159,13 @@ This map shows how chapters relate to each other and different learning paths th
 ## Parallel Work Opportunities
 
 ### Can Work in Parallel
-- **10 — Instrumentation** and **11 — Experiments** (after Private Beta)
-- **11 — Experiments** and **12 — Feedback Ops** (after Private Beta)
+- **07 — Run Experiments** and **08 — Synthesize Insights** (after Launch Private Beta, for ongoing synthesis)
 
 ### Must Be Sequential
 - All "Decide" chapters (01-06) must be done in order
 - Setup must come before Build chapters
-- Private Beta must come before other Launch chapters
+- Launch chapters 01-05 must be done in order before launching
+- Launch Private Beta (06) must come before post-launch chapters (07-09)
 
 ## Dependency Graph
 
@@ -154,7 +179,7 @@ Build the MVP
     ├─ 05 → 06 → 08 → 09
     ↓
 Launch & Iterate
-    ├─ 09 → [10, 11] → 12
+    ├─ 01 → 02 → 03 → 04 → 05 → 06 → [07, 08] → 09
     ↓
 [Iterate back to Decide, Build, or Launch]
 ```

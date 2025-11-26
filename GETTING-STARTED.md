@@ -54,10 +54,15 @@ Build the MVP
     └─ Deploy
     ↓
 Launch & Iterate
-    ├─ Private Beta
-    ├─ Instrumentation
-    ├─ Experiments
-    └─ Feedback Ops
+    ├─ Prepare ICP
+    ├─ Develop Messaging Strategy
+    ├─ Design Channel Strategy
+    ├─ Build Website V1
+    ├─ Setup Tool Stack
+    ├─ Launch Private Beta
+    ├─ Run Experiments
+    ├─ Synthesize Insights
+    └─ Exit to Public Beta
 ```
 
 ## Key Principles

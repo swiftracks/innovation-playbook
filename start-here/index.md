@@ -41,7 +41,7 @@ This guide follows a systematic approach:
 
 ### 2. Choose Your Path
 
-Review the [Dependency Map](dependency-map.md) to find your path:
+Review the [Dependency Map](../dependency-map.md) to find your path:
 
 - **Validating an idea?** → Start with "Decide What to Build"
 - **Ready to build?** → Start with "Build the MVP"
@@ -211,5 +211,5 @@ Understanding the guide structure enables you to:
 
 ---
 
-> 💡 **Tip**: Bookmark the [Dependency Map](dependency-map.md) for quick navigation
+> 💡 **Tip**: Bookmark the [Dependency Map](../dependency-map.md) for quick navigation
 > 📝 **Note**: You can always return to this section if you need to reorient yourself
