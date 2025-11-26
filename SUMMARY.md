@@ -67,5 +67,4 @@
   * [09 — Exit to Public Beta](launch/09-exit-to-public-beta.md)
     * [09 — Exit to Public Beta: Checklist](launch/09-exit-to-public-beta-checklist.md)
     * [09 — Exit to Public Beta: Template](launch/09-exit-to-public-beta-template.md)
-* [Style Guide](style-guide.md)
 * [Glossary](glossary.md)

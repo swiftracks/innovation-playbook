@@ -9,6 +9,8 @@ coverY: 0
 
 This playbook is our end-to-end, hands-on guide for taking ideas from zero to one, with the rigor of engineering and the heartbeat of a startup. It's the operating system we use internally to discover, validate, build, and iterate products with speed and clarity. And we're publishing it for free.
 
+> 📝 **Note**: This Playbook is a work in progress and we will be publishing updates to optimize this as technology evolves and our processes along with it.
+
 ## Who this is for
 
 * **Founders & founding teams** who need a practical path from concept to product-market fit.
