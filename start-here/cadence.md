@@ -176,7 +176,7 @@ You're ready to proceed when:
 - [Getting Started](../GETTING-STARTED.md) - Understanding the guide structure
 
 ### Next Steps
-- Review [Assets](assets.md) to understand available resources
+- Review [Getting Started](../GETTING-STARTED.md) for tool prerequisites
 - Proceed to [Decide What to Build](../decide/index.md) if ready to validate
 - Proceed to [Build the MVP](../build/index.md) if ready to build
 

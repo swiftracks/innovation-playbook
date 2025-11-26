@@ -129,38 +129,68 @@ All validation work happens within Swift CNS, providing a systematic, AI-guided 
 
 ## Tool Prerequisites
 
-You don't need all tools upfront. Set them up as you reach each section.
+You don't need all tools upfront. Set them up as you reach each section. Detailed setup instructions are provided in the relevant chapters.
 
 ### For "Decide What to Build" Section
 
 **Swift CNS** - AI-powered validation platform
+- **What it's used for**: AI-guided validation, creating experiments, documenting learnings in Learning Cards, synthesizing insights for decisions
 - **Access**: [app.swiftcns.ai](https://app.swiftcns.ai)
 - **Used in**: All Decide chapters (01-06)
-- **Setup**: Sign up with Google account, create a project, start a new chat
+- **Prerequisites**: Google account for sign-in, initial idea or problem hypothesis
+- **Quick setup**:
+  1. Visit [app.swiftcns.ai](https://app.swiftcns.ai)
+  2. Sign in with your Google account
+  3. Create a new project (or select existing)
+  4. Start a new chat to begin validation
 - **When**: Set up before starting Decide section
+
+> 💡 **Tip**: All validation work happens within Swift CNS. You'll use chat, experiments, learning cards, and insights features throughout the Decide section.
 
 ### For "Build the MVP" Section
 
 **UX Pilot** - Mockup generation tool
-- **Used in**: Planning chapter (05)
-- **Setup**: Follow instructions in Planning chapter
+- **What it's used for**: Generating visual mockups of complete user journeys for MVP planning
+- **Used in**: Planning chapter (05), specifically in the mockup design phase
+- **Prerequisites**: User stories and PRD from earlier in Planning chapter
+- **Setup**: Follow instructions in [05 — Planning: Design Mockups](build/05-planning-mockups.md)
+- **When**: Set up during Planning chapter
 
 **Cursor** - AI-powered IDE
+- **What it's used for**: AI-powered collaborative development, generating implementation plans, building features end-to-end, configuring development rules via `.cursorrules`
 - **Access**: [cursor.sh](https://cursor.sh)
 - **Used in**: Setup (06) and Build Features (08) chapters
-- **Setup**: Install Cursor IDE, configure `.cursorrules` in Setup chapter
+- **Prerequisites**: Git repository (created in Setup chapter)
+- **Quick setup**:
+  1. Install Cursor IDE from [cursor.sh](https://cursor.sh)
+  2. Follow [06 — Setup: Git & Cursor](build/06-setup-git-cursor.md) to clone your repository
+  3. Configure `.cursorrules` as described in [06 — Setup: .cursorrules](build/06-setup-cursorrules.md)
+  4. Use Cursor's plan mode to generate implementation plan in [06 — Setup: Implementation Planning](build/06-setup-implementation-planning.md)
+- **When**: Set up during Setup chapter
+
+> 💡 **Tip**: Cursor is your primary development tool for the Build section. You'll collaborate with Cursor AI throughout Setup and Build Features chapters.
 
 **Firebase** - Backend infrastructure
+- **What it's used for**: Hosting MVP application, authentication, Cloud Functions, production deployment
 - **Access**: [firebase.google.com](https://firebase.google.com)
 - **Used in**: Deploy chapter (09)
-- **Setup**: Create Firebase project during Deploy chapter
+- **Prerequisites**: Google account, working MVP features ready for deployment, completed QA testing
+- **Quick setup**:
+  1. Sign up at [firebase.google.com](https://firebase.google.com)
+  2. Create a new Firebase project
+  3. Follow [09 — Deploy](build/09-deploy.md) for detailed setup instructions
+  4. Configure Authentication, Hosting, and Functions as needed
+- **When**: Set up during Deploy chapter
+
+> 💡 **Tip**: Firebase setup happens during the Deploy chapter. You'll configure all services as part of the deployment process.
 
 ### For "Launch & Iterate" Section
 
 **Swift CNS** - Also used for experiments and insights in Launch section
+- **What it's used for**: Running experiments (outbound, growth marketing, product), synthesizing insights
 - **Used in**: Run Experiments (07) and Synthesize Insights (08) chapters
-
-See [Assets](start-here/assets.md) for detailed tool setup instructions.
+- **Prerequisites**: Swift CNS account (same as Decide section)
+- **When**: Use existing Swift CNS account from Decide section, or set up if starting directly with Launch
 
 ## Chapter Structure
 
@@ -201,7 +231,6 @@ As you work through this guide, you'll produce:
 
 * [Dependency Map](dependency-map.md) - Chapter relationships and learning paths
 * [Glossary](glossary.md) - Key terms and definitions
-* [Assets](start-here/assets.md) - Detailed tool setup instructions
 * [Cadence](start-here/cadence.md) - Establishing work rhythms
 * [Style Guide](/broken/pages/eQPCw2dkrAu2IfAAE7W1) - Voice, formatting, and callout standards
 

@@ -4,7 +4,6 @@
 * [Getting Started](GETTING-STARTED.md)
 * [Dependency Map](dependency-map.md)
 * [Cadence](start-here/cadence.md)
-* [Assets](start-here/assets.md)
 * [Decide What to Build](decide/index.md)
   * [01 — Idea / Problem](decide/01-idea-problem.md)
     * [01 — Idea / Problem: Checklist](decide/01-idea-problem-checklist.md)
