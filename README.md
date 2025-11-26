@@ -7,8 +7,6 @@ coverY: 0
 
 # Swift Racks - Innovation Playbook
 
-## Swift Racks - Innovation Playbook
-
 **Ship faster. Learn faster. Win faster.**
 
 This playbook is our end-to-end, hands-on guide for taking ideas from zero to one, with the rigor of engineering and the heartbeat of a startup. It's the operating system we use internally to discover, validate, build, and iterate products with speed and clarity. And we're publishing it for free.
