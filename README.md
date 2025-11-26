@@ -57,8 +57,6 @@ The playbook follows a three-phase journey:
 
 Each chapter includes learning outcomes, inputs, activities, templates, examples, and checklists. You can follow the full journey or jump to the phase that matches where you are today.
 
-## <<<<<<< HEAD
-
 ### What's inside (at a glance)
 
 * **Decide What to Build**: Idea/problem articulation, critical assumptions identification, testable hypotheses formation, experiment design and execution, learning extraction, and insights synthesis for go/no-go decisions. All powered by Swift CNS.
@@ -66,8 +64,6 @@ Each chapter includes learning outcomes, inputs, activities, templates, examples
 * **Launch & Iterate**: ICP preparation, messaging strategy development, channel strategy design, website V1 build, tool stack setup, private beta launch, experiment execution (outbound, growth marketing, product), insights synthesis, and public beta exit. Experiments and insights managed in Swift CNS.
 
 Every chapter includes templates, examples, checklists, and self-assessments embedded throughout.
-
-> > > > > > > ec89d118f6589d0f655a34d57fc8d076ef3b1f95
 
 ### Principles we operate by
 
