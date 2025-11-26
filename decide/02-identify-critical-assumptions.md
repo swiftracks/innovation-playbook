@@ -8,11 +8,12 @@
 
 **Time**: 30-60 minutes (guided by AI)
 
-**Prerequisites**: [01 — Idea / Problem](01-idea-problem.md) - Chat started in Swift CNS
+**Prerequisites**: [01 — Idea / Problem](/broken/pages/8q159P4ibmD5B1v8hxve) - Chat started in Swift CNS
 
 ## Learning Outcomes
 
 By the end of this chapter, you will be able to:
+
 1. Use Swift CNS AI to identify assumptions about your solution
 2. Distinguish between critical and non-critical assumptions
 3. Prioritize assumptions by risk and impact in Swift CNS
@@ -21,91 +22,98 @@ By the end of this chapter, you will be able to:
 
 ## Jobs-to-Be-Done
 
-- **When**: I have started a chat in Swift CNS and the AI has analyzed my idea
-- **I want**: To use Swift CNS to identify what must be true for my solution to work
-- **So that**: I can focus on validating the riskiest assumptions first
+* **When**: I have started a chat in Swift CNS and the AI has analyzed my idea
+* **I want**: To use Swift CNS to identify what must be true for my solution to work
+* **So that**: I can focus on validating the riskiest assumptions first
 
 ## Inputs
 
-- Active chat in Swift CNS from [01 — Idea / Problem](01-idea-problem.md)
-- AI analysis of your idea
-- Understanding of your proposed solution
+* Active chat in Swift CNS from [01 — Idea / Problem](/broken/pages/8q159P4ibmD5B1v8hxve)
+* AI analysis of your idea
+* Understanding of your proposed solution
 
 ## Activities
 
 ### 1. Continue the Chat Conversation
 
 **In Swift CNS**:
+
 1. Return to your chat conversation (if not already there)
 2. The AI will guide you through the Assumptions Mapping step
 3. Follow the AI's prompts and questions
 
 **What the AI Will Do**:
-- Ask about your proposed solution
-- Help you identify what you're assuming
-- Categorize assumptions (user, technical, business, value)
-- Identify which assumptions are critical
+
+* Ask about your proposed solution
+* Help you identify what you're assuming
+* Categorize assumptions (user, technical, business, value)
+* Identify which assumptions are critical
 
 > 💡 **Tip**: Be honest with the AI about your assumptions. It helps identify what needs validation.
 
 ### 2. Identify All Assumptions
 
 **The AI Will Guide You Through**:
-- **User Assumptions**: About users' needs, behaviors, preferences
-  - Example: "Users will use an AI-powered retrospective tool"
-  
-- **Technical Assumptions**: About what's possible to build
-  - Example: "We can build AI that generates useful insights"
-  
-- **Business Assumptions**: About market, pricing, competition
-  - Example: "Users will pay $10/month for this tool"
-  
-- **Value Assumptions**: About the value proposition
-  - Example: "Users will find AI-generated insights valuable"
+
+* **User Assumptions**: About users' needs, behaviors, preferences
+  * Example: "Users will use an AI-powered retrospective tool"
+* **Technical Assumptions**: About what's possible to build
+  * Example: "We can build AI that generates useful insights"
+* **Business Assumptions**: About market, pricing, competition
+  * Example: "Users will pay $10/month for this tool"
+* **Value Assumptions**: About the value proposition
+  * Example: "Users will find AI-generated insights valuable"
 
 **How to Answer**:
-- Be comprehensive - list everything you're assuming
-- Don't filter yet - the AI will help prioritize
-- Be specific - avoid vague assumptions
+
+* Be comprehensive - list everything you're assuming
+* Don't filter yet - the AI will help prioritize
+* Be specific - avoid vague assumptions
 
 ### 3. Identify Critical Assumptions
 
 **The AI Will Help You Identify**:
-- **Critical Assumptions**: Those that, if false, would invalidate the solution
-- **High Risk**: Uncertainty is high
-- **High Impact**: Affects the entire value proposition
+
+* **Critical Assumptions**: Those that, if false, would invalidate the solution
+* **High Risk**: Uncertainty is high
+* **High Impact**: Affects the entire value proposition
 
 **Questions the AI May Ask**:
-- "If this assumption is false, does the product fail?"
-- "How confident are you about this assumption?"
-- "What evidence do you have for this assumption?"
+
+* "If this assumption is false, does the product fail?"
+* "How confident are you about this assumption?"
+* "What evidence do you have for this assumption?"
 
 ### 4. Prioritize Assumptions
 
 **The AI Will Help You Prioritize**:
-- **High Risk / High Impact** → Critical (test first)
-- **High Risk / Low Impact** → Test if time allows
-- **Low Risk / High Impact** → Monitor
-- **Low Risk / Low Impact** → Track but don't prioritize
+
+* **High Risk / High Impact** → Critical (test first)
+* **High Risk / Low Impact** → Test if time allows
+* **Low Risk / High Impact** → Monitor
+* **Low Risk / Low Impact** → Track but don't prioritize
 
 **In Swift CNS**:
-- The AI will help you organize assumptions
-- You'll see them categorized and prioritized
-- Focus on the top 5-10 critical assumptions
+
+* The AI will help you organize assumptions
+* You'll see them categorized and prioritized
+* Focus on the top 5-10 critical assumptions
 
 ### 5. Review Assumptions
 
 **After AI Analysis**:
+
 1. Review the assumptions list generated by the AI
 2. Verify they're accurate
 3. Add any assumptions the AI might have missed
 4. Confirm priorities are correct
 
 **Your Assumptions Will Be**:
-- Documented in the chat conversation
-- Categorized by type
-- Prioritized by risk and impact
-- Ready for hypothesis formation
+
+* Documented in the chat conversation
+* Categorized by type
+* Prioritized by risk and impact
+* Ready for hypothesis formation
 
 ## Apply It Now
 
@@ -119,24 +127,27 @@ By the end of this chapter, you will be able to:
 6. Document the top 5-10 critical assumptions
 
 **Artifact**: A prioritized assumptions list in Swift CNS with:
-- All assumptions listed
-- Critical assumptions identified
-- Risk and impact assessment
-- Priority ranking
+
+* All assumptions listed
+* Critical assumptions identified
+* Risk and impact assessment
+* Priority ranking
 
 ## Artifacts
 
 You'll create in Swift CNS:
-- Assumptions list in chat conversation
-- Critical assumptions identified
-- Risk and impact assessment
-- Prioritized assumptions list
+
+* Assumptions list in chat conversation
+* Critical assumptions identified
+* Risk and impact assessment
+* Prioritized assumptions list
 
 ## Worked Example
 
 **Situation**: Identifying assumptions for retrospective tool in Swift CNS
 
 **Chat Conversation**:
+
 ```
 AI: "Now let's identify the assumptions you're making about your solution. 
 What do you assume about users?"
@@ -153,80 +164,81 @@ high impact. What else are you assuming?"
 ```
 
 **Result in Swift CNS**:
-- **Assumption 1**: Teams will use an AI-powered retrospective tool
-  - Category: User
-  - Risk: High
-  - Impact: High
-  - Status: Critical ✓
 
-- **Assumption 2**: We can build AI that generates useful insights
-  - Category: Technical
-  - Risk: High
-  - Impact: High
-  - Status: Critical ✓
-
-- **Assumption 3**: Users will pay $10/month
-  - Category: Business
-  - Risk: Medium
-  - Impact: High
-  - Status: Important (not critical)
+* **Assumption 1**: Teams will use an AI-powered retrospective tool
+  * Category: User
+  * Risk: High
+  * Impact: High
+  * Status: Critical ✓
+* **Assumption 2**: We can build AI that generates useful insights
+  * Category: Technical
+  * Risk: High
+  * Impact: High
+  * Status: Critical ✓
+* **Assumption 3**: Users will pay $10/month
+  * Category: Business
+  * Risk: Medium
+  * Impact: High
+  * Status: Important (not critical)
 
 ## Checklist
 
 Before proceeding to the next chapter, verify:
-- [ ] You've continued the chat conversation in Swift CNS
-- [ ] You've listed all assumptions (user, technical, business, value)
-- [ ] Critical assumptions are identified
-- [ ] Assumptions are prioritized by risk and impact
-- [ ] Top 5-10 critical assumptions are documented in Swift CNS
+
+* [ ] You've continued the chat conversation in Swift CNS
+* [ ] You've listed all assumptions (user, technical, business, value)
+* [ ] Critical assumptions are identified
+* [ ] Assumptions are prioritized by risk and impact
+* [ ] Top 5-10 critical assumptions are documented in Swift CNS
 
 ## Self-Assessment
 
 1. **What does Swift CNS AI help you identify?** (Select all)
-   - [ ] All assumptions ✓
-   - [ ] Critical assumptions ✓
-   - [ ] Risk and impact ✓
-   - [ ] Prioritization ✓
-
+   * [ ] All assumptions ✓
+   * [ ] Critical assumptions ✓
+   * [ ] Risk and impact ✓
+   * [ ] Prioritization ✓
 2. **What makes an assumption critical?** (Select all)
-   - [ ] If false, the solution fails ✓
-   - [ ] Uncertainty is high ✓
-   - [ ] Impact is high ✓
-   - [ ] It's easy to test
-
+   * [ ] If false, the solution fails ✓
+   * [ ] Uncertainty is high ✓
+   * [ ] Impact is high ✓
+   * [ ] It's easy to test
 3. **How should you prioritize assumptions?**
-   - [ ] Test high risk, high impact first ✓
-   - [ ] Test easy ones first
-   - [ ] Test all equally
+   * [ ] Test high risk, high impact first ✓
+   * [ ] Test easy ones first
+   * [ ] Test all equally
 
 ## Exit Criteria
 
 You're ready to proceed when:
-- [ ] All assumptions are listed in Swift CNS
-- [ ] Critical assumptions are identified
-- [ ] Assumptions are prioritized
-- [ ] Top 5-10 critical assumptions are documented
-- [ ] The AI is ready to guide you through hypothesis formation
+
+* [ ] All assumptions are listed in Swift CNS
+* [ ] Critical assumptions are identified
+* [ ] Assumptions are prioritized
+* [ ] Top 5-10 critical assumptions are documented
+* [ ] The AI is ready to guide you through hypothesis formation
 
 ## Dependencies & Next Steps
 
 ### Prerequisites Completed
-- [01 — Idea / Problem](01-idea-problem.md) - Chat started in Swift CNS
+
+* [01 — Idea / Problem](/broken/pages/8q159P4ibmD5B1v8hxve) - Chat started in Swift CNS
 
 ### Next Steps
-- Continue the chat conversation in Swift CNS
-- The AI will guide you through [03 — Form Testable Hypotheses](03-form-testable-hypotheses.md)
-- Follow the AI's prompts to convert assumptions to hypotheses
+
+* Continue the chat conversation in Swift CNS
+* The AI will guide you through [03 — Form Testable Hypotheses](03-form-testable-hypotheses.md)
+* Follow the AI's prompts to convert assumptions to hypotheses
 
 ### What This Enables
 
 Identifying critical assumptions in Swift CNS enables:
-- Focused validation efforts
-- AI-guided hypothesis formation
-- Efficient experiment design
-- Systematic risk mitigation
 
----
+* Focused validation efforts
+* AI-guided hypothesis formation
+* Efficient experiment design
+* Systematic risk mitigation
 
-> 💡 **Tip**: Trust the AI's guidance. It's designed to help you think systematically about assumptions.
-> 📝 **Note**: You can always add more assumptions later if you think of them.
+***
+
+> 💡 **Tip**: Trust the AI's guidance. It's designed to help you think systematically about assumptions. 📝 **Note**: You can always add more assumptions later if you think of them.

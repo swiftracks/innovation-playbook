@@ -43,7 +43,7 @@ By the end of this chapter, you will be able to:
 2. Click the **"Insights"** tab
 3. Or go to global **Insights** page (from main nav)
 
-![Insights Tab](../.gitbook/assets/07-insights-tab.png)
+![Insights Tab](/broken/files/cSHKkV5ciWbU2SD3yn09)
 
 **What You'll See**:
 

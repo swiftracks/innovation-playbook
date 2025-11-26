@@ -118,7 +118,7 @@ By the end of this chapter, you will be able to:
 * You can see status: Draft, Approved, Running, Completed, Archive
 * Monitor progress and results
 
-![Experiments Tab](../.gitbook/assets/05-experiments-tab.png)
+![Experiments Tab](/broken/files/5i9LGAscl5O7LWvj1uok)
 
 ### 4. Track Experiments in Swift CNS
 

@@ -1,9 +1,13 @@
 ---
-cover: .gitbook/assets/SR - Innovation Playbook.png
+cover:
+  light: .gitbook/assets/sr-innovation-playbook-white.svg
+  dark: .gitbook/assets/sr-innovation-playbook.svg
 coverY: 0
 ---
 
 # Swift Racks - Innovation Playbook
+
+## Swift Racks - Innovation Playbook
 
 **Ship faster. Learn faster. Win faster.**
 
@@ -11,7 +15,7 @@ This playbook is our end-to-end, hands-on guide for taking ideas from zero to on
 
 > 📝 **Note**: This Playbook is a work in progress and we will be publishing updates to optimize this as technology evolves and our processes along with it.
 
-## Who this is for
+### Who this is for
 
 * **Founders & founding teams** who need a practical path from concept to product-market fit.
 * **Product managers & tech leads** who want repeatable discovery, delivery, and iteration rhythms.
@@ -21,7 +25,7 @@ This playbook is our end-to-end, hands-on guide for taking ideas from zero to on
 
 If you're measured by learning velocity and shipped value, not slide decks, this is for you.
 
-## Why we're publishing this
+### Why we're publishing this
 
 Since 2017, SwiftRacks has built 100+ solutions and enabled $200M+ in SaaS transactions. Along the way, we turned the chaotic "innovation fog" into a system: playbooks, processes, and tooling that help teams move fast and make good decisions. We've pressure-tested these patterns across industries, funding stages, and team sizes.
 
@@ -34,7 +38,7 @@ This playbook distills that system so you can:
 
 We've poured a lot of love into this because we believe better innovation compounds, within teams and across the world.
 
-## What makes this different
+### What makes this different
 
 Most guides stop at software delivery. This is a product innovation playbook:
 
@@ -43,7 +47,7 @@ Most guides stop at software delivery. This is a product innovation playbook:
 * **Artifact-first**: every step produces a concrete output you can share, critique, and ship against (problem statements, PRDs, mockups, experiments, insights).
 * **Tool-integrated**: built to work with Swift CNS (validation and experiments), Cursor (AI-powered development), UX Pilot (visual design), and Firebase (deployment). Each tool fits a specific phase of the journey.
 
-## How to use this playbook
+### How to use this playbook
 
 The playbook follows a three-phase journey:
 
@@ -53,9 +57,9 @@ The playbook follows a three-phase journey:
 
 Each chapter includes learning outcomes, inputs, activities, templates, examples, and checklists. You can follow the full journey or jump to the phase that matches where you are today.
 
-<<<<<<< HEAD
-=======
-## What's inside (at a glance)
+## <<<<<<< HEAD
+
+### What's inside (at a glance)
 
 * **Decide What to Build**: Idea/problem articulation, critical assumptions identification, testable hypotheses formation, experiment design and execution, learning extraction, and insights synthesis for go/no-go decisions. All powered by Swift CNS.
 * **Build the MVP**: Planning (user stories, PRD, visual mockups with UX Pilot, AI Baseline design), setup (Cursor configuration, .cursorrules, implementation planning), feature building (end-to-end with Cursor AI collaboration), and deployment (Firebase infrastructure, QA, production launch).
@@ -63,8 +67,9 @@ Each chapter includes learning outcomes, inputs, activities, templates, examples
 
 Every chapter includes templates, examples, checklists, and self-assessments embedded throughout.
 
->>>>>>> ec89d118f6589d0f655a34d57fc8d076ef3b1f95
-## Principles we operate by
+> > > > > > > ec89d118f6589d0f655a34d57fc8d076ef3b1f95
+
+### Principles we operate by
 
 * **Speed is a skill**: reduce batch size, shorten feedback loops, keep score.
 * **Evidence over ego**: measure learning, not loudness.
@@ -73,13 +78,13 @@ Every chapter includes templates, examples, checklists, and self-assessments emb
 * **Clarity scales**: write it down; name the risks; choose what to ignore (for now).
 * **Automate the toil**: let tools do the busywork so people can think.
 
-## About SwiftRacks
+### About SwiftRacks
 
 We're builders. Since 2017, we've partnered with startups and enterprises to launch products, modernize stacks, and unlock growth. We've shipped 100+ solutions and supported $200M+ in SaaS transactions, refining this system through real customer engagements and continuous iteration.
 
 **Swift CNS** is our contribution to the craft: an AI-powered innovation platform that guides you through the Decide and Launch phases, helping teams validate ideas, run experiments, document learnings, and synthesize insights into decisions.
 
-## Our promise
+### Our promise
 
 We'll keep this practical, battle-tested, and bias toward action. If a template or step doesn't speed you up or sharpen your thinking, we'll fix it. This playbook is a living document, evolving as we learn, so you can move faster with confidence.
 

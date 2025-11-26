@@ -43,7 +43,7 @@ By the end of this chapter, you will be able to:
 2. Click the **"Learning Cards"** tab
 3. Or go to global **Learning Cards** page (from main nav)
 
-![Learning Cards Tab](../.gitbook/assets/06-learning-cards-tab.png)
+![Learning Cards Tab](/broken/files/N1nVv1KKF3YKfAMOxxQm)
 
 **What You'll See**:
 
