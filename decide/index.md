@@ -57,7 +57,7 @@ This section follows a systematic validation process using Swift CNS:
 5. **Learning Cards**: Document insights and learnings from experiments
 6. **Insights**: View aggregated insights to make decisions
 
-![Swift CNS Workflow](../.gitbook/assets/04-start-new-chat.png)
+![Swift CNS Workflow](../.gitbook/assets/cns-innovation-workflow.png)
 
 ## Apply It Now
 
