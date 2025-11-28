@@ -14,7 +14,7 @@ This guide helps you systematically validate ideas, build MVPs, and launch produ
 
 **Where are you in your innovation journey?**
 
-### 🎯 Validating an Idea? → Start with "Decide What to Build"
+### Validating an Idea? → Start with "Decide What to Build"
 
 **Why validation matters**: Most product failures happen because we build something nobody wants. The Decide section helps you validate your idea **before** investing time and resources in building.
 
@@ -23,7 +23,7 @@ This guide helps you systematically validate ideas, build MVPs, and launch produ
 **Time commitment**: 2-4 weeks for thorough validation
 
 **Prerequisites**: 
-- Swift CNS account at [app.swiftcns.ai](https://app.swiftcns.ai)
+- Swift CNS account at [app.dev.swiftcns.ai](https://app.dev.swiftcns.ai)
 - Initial idea or problem hypothesis
 - Access to potential users for experiments
 
@@ -31,7 +31,7 @@ This guide helps you systematically validate ideas, build MVPs, and launch produ
 
 > 💡 **Tip**: Even if you're eager to build, spending 2-4 weeks validating can save months of wasted effort. The Decide section uses Swift CNS to make validation systematic and efficient.
 
-### 🏗️ Ready to Build? → Start with "Build the MVP"
+### Ready to Build? → Start with "Build the MVP"
 
 **When to use**: You have a validated idea (completed Decide section) or you're building something with clear requirements.
 
@@ -46,7 +46,7 @@ This guide helps you systematically validate ideas, build MVPs, and launch produ
 
 **Start here**: [Build the MVP](build/index.md)
 
-### 🚀 Have an MVP? → Start with "Launch & Iterate (Coming Soon)"
+### Have an MVP? → Start with "Launch & Iterate (Coming Soon)"
 
 **When to use**: You have a working MVP and need to get it in front of users, gather feedback, and iterate.
 

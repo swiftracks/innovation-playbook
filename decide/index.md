@@ -8,7 +8,7 @@
 
 **Time**: 2-4 weeks (depending on complexity)
 
-**Prerequisites**: [Getting Started](GETTING-STARTED.md), Swift CNS account at [app.swiftcns.ai](https://app.swiftcns.ai)
+**Prerequisites**: [Getting Started](GETTING-STARTED.md), Swift CNS account at [app.dev.swiftcns.ai](https://app.dev.swiftcns.ai)
 
 ## Learning Outcomes
 
@@ -28,7 +28,7 @@ By the end of this section, you will be able to:
 
 ## Inputs
 
-* Swift CNS account (sign up at [app.swiftcns.ai](https://app.swiftcns.ai))
+* Swift CNS account (sign up at [app.dev.swiftcns.ai](https://app.dev.swiftcns.ai))
 * Initial idea or problem hypothesis
 * Access to potential users or customers
 * Time for experimentation (2-4 weeks recommended)
@@ -65,7 +65,7 @@ This section follows a systematic validation process using Swift CNS:
 
 1. Do you have a Swift CNS account?
    * [ ] Yes → Ready to proceed
-   * [ ] No → Sign up at [app.swiftcns.ai](https://app.swiftcns.ai)
+   * [ ] No → Sign up at [app.dev.swiftcns.ai](https://app.dev.swiftcns.ai)
 2. Do you have a project in Swift CNS?
    * [ ] Yes → Ready for [01 — Idea / Problem](01-idea-problem.md)
    * [ ] No → Create a new project first

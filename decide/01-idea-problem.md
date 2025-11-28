@@ -8,7 +8,7 @@
 
 **Time**: 15-30 minutes
 
-**Prerequisites**: [Getting Started](../GETTING-STARTED.md), [Decide What to Build](index.md), Swift CNS account at [app.swiftcns.ai](https://app.swiftcns.ai)
+**Prerequisites**: [Getting Started](../GETTING-STARTED.md), [Decide What to Build](index.md), Swift CNS account at [app.dev.swiftcns.ai](https://app.dev.swiftcns.ai)
 
 ## Learning Outcomes
 
@@ -28,7 +28,7 @@ By the end of this chapter, you will be able to:
 
 ## Inputs
 
-* Swift CNS account (sign up at [app.swiftcns.ai](https://app.swiftcns.ai))
+* Swift CNS account (sign up at [app.dev.swiftcns.ai](https://app.dev.swiftcns.ai))
 * A project created in Swift CNS (or create a new one)
 * Initial idea or problem hypothesis
 * Basic understanding of what you want to explore
@@ -39,7 +39,7 @@ By the end of this chapter, you will be able to:
 
 **Navigate to Swift CNS**:
 
-1. Go to [app.swiftcns.ai](https://app.swiftcns.ai)
+1. Go to [app.dev.swiftcns.ai](https://app.dev.swiftcns.ai)
 2. Sign in with your Google account (or existing credentials)
 3. You'll land on the Dashboard
 
@@ -129,7 +129,7 @@ and suggests concrete improvements based on team feedback.
 
 **Task**: Start your first chat in Swift CNS
 
-1. Log in to [app.swiftcns.ai](https://app.swiftcns.ai)
+1. Log in to [app.dev.swiftcns.ai](https://app.dev.swiftcns.ai)
 2. Navigate to your project (or create a new one)
 3. Click "Start New Chat"
 4. Enter a descriptive chat name

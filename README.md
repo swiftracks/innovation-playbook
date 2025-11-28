@@ -55,13 +55,6 @@ The playbook follows a three-phase journey:
 
 Each chapter includes learning outcomes, inputs, activities, templates, examples, and checklists. You can follow the full journey or jump to the phase that matches where you are today.
 
-### What's inside (at a glance)
-
-* **Decide What to Build**: Idea/problem articulation, critical assumptions identification, testable hypotheses formation, experiment design and execution, learning extraction, and insights synthesis for go/no-go decisions. All powered by Swift CNS.
-* **Build the MVP**: Planning (user stories, PRD, visual mockups with UX Pilot, AI Baseline design), setup (Cursor configuration, .cursorrules, implementation planning), feature building (end-to-end with Cursor AI collaboration), and deployment (Firebase infrastructure, QA, production launch).
-* **Launch & Iterate (Coming Soon)**: ICP preparation, messaging strategy development, channel strategy design, website V1 build, tool stack setup, private beta launch, experiment execution (outbound, growth marketing, product), insights synthesis, and public beta exit. Experiments and insights managed in Swift CNS.
-
-Every chapter includes templates, examples, checklists, and self-assessments embedded throughout.
 
 ### Principles we operate by
 
@@ -77,6 +70,8 @@ Every chapter includes templates, examples, checklists, and self-assessments emb
 We're builders. Since 2017, we've partnered with startups and enterprises to launch products, modernize stacks, and unlock growth. We've shipped 100+ solutions and supported $200M+ in SaaS transactions, refining this system through real customer engagements and continuous iteration.
 
 **Swift CNS** is our contribution to the craft: an AI-powered innovation platform that guides you through the Decide and Launch (Coming Soon) phases, helping teams validate ideas, run experiments, document learnings, and synthesize insights into decisions.
+
+> 📢 **Note**: Swift CNS is currently accepting private beta users. If you're interested in hands-on collaboration from Swift Racks for a pilot program, visit [https://swiftcns.ai/pilot.html](https://swiftcns.ai/pilot.html).
 
 ### Our promise
 

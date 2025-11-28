@@ -29,15 +29,15 @@ All screenshots are referenced in the DECIDE chapters:
 
 ## Notes
 
-- Screenshots were captured from app.swiftcns.ai
+- Screenshots were captured from app.dev.swiftcns.ai
 - All screenshots show the Health Fitness App project as an example
 - Screenshots are referenced using relative paths (e.g., `../screenshots/02-dashboard.png`)
 
 ## If Screenshots Are Missing
 
 If screenshots are not in this folder, they can be re-captured from:
-- Login page: https://app.swiftcns.ai/auth
-- Dashboard: https://app.swiftcns.ai/dashboard
+- Login page: https://app.dev.swiftcns.ai/auth
+- Dashboard: https://app.dev.swiftcns.ai/dashboard
 - Project page: Navigate to a project from dashboard
 - Start New Chat: Click "Start New Chat" on project page
 - Create Experiment: Click "Create Experiment" on project page
