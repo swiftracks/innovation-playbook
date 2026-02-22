@@ -1,7 +1,7 @@
 ---
 cover:
-  light: .gitbook/assets/sr-innovation-playbook-white.svg
-  dark: .gitbook/assets/sr-innovation-playbook.svg
+  light: .gitbook/assets/sr-innovation-playbook-white.jpg
+  dark: .gitbook/assets/SR - Innovation Playbook.jpg
 coverY: 0
 ---
 
