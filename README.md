@@ -7,10 +7,7 @@ coverY: 0
 
 # SwiftCNS - Learning System Documentation
 
-
 ***
-
-## SwiftCNS Documentation
 
 **Ship faster. Learn faster. Win faster.**
 
