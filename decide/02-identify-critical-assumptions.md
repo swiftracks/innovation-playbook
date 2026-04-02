@@ -1,244 +1,86 @@
 # 02 — Identify Critical Assumptions
 
-**Purpose**: Use Swift CNS AI to identify critical assumptions that must be validated
+**Purpose**: Identify what must be true for success and prioritize by risk.
 
-**Outcome**: Have a prioritized list of critical assumptions documented in Swift CNS
+## Outcome
 
-**Audience**: PM / Dev / Both
+A ranked list of critical assumptions with clear rationale.
 
-**Time**: 30-60 minutes (guided by AI)
+This is where the team moves from “What is the problem?” to “What are we actually betting on?”
 
-**Prerequisites**: [01 — Idea / Problem](/broken/pages/8q159P4ibmD5B1v8hxve) - Chat started in Swift CNS
+## Time to complete
 
-## Learning Outcomes
-
-By the end of this chapter, you will be able to:
-
-1. Use Swift CNS AI to identify assumptions about your solution
-2. Distinguish between critical and non-critical assumptions
-3. Prioritize assumptions by risk and impact in Swift CNS
-4. Understand how assumptions are categorized in Swift CNS
-5. Prepare assumptions for hypothesis formation in Swift CNS
-
-## Jobs-to-Be-Done
-
-* **When**: I have started a chat in Swift CNS and the AI has analyzed my idea
-* **I want**: To use Swift CNS to identify what must be true for my solution to work
-* **So that**: I can focus on validating the riskiest assumptions first
+30-60 minutes.
 
 ## Inputs
 
-* Active chat in Swift CNS from [01 — Idea / Problem](/broken/pages/8q159P4ibmD5B1v8hxve)
-* AI analysis of your idea
-* Understanding of your proposed solution
+- Problem statement from Step 01.
+- Current constraints and context.
 
-## Activities
+## Steps in SwiftCNS
 
-### 1. Continue the Chat Conversation
+1. List assumptions across desirability, viability, and feasibility.
+2. Remove duplicates and vague statements.
+3. Rank assumptions by risk and decision impact.
+4. Select the top assumptions for immediate testing.
 
-**In Swift CNS**:
+## Why this stage matters
 
-1. Return to your chat conversation (if not already there)
-2. The AI will guide you through the Assumptions Mapping step
-3. Follow the AI's prompts and questions
+Every initiative contains more assumptions than most teams realize. Some are about users. Some are about value. Some are about operational reality, timing, or technical feasibility.
 
-**What the AI Will Do**:
+The purpose of this stage is not to document every possible assumption. It is to identify the assumptions that are most likely to change the trajectory of the work if they turn out to be wrong.
 
-* Ask about your proposed solution
-* Help you identify what you're assuming
-* Categorize assumptions (user, technical, business, value)
-* Identify which assumptions are critical
+That is what keeps the learning loop efficient. Without prioritization, teams often test what is easiest instead of what is most important.
 
-> 💡 **Tip**: Be honest with the AI about your assumptions. It helps identify what needs validation.
+## Role lenses
 
-### 2. Identify All Assumptions
+- **Startup**: focus on assumptions that can kill the bet quickly.
+- **Program manager**: ensure risk ranking is explicit and comparable across teams.
+- **Mentor**: challenge hidden assumptions and weak prioritization logic.
 
-**The AI Will Guide You Through**:
+## What strong output looks like
 
-* **User Assumptions**: About users' needs, behaviors, preferences
-  * Example: "Users will use an AI-powered retrospective tool"
-* **Technical Assumptions**: About what's possible to build
-  * Example: "We can build AI that generates useful insights"
-* **Business Assumptions**: About market, pricing, competition
-  * Example: "Users will pay $10/month for this tool"
-* **Value Assumptions**: About the value proposition
-  * Example: "Users will find AI-generated insights valuable"
+A strong assumption list is:
 
-**How to Answer**:
+- clear instead of vague,
+- prioritized instead of exhaustive,
+- tied to decision impact,
+- usable as direct input for hypotheses.
 
-* Be comprehensive - list everything you're assuming
-* Don't filter yet - the AI will help prioritize
-* Be specific - avoid vague assumptions
+## Weak vs strong pattern
 
-### 3. Identify Critical Assumptions
+### Weak
 
-**The AI Will Help You Identify**:
+- long lists with no prioritization,
+- assumptions written as broad themes,
+- no rationale for why one assumption matters more than another,
+- assumptions mixed together with solutions or tasks.
 
-* **Critical Assumptions**: Those that, if false, would invalidate the solution
-* **High Risk**: Uncertainty is high
-* **High Impact**: Affects the entire value proposition
+### Strong
 
-**Questions the AI May Ask**:
+- a small set of high-risk assumptions,
+- visible ranking logic,
+- clear link to the problem statement,
+- obvious candidates for immediate testing.
 
-* "If this assumption is false, does the product fail?"
-* "How confident are you about this assumption?"
-* "What evidence do you have for this assumption?"
+## Outputs
 
-### 4. Prioritize Assumptions
+- Prioritized assumptions list.
+- Rationale for why top assumptions were selected.
 
-**The AI Will Help You Prioritize**:
+## Definition of done
 
-* **High Risk / High Impact** → Critical (test first)
-* **High Risk / Low Impact** → Test if time allows
-* **Low Risk / High Impact** → Monitor
-* **Low Risk / Low Impact** → Track but don't prioritize
+- Team agrees on top assumptions to test first.
+- Each selected assumption can be converted into a hypothesis.
 
-**In Swift CNS**:
+## Common failure mode
 
-* The AI will help you organize assumptions
-* You'll see them categorized and prioritized
-* Focus on the top 5-10 critical assumptions
+The most common issue here is mistaking completeness for quality. Teams often believe a large list means better thinking. In practice, a shorter list of sharper assumptions is much more useful.
 
-### 5. Review Assumptions
+## If blocked
 
-**After AI Analysis**:
+Use [Cycle Anatomy](../learning-cycle/cycle-anatomy.md) to re-anchor on decision-oriented sequence.
 
-1. Review the assumptions list generated by the AI
-2. Verify they're accurate
-3. Add any assumptions the AI might have missed
-4. Confirm priorities are correct
+## Next step
 
-**Your Assumptions Will Be**:
-
-* Documented in the chat conversation
-* Categorized by type
-* Prioritized by risk and impact
-* Ready for hypothesis formation
-
-## Apply It Now
-
-**Task**: Use Swift CNS to identify your critical assumptions
-
-1. Continue your chat conversation in Swift CNS
-2. Follow the AI's prompts about assumptions
-3. List all assumptions (user, technical, business, value)
-4. Work with the AI to identify critical assumptions
-5. Review and prioritize assumptions by risk and impact
-6. Document the top 5-10 critical assumptions
-
-**Artifact**: A prioritized assumptions list in Swift CNS with:
-
-* All assumptions listed
-* Critical assumptions identified
-* Risk and impact assessment
-* Priority ranking
-
-## Artifacts
-
-You'll create in Swift CNS:
-
-* Assumptions list in chat conversation
-* Critical assumptions identified
-* Risk and impact assessment
-* Prioritized assumptions list
-
-## Worked Example
-
-**Situation**: Identifying assumptions for retrospective tool in Swift CNS
-
-**Chat Conversation**:
-
-```
-AI: "Now let's identify the assumptions you're making about your solution. 
-What do you assume about users?"
-
-You: "I assume engineering teams will use an AI-powered retrospective tool."
-
-AI: "That's a user assumption. Is this critical? If teams don't use it, 
-does the product fail?"
-
-You: "Yes, absolutely. If teams don't use it, the product fails."
-
-AI: "Then this is a critical assumption. Let's categorize it as high risk, 
-high impact. What else are you assuming?"
-```
-
-**Result in Swift CNS**:
-
-* **Assumption 1**: Teams will use an AI-powered retrospective tool
-  * Category: User
-  * Risk: High
-  * Impact: High
-  * Status: Critical ✓
-* **Assumption 2**: We can build AI that generates useful insights
-  * Category: Technical
-  * Risk: High
-  * Impact: High
-  * Status: Critical ✓
-* **Assumption 3**: Users will pay $10/month
-  * Category: Business
-  * Risk: Medium
-  * Impact: High
-  * Status: Important (not critical)
-
-## Checklist
-
-Before proceeding to the next chapter, verify:
-
-* [ ] You've continued the chat conversation in Swift CNS
-* [ ] You've listed all assumptions (user, technical, business, value)
-* [ ] Critical assumptions are identified
-* [ ] Assumptions are prioritized by risk and impact
-* [ ] Top 5-10 critical assumptions are documented in Swift CNS
-
-## Self-Assessment
-
-1. **What does Swift CNS AI help you identify?** (Select all)
-   * [ ] All assumptions ✓
-   * [ ] Critical assumptions ✓
-   * [ ] Risk and impact ✓
-   * [ ] Prioritization ✓
-2. **What makes an assumption critical?** (Select all)
-   * [ ] If false, the solution fails ✓
-   * [ ] Uncertainty is high ✓
-   * [ ] Impact is high ✓
-   * [ ] It's easy to test
-3. **How should you prioritize assumptions?**
-   * [ ] Test high risk, high impact first ✓
-   * [ ] Test easy ones first
-   * [ ] Test all equally
-
-## Exit Criteria
-
-You're ready to proceed when:
-
-* [ ] All assumptions are listed in Swift CNS
-* [ ] Critical assumptions are identified
-* [ ] Assumptions are prioritized
-* [ ] Top 5-10 critical assumptions are documented
-* [ ] The AI is ready to guide you through hypothesis formation
-
-## Dependencies & Next Steps
-
-### Prerequisites Completed
-
-* [01 — Idea / Problem](/broken/pages/8q159P4ibmD5B1v8hxve) - Chat started in Swift CNS
-
-### Next Steps
-
-* Continue the chat conversation in Swift CNS
-* The AI will guide you through [03 — Form Testable Hypotheses](03-form-testable-hypotheses.md)
-* Follow the AI's prompts to convert assumptions to hypotheses
-
-### What This Enables
-
-Identifying critical assumptions in Swift CNS enables:
-
-* Focused validation efforts
-* AI-guided hypothesis formation
-* Efficient experiment design
-* Systematic risk mitigation
-
-***
-
-> 💡 **Tip**: Trust the AI's guidance. It's designed to help you think systematically about assumptions. 📝 **Note**: You can always add more assumptions later if you think of them.
+Continue to [03 — Form Testable Hypotheses](03-form-testable-hypotheses.md).

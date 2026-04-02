@@ -1,262 +1,84 @@
 # 03 — Form Testable Hypotheses
 
-**Purpose**: Use Swift CNS AI to convert critical assumptions into testable hypotheses
+**Purpose**: Convert assumptions into measurable hypotheses that can be validated.
 
-**Outcome**: Have clear, measurable hypotheses ready for experimentation in Swift CNS
+## Outcome
 
-**Audience**: PM / Dev / Both
+Decision-relevant hypotheses with explicit expected outcomes.
 
-**Time**: 30-60 minutes (guided by AI)
+This stage is where the team makes the shift from belief to test design.
 
-**Prerequisites**: [02 — Identify Critical Assumptions](02-identify-critical-assumptions.md) - Assumptions identified in Swift CNS
+## Time to complete
 
-## Learning Outcomes
-
-By the end of this chapter, you will be able to:
-1. Use Swift CNS AI to convert assumptions into testable hypotheses
-2. Use the hypothesis format: "We believe... If... Then... We'll know..."
-3. Define measurable success criteria in Swift CNS
-4. Prioritize hypotheses for testing
-5. Prepare hypotheses for experiment design in Swift CNS
-
-## Jobs-to-Be-Done
-
-- **When**: I have a list of critical assumptions in Swift CNS
-- **I want**: To convert them into testable hypotheses with the AI's help
-- **So that**: I can design experiments to validate or invalidate them
+30-60 minutes.
 
 ## Inputs
 
-- Active chat in Swift CNS with critical assumptions identified
-- Understanding of what you want to learn
-- Success criteria for validation
+- Prioritized assumptions from Step 02.
+- Available channels, users, and test constraints.
 
-## Activities
+## Steps in SwiftCNS
 
-### 1. Continue the Chat Conversation
+1. Convert each priority assumption into one hypothesis.
+2. Add measurable expected outcome and timeframe.
+3. Define what invalidation looks like in advance.
+4. Select hypotheses for immediate experiment planning.
 
-**In Swift CNS**:
-1. Continue your chat conversation
-2. The AI will guide you through converting assumptions to hypotheses
-3. Follow the AI's prompts and questions
+## Why this stage matters
 
-**What the AI Will Do**:
-- Help you convert assumptions to hypotheses
-- Ensure hypotheses use the correct format
-- Help define success criteria
-- Prioritize hypotheses for testing
+Assumptions tell the team what it is uncertain about. Hypotheses tell the team how it will know whether that uncertainty is becoming clearer.
 
-### 2. Convert Assumptions to Hypotheses
+This stage matters because weak hypotheses create vague experiments. If the expected outcome is not measurable, the team can run the test and still argue about what the result means afterward.
 
-**The AI Will Help You Use This Format**:
-```
-We believe [assumption].
-If [condition],
-Then [outcome].
-We'll know this is true when [metric].
-```
+## Role lenses
 
-**Example Conversion**:
-```
-Assumption: Teams will use an AI-powered retrospective tool
+- **Startup**: keep hypotheses simple and high-signal.
+- **Program manager**: enforce consistency in hypothesis quality across teams.
+- **Mentor**: check for testability and weak wording.
 
-AI: "Let's convert this to a testable hypothesis. What condition would you create?"
+## What strong output looks like
 
-You: "If we create a landing page with mockups..."
+A strong hypothesis:
 
-AI: "Good. What outcome do you expect?"
+- is tied to one assumption,
+- has a measurable expected outcome,
+- can be tested in a realistic timeframe,
+- helps the team decide what to do next.
 
-You: "Then at least 30% of visitors will sign up for early access."
+## Weak vs strong pattern
 
-AI: "Perfect. How will you measure this?"
+### Weak
 
-You: "We'll know this is true when we see 30%+ conversion rate after 100 visitors."
-```
+- hypothesis is broad or inspirational,
+- expected outcome is unclear,
+- no visible invalidation condition,
+- test would not meaningfully affect a decision.
 
-**Result in Swift CNS**:
-```
-Hypothesis: We believe teams will use an AI-powered retrospective tool. 
-If we create a landing page with mockups, 
-then at least 30% of visitors will sign up for early access. 
-We'll know this is true when we see 30%+ conversion rate after 100 visitors.
-```
+### Strong
 
-### 3. Define Success Criteria
+- hypothesis is narrow and testable,
+- outcome is measurable,
+- success and failure criteria are visible,
+- result would change confidence in a meaningful way.
 
-**The AI Will Help You Define**:
-- **Metric**: What you'll measure
-- **Threshold**: What success looks like
-- **Timeline**: When you'll measure
-- **Sample Size**: How many users/data points needed
+## Outputs
 
-**Example**:
-```
-Metric: Signup conversion rate
-Threshold: 30% or higher
-Timeline: After 100 visitors
-Sample Size: 100 visitors minimum
-```
+- Hypotheses ready for experiment design.
+- Success and failure criteria for each hypothesis.
 
-### 4. Prioritize Hypotheses
+## Definition of done
 
-**The AI Will Help You Prioritize By**:
-- **Risk**: How risky is the assumption?
-- **Impact**: How much does it matter?
-- **Testability**: How easy is it to test?
-- **Dependencies**: Does it depend on other hypotheses?
+- Hypotheses are testable, measurable, and time-bounded.
+- Team agrees which hypotheses move to experiments first.
 
-**In Swift CNS**:
-- The AI will help you organize hypotheses
-- You'll see them prioritized
-- Focus on the top 3-5 hypotheses first
+## Common failure mode
 
-### 5. Review Hypotheses
+The usual trap here is writing hypotheses that sound sharp but are still too broad to guide a real experiment. If the team cannot tell what evidence would invalidate the statement, the hypothesis is not finished yet.
 
-**After AI Analysis**:
-1. Review the hypotheses generated by the AI
-2. Verify they're testable and measurable
-3. Confirm success criteria are realistic
-4. Ensure priorities make sense
+## If blocked
 
-**Your Hypotheses Will Be**:
-- Documented in the chat conversation
-- Formatted correctly
-- Success criteria defined
-- Prioritized for testing
+Use [Quality Standards](../learning-cycle/quality-standards.md) to tighten measurable outcomes.
 
-## Apply It Now
+## Next step
 
-**Task**: Use Swift CNS to create testable hypotheses
-
-1. Continue your chat conversation in Swift CNS
-2. Work with the AI to convert assumptions to hypotheses
-3. Use the correct hypothesis format
-4. Define success criteria (metric, threshold, timeline, sample size)
-5. Prioritize hypotheses by risk, impact, and testability
-6. Review and confirm your top 3-5 hypotheses
-
-**Artifact**: Testable hypotheses in Swift CNS with:
-- Hypothesis statements in correct format
-- Success criteria defined
-- Priority ranking
-- Ready for experiment design
-
-## Artifacts
-
-You'll create in Swift CNS:
-- Testable hypotheses in chat conversation
-- Success criteria definitions
-- Prioritized hypothesis list
-
-## Worked Example
-
-**Situation**: Creating hypotheses for retrospective tool in Swift CNS
-
-**Chat Conversation**:
-```
-AI: "Let's convert your critical assumption about teams using the tool 
-into a testable hypothesis. What format should we use?"
-
-You: "We believe teams will use an AI-powered retrospective tool."
-
-AI: "Good. Now, what condition would you create to test this?"
-
-You: "If we create a landing page with mockups..."
-
-AI: "What outcome do you expect?"
-
-You: "Then at least 30% of visitors will sign up for early access."
-
-AI: "How will you measure this?"
-
-You: "We'll know this is true when we see 30%+ conversion rate 
-after 100 visitors."
-
-AI: "Perfect! Now let's define success criteria. What's your metric?"
-
-You: "Signup conversion rate"
-
-AI: "What's your threshold for success?"
-
-You: "30% or higher"
-
-AI: "What sample size do you need?"
-
-You: "100 visitors minimum"
-```
-
-**Result in Swift CNS**:
-```
-Hypothesis 1 (Top Priority):
-We believe teams will use an AI-powered retrospective tool. 
-If we create a landing page with mockups, 
-then at least 30% of visitors will sign up for early access. 
-We'll know this is true when we see 30%+ conversion rate after 100 visitors.
-
-Success Criteria:
-- Metric: Signup conversion rate
-- Threshold: 30% or higher
-- Timeline: After 100 visitors
-- Sample Size: 100 visitors minimum
-- Priority: High (top priority)
-```
-
-## Checklist
-
-Before proceeding to the next chapter, verify:
-- [ ] You've converted critical assumptions to hypotheses
-- [ ] Hypotheses use the correct format
-- [ ] Success criteria are defined for each hypothesis
-- [ ] Hypotheses are prioritized
-- [ ] Top 3-5 hypotheses are documented in Swift CNS
-
-## Self-Assessment
-
-1. **What is the correct hypothesis format?**
-   - [ ] We believe X. If Y. Then Z. We'll know when W. ✓
-   - [ ] If X, then Y
-   - [ ] We believe X
-
-2. **What should success criteria include?** (Select all)
-   - [ ] Metric ✓
-   - [ ] Threshold ✓
-   - [ ] Timeline ✓
-   - [ ] Sample Size ✓
-
-3. **How should you prioritize hypotheses?** (Select all)
-   - [ ] By risk ✓
-   - [ ] By impact ✓
-   - [ ] By testability ✓
-   - [ ] By ease of testing
-
-## Exit Criteria
-
-You're ready to proceed when:
-- [ ] Critical assumptions are converted to hypotheses
-- [ ] Hypotheses use the correct format
-- [ ] Success criteria are defined
-- [ ] Hypotheses are prioritized
-- [ ] The AI is ready to guide you through experiment design
-
-## Dependencies & Next Steps
-
-### Prerequisites Completed
-- [02 — Identify Critical Assumptions](02-identify-critical-assumptions.md) - Critical assumptions identified in Swift CNS
-
-### Next Steps
-- Continue the chat conversation in Swift CNS
-- The AI will guide you through [04 — Design & Run Experiments](04-design-run-experiments.md)
-- Follow the AI's prompts to design experiments
-
-### What This Enables
-
-Testable hypotheses in Swift CNS enable:
-- AI-guided experiment design
-- Clear experiment goals
-- Measurable outcomes
-- Efficient validation
-
----
-
-> 💡 **Tip**: Make hypotheses specific. Vague hypotheses lead to unclear experiments.
-> 📝 **Note**: The AI will help you refine hypotheses if needed. Don't worry about perfection.
+Continue to [04 — Design & Run Experiments](04-design-run-experiments.md).

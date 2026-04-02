@@ -1,244 +1,95 @@
 # 01 — Idea / Problem
 
-**Purpose**: Use Swift CNS to articulate your problem and start the validation process
+**Purpose**: Frame the problem clearly so the cycle starts with the right focus.
 
-**Outcome**: Have a well-defined problem documented in Swift CNS and ready for AI-guided analysis
+## Outcome
 
-**Audience**: PM / Dev / Both
+A clear problem statement and context captured in SwiftCNS.
 
-**Time**: 15-30 minutes
+This stage is about creating enough clarity that the rest of the cycle has somewhere real to stand. If the problem is fuzzy, the rest of the loop tends to become increasingly interpretive instead of evidence-driven.
 
-**Prerequisites**: [Getting Started](../GETTING-STARTED.md), [Decide What to Build](index.md), Swift CNS account at [app.dev.swiftcns.ai](https://app.dev.swiftcns.ai)
+## Time to complete
 
-## Learning Outcomes
-
-By the end of this chapter, you will be able to:
-
-1. Navigate to Swift CNS and access your project
-2. Start a new chat in Swift CNS to analyze your idea
-3. Describe your problem clearly in the chat interface
-4. Understand how Swift CNS AI will guide you through idea analysis
-5. Begin the systematic validation process in Swift CNS
-
-## Jobs-to-Be-Done
-
-* **When**: I have an initial idea or see a potential problem
-* **I want**: To use Swift CNS to articulate and validate it systematically
-* **So that**: I can get AI-guided analysis and move through the DECIDE process efficiently
+15-30 minutes.
 
 ## Inputs
 
-* Swift CNS account (sign up at [app.dev.swiftcns.ai](https://app.dev.swiftcns.ai))
-* A project created in Swift CNS (or create a new one)
-* Initial idea or problem hypothesis
-* Basic understanding of what you want to explore
+- Project context.
+- Target user or customer segment.
+- Initial pain point and business relevance.
 
-## Activities
+## Steps in SwiftCNS
 
-### 1. Access Swift CNS
+1. Open your project and start a new conversation.
+2. Describe the problem, who has it, and why it matters now.
+3. Capture constraints and assumptions already known.
+4. Confirm what success looks like if this problem is solved.
 
-**Navigate to Swift CNS**:
+## Why this stage matters
 
-1. Go to [app.dev.swiftcns.ai](https://app.dev.swiftcns.ai)
-2. Sign in with your Google account (or existing credentials)
-3. You'll land on the Dashboard
+Teams often want to move quickly to assumptions or solutions. That instinct is understandable, but if the problem is not framed well, the team risks testing the wrong thing with a lot of discipline.
 
-![Dashboard](../.gitbook/assets/02-dashboard.png)
+This stage is where the team aligns on:
 
-> 💡 **Tip**: If you don't have a project yet, you can create one from the Dashboard or start a chat directly.
+- what problem is actually worth exploring,
+- who is affected by it,
+- why it matters now,
+- and what kind of outcome would indicate progress.
 
-### 2. Navigate to Your Project
+That gives the next stage a cleaner foundation.
 
-**From the Dashboard**:
+## Role lenses
 
-1. Click on your project card (e.g., "Health Fitness App")
-2. You'll see the project page with tabs: Chats, Experiments, Learning Cards, Insights
+- **Startup**: prioritize the narrowest painful problem first.
+- **Program manager**: verify the problem aligns to program outcomes.
+- **Mentor**: challenge vague or solution-first framing.
 
-![Project Page](../.gitbook/assets/03-project-page.png)
+## What strong output looks like
 
-**Project Overview**:
+A strong problem frame is:
 
-* **Total Chats**: Number of AI conversations
-* **Experiments**: Number of experiments in progress
-* **Learning Cards**: Number of insights captured
-* **Status**: Active/Inactive
+- narrow enough to be testable,
+- important enough to matter,
+- clear enough that the team can identify assumptions next,
+- grounded in a user, market, or operational reality rather than an abstract idea.
 
-### 3. Start a New Chat
+## Weak vs strong pattern
 
-**To Begin the DECIDE Workflow**:
+### Weak
 
-1. Click the **"Start New Chat"** button on the project page
-2. You'll see the "Start a New Chat" form
+- broad or generic problem statements,
+- solution-first language disguised as a problem,
+- no clear user or stakeholder,
+- no explanation of why the problem matters now.
 
-![Start New Chat](../.gitbook/assets/04-start-new-chat.png)
+### Strong
 
-**What Happens Next** (as shown in the UI):
+- one visible problem in focus,
+- clear affected audience,
+- real context and constraints,
+- clear signal of why learning here matters.
 
-* **1. Idea Analysis**: AI will analyze your idea and ask clarifying questions
-* **2. Assumptions Mapping**: Generate key assumptions that need validation
-* **3. Experiment Design**: Create structured experiments to test assumptions
-* **4. Learning Cards**: Document insights and learnings from experiments
+## Outputs
 
-> 📝 **Note**: Each step builds on the previous one. The AI guides you through the entire DECIDE process.
+- Problem statement.
+- Initial context notes.
+- Shared definition of scope.
 
-### 4. Fill Out the Chat Form
+## Definition of done
 
-**Chat Details**:
+- Team agrees on one problem statement.
+- Scope is specific enough to identify assumptions next.
 
-1. **Chat Name**: Enter a descriptive name (e.g., "E-commerce Mobile App Ideas")
-   * This helps you organize and find your chats later
-2. **Describe Your Idea**: Provide a detailed description including:
-   * What problem does it solve?
-   * Who is your target audience?
-   * What makes it unique?
-   * Any initial thoughts or context
+## Common failure mode
 
-**Example**:
+The most common failure at this stage is false clarity. The team feels aligned because everyone can talk about the same idea, but the actual problem is still too broad or too vague to guide testing.
 
-```
-Chat Name: Retrospective Tool for Engineering Teams
+If that happens, narrow further. The best first problem statement is usually smaller than the team initially wants.
 
-Describe Your Idea:
-Engineering teams struggle to get actionable insights from sprint retrospectives. 
-Teams spend 30-60 minutes in retrospectives but often don't identify clear action items. 
-This leads to repeating the same issues sprint over sprint.
+## If blocked
 
-Target audience: Engineering teams of 5-15 people
-Unique value: AI-powered retrospective tool that automatically identifies patterns 
-and suggests concrete improvements based on team feedback.
-```
+Use [Core Definitions](../concept-foundations/core-definitions.md) to separate problem claims from assumptions.
 
-> 💡 **Tip**: Be as detailed as possible. The more context you provide, the better the AI can guide you.
+## Next step
 
-### 5. Start the Chat
-
-**After Filling the Form**:
-
-1. Review your chat name and description
-2. Click **"Start Chat"** button
-3. The AI will begin analyzing your idea and guide you through the DECIDE process
-
-**What the AI Will Do**:
-
-* Analyze your problem statement
-* Ask clarifying questions about your idea
-* Help you refine your understanding
-* Prepare you for the next step: Assumptions Mapping
-
-## Apply It Now
-
-**Task**: Start your first chat in Swift CNS
-
-1. Log in to [app.dev.swiftcns.ai](https://app.dev.swiftcns.ai)
-2. Navigate to your project (or create a new one)
-3. Click "Start New Chat"
-4. Enter a descriptive chat name
-5. Describe your idea in detail (problem, target users, unique value)
-6. Click "Start Chat" to begin the AI-guided analysis
-
-**Artifact**: A new chat started in Swift CNS with:
-
-* Chat name
-* Detailed idea description
-* AI analysis ready to begin
-
-## Artifacts
-
-You'll create in Swift CNS:
-
-* A new chat conversation
-* Problem description documented
-* AI analysis of your idea
-* Foundation for the rest of the DECIDE workflow
-
-## Worked Example
-
-**Situation**: Starting a chat for a retrospective tool idea
-
-**Steps in Swift CNS**:
-
-1. **Navigate to Project**: Health Fitness App (or create new project)
-2. **Click "Start New Chat"**: Opens the chat creation form
-3. **Chat Name**: "Retrospective Tool Validation"
-4.  **Describe Your Idea**:
-
-    ```
-    Engineering teams struggle to get actionable insights from retrospectives. 
-    Teams spend time but don't get clear next steps. 
-    I want to build an AI-powered tool that analyzes retrospective feedback 
-    and generates actionable insights automatically.
-
-    Target users: Engineering teams of 5-15 people
-    Problem frequency: Every sprint (2x per month)
-    ```
-5. **Click "Start Chat"**: AI begins analysis
-
-**What Happens Next**:
-
-* AI analyzes your idea
-* Asks clarifying questions
-* Helps refine problem statement
-* Prepares for Assumptions Mapping
-
-## Checklist
-
-Before proceeding to the next chapter, verify:
-
-* [ ] You've logged into Swift CNS
-* [ ] You've navigated to your project
-* [ ] You've started a new chat
-* [ ] You've entered a descriptive chat name
-* [ ] You've described your idea in detail
-* [ ] You've clicked "Start Chat" and the AI has begun analysis
-
-## Self-Assessment
-
-1. **Where do you start the DECIDE workflow in Swift CNS?**
-   * [ ] Dashboard
-   * [ ] Project page → "Start New Chat" ✓
-   * [ ] Experiments page
-2. **What should you include in your idea description?** (Select all)
-   * [ ] Problem statement ✓
-   * [ ] Target audience ✓
-   * [ ] Unique value ✓
-   * [ ] Complete solution design
-3. **What does the AI do after you start a chat?**
-   * [ ] Immediately creates experiments
-   * [ ] Analyzes your idea and asks clarifying questions ✓
-   * [ ] Generates assumptions automatically
-
-## Exit Criteria
-
-You're ready to proceed when:
-
-* [ ] You've started a chat in Swift CNS
-* [ ] You've described your idea in detail
-* [ ] The AI has begun analyzing your idea
-* [ ] You're ready for the AI to guide you through Assumptions Mapping
-
-## Dependencies & Next Steps
-
-### Prerequisites Completed
-
-* [Getting Started](../GETTING-STARTED.md) - Understanding the guide structure
-* [Decide What to Build](index.md) - Understanding the validation process
-* Swift CNS account created
-
-### Next Steps
-
-* Continue the chat conversation in Swift CNS
-* The AI will guide you through [02 — Identify Critical Assumptions](02-identify-critical-assumptions.md)
-* Follow the AI's prompts and questions
-
-### What This Enables
-
-Starting a chat in Swift CNS enables:
-
-* AI-guided problem analysis
-* Systematic validation process
-* Structured workflow through DECIDE
-* All your work documented in one place
-
-***
-
-> 💡 **Tip**: Be detailed in your initial description. It helps the AI provide better guidance. 📝 **Note**: You can always return to your chat and continue the conversation. The AI remembers context.
+Continue to [02 — Identify Critical Assumptions](02-identify-critical-assumptions.md).
