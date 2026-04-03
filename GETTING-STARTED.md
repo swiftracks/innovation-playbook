@@ -40,9 +40,7 @@ Use this sequence to maximize SwiftCNS usage:
 1. Complete [30-Minute Activation](start-here/30-minute-activation.md).
 2. Read [Concept Foundations](concept-foundations/index.md).
 3. Learn [Learning Cycle Fundamentals](learning-cycle/fundamentals.md).
-4. Execute [Run Learning Cycles in SwiftCNS](decide/index.md).
-5. Operate reviews using [Program Operations](program-operations/index.md).
-6. Improve outcomes through [Metrics and Continuous Improvement](metrics/index.md).
+4. Execute [Run Learning Cycles in SwiftCNS](run-learning-cycles/index.md).
 
 ## Why the path is ordered this way
 
@@ -60,13 +58,9 @@ Teams need shared definitions before they start reviewing artifacts together. If
 
 Before running the workflow, teams need to understand the anatomy of a learning cycle, what quality looks like, and how failure patterns show up in practice.
 
-### 4. Execution comes before operations
+### 4. Execution comes before expansion
 
-Program rhythm, stage gates, and review rituals only work when teams understand the core cycle they are governing.
-
-### 5. Metrics come after the system is in motion
-
-Metrics are useful when they help improve an active process. They are much less useful when a team has not yet built shared execution habits.
+The first priority is learning the core cycle well. Extra operating layers can come later, once the team has real cycle habits and real evidence to work from.
 
 ## Role lenses (inline)
 
@@ -103,7 +97,7 @@ You are ready for execution when:
 - You completed activation.
 - You understand core concepts and quality standards.
 - You can identify where your team is in the learning cycle.
-- You are ready to begin [01 — Idea / Problem](decide/01-idea-problem.md).
+- You are ready to begin [01 — Idea / Problem](run-learning-cycles/01-idea-problem.md).
 
 ## Practical advice before you move on
 

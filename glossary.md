@@ -1,5 +1,7 @@
 # Glossary
 
+Use this page to keep the SwiftCNS language consistent across the playbook. These definitions are meant to improve shared judgment, not just vocabulary.
+
 ## Core Terms
 
 ### Assumption
@@ -21,7 +23,7 @@ An evidence-backed conclusion produced from experiment results. A learning shoul
 A synthesis of one or more learnings that clarifies implications, trade-offs, or the meaning of the evidence for the broader bet.
 
 ### Decision
-An explicit commitment based on insights. In this GitBook, a decision should always point to action, ownership, and the next move.
+An explicit commitment based on insights. In this playbook, a decision should always point to action, ownership, and the next move.
 
 ### MVP (Minimum Viable Product)
 The smallest version of a product that allows you to test critical assumptions and learn from real users with minimal effort.
@@ -49,7 +51,7 @@ A framework for understanding what users are trying to accomplish: "When [contex
 ## Measurement Terms
 
 ### Median Learning Cycle Time
-The primary north-star metric in this GitBook: the median time from assumption selection to validated learnings.
+The primary north-star metric in this playbook: the median time from assumption selection to validated learnings.
 
 ### Key Metric
 A quantifiable measure used to evaluate success or progress toward an outcome.
@@ -94,7 +96,7 @@ A reflective exercise or quiz to evaluate understanding or readiness.
 ## SwiftCNS Terms
 
 ### SwiftCNS
-The learning system for innovation teams described in this GitBook. SwiftCNS helps teams move through a repeatable loop of assumptions, experiments, learnings, insights, and decisions.
+The learning system for innovation teams described in this playbook. SwiftCNS helps teams move through a repeatable loop of assumptions, experiments, learnings, insights, and decisions.
 
 ---
 
@@ -105,7 +107,7 @@ The learning system for innovation teams described in this GitBook. SwiftCNS hel
 - **PRD**: Product Requirements Document
 - **MVP**: Minimum Viable Product
 - **JTBD**: Jobs-to-Be-Done
-- **CNS**: Legacy acronym that appears in earlier materials. In this GitBook, prefer the full product name `SwiftCNS`.
+- **CNS**: Legacy acronym that appears in earlier materials. In this playbook, prefer the full product name `SwiftCNS`.
 
 ---
 
@@ -116,4 +118,8 @@ Terms that appear together or are related:
 - **Experiment** → **Learning** → **Insight** → **Decision**
 - **Inputs** → **Activities** → **Artifacts** → **Exit Criteria**
 - **MVP** → **Thin Vertical** → **Iteration** → **Pivot**
+
+## Next step
+
+If you want to see these terms in motion, continue to [Learning System Overview](concept-foundations/learning-system-overview.md).
 

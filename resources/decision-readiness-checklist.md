@@ -28,4 +28,4 @@ A decision-ready team can explain what assumption was tested, what learning is d
 
 ## Next step
 
-Return to [06 — Synthesize Insights -> Decision](../decide/06-synthesize-insights-decision.md).
+Return to [06 — Synthesize Insights -> Decision](../run-learning-cycles/06-synthesize-insights-decision.md).

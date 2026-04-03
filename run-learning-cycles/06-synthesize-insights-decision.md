@@ -85,4 +85,4 @@ Use [Decision Readiness Checklist](../resources/decision-readiness-checklist.md)
 
 ## Next step
 
-Move to [Program Operations](../program-operations/index.md) for cadence and governance.
+Begin the next cycle with [01 — Idea / Problem](01-idea-problem.md) or return to [Start Here](../GETTING-STARTED.md) if the team needs to reset alignment.

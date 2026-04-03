@@ -6,7 +6,7 @@
 
 Teams know how to run cycles repeatedly with speed and quality.
 
-This section is where the SwiftCNS model becomes operational. Up to this point, the GitBook explains the language and logic of the system. Here, the focus shifts to how teams actually maintain momentum without sacrificing clarity.
+This section is where the SwiftCNS model becomes operational. Up to this point, the playbook explains the language and logic of the system. Here, the focus shifts to how teams actually maintain momentum without sacrificing clarity.
 
 ## Standard operating model
 
@@ -58,6 +58,8 @@ These are not hard rules. They are guardrails. The point is to keep the team hon
 - Hypotheses are measurable.
 - Learnings are evidence-backed.
 - Insights point to action.
+
+Those standards matter because weak quality does not stay contained. It carries forward into the rest of the cycle and makes later decisions slower, noisier, and less reliable.
 
 ## How speed and quality reinforce each other
 

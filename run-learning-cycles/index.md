@@ -6,7 +6,7 @@
 
 A complete cycle with clear evidence and explicit decision options.
 
-This section is the operational heart of the GitBook. If the earlier sections explain the logic of the system, this section is where teams actually put that logic to work.
+This section is the operational heart of the playbook. If the earlier sections explain the logic of the system, this section is where teams actually put that logic to work.
 
 ## Time to complete
 

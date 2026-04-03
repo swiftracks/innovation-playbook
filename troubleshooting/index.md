@@ -73,4 +73,4 @@ That keeps recovery practical and helps teams regain momentum faster.
 
 ## Next step
 
-Continue to [Metrics and Continuous Improvement](../metrics/index.md).
+Return to [Run Learning Cycles in SwiftCNS](../run-learning-cycles/index.md) and apply the smallest fix that restores clarity.

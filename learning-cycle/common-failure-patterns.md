@@ -57,4 +57,4 @@ The best teams get good at recognizing these patterns quickly. That is part of w
 
 ## Next step
 
-Continue to [Run Learning Cycles in SwiftCNS](../decide/index.md).
+Continue to [Run Learning Cycles in SwiftCNS](../run-learning-cycles/index.md).
