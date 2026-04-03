@@ -1,12 +1,9 @@
 ---
-
-## cover:
+cover:
   light: .gitbook/assets/sr-innovation-playbook-white.jpg
   dark: .gitbook/assets/SR - Innovation Playbook.jpg
 coverY: 0
-
 # SwiftCNS - Learning System Documentation
-
 ---
 
 **Building is faster than ever. Learning is still the bottleneck.**
