@@ -1,6 +1,6 @@
 # Table of contents
 
-* [SwiftCNS - Learning System Documentation](README.md)
+* [SwiftCNS - Innovators Learning System](README.md)
 * [Start Here](GETTING-STARTED.md)
   * [30-Minute Activation](start-here/30-minute-activation.md)
   * [Role Lenses (Startup, Program Manager, Mentor)](start-here/role-lenses.md)
