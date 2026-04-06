@@ -1,0 +1,38 @@
+---
+description: Keep playbook content aligned with CNS frontend/backend/prompt contracts
+alwaysApply: true
+---
+
+# CNS Contract Alignment
+
+This rule prevents documentation drift from actual product behavior.
+Be strict on reasoning quality and evidence discipline, flexible on output form.
+
+## Source-of-Truth Repositories
+
+- `cns-ui`: frontend workflow and tool UX behavior
+- `csn-backend`: API, entity, orchestration, and lineage contracts
+- `cns-prompts`: agent prompt outputs and action semantics
+
+## Contract Alignment Checks
+
+For any non-trivial claim:
+
+1. Identify which runtime layer the claim depends on.
+2. Verify the capability exists now, not only in roadmap notes.
+3. Use "planned" language for future capabilities.
+4. Avoid inventing entity types, workflow steps, or automation behavior.
+
+## Terminology and Entity Integrity
+
+- Use canonical entity names where relevant: assumption, hypothesis, experiment, learning, insight.
+- Do not imply a first-class decision object is mandatory if not represented as such in current workflow.
+- Preserve lineage and traceability language where stages are linked.
+
+## Mismatch Protocol
+
+If content conflicts with runtime behavior:
+
+- document the mismatch clearly,
+- prefer correcting docs first when claim is unsupported,
+- and record follow-up work for product/runtime only when needed.

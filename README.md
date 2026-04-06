@@ -139,6 +139,12 @@ This documentation is intentionally opinionated. It prefers:
 
 If a workflow is not helping teams learn faster or decide better, it should be simplified or replaced.
 
+### Runtime alignment expectation
+
+This playbook is CNS-first and should stay aligned with real SwiftCNS behavior.
+When a page makes functional claims about workflows, agents, or data behavior, those claims should align with current contracts across frontend, backend, and prompt layers.
+If a capability is planned but not live, label it as planned.
+
 ### About SwiftRacks
 
 SwiftCNS comes from years of hands-on product and innovation work. Since 2017, SwiftRacks has helped teams launch products, modernize systems, and improve growth outcomes across different stages and industries. Across that work, the same lesson kept showing up: teams that learn faster make better decisions faster, and those teams create better outcomes.

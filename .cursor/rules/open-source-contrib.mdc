@@ -1,0 +1,46 @@
+---
+description: Open-source contribution quality and docs-as-code expectations
+alwaysApply: true
+---
+
+# Open Source Contribution Quality
+
+Use this rule for all contributor-facing changes.
+Be strict on reasoning quality and evidence discipline, flexible on output form.
+
+## Contribution Quality Minimums
+
+Each proposed content change should include:
+
+- problem statement or motivation,
+- intended audience,
+- expected outcome,
+- and definition of done.
+
+## Clarity and Readability
+
+- Use direct, plain language.
+- Prefer active voice and concrete verbs.
+- Avoid unexplained internal shorthand.
+- Keep examples realistic and reproducible.
+
+## Structural Expectations
+
+- Place content in the correct playbook section.
+- Cross-link related pages when introducing a new concept.
+- Update contributor docs when adding new writing conventions.
+- Allow adaptive section structure when it improves clarity and reasoning quality.
+
+## Change Integrity
+
+- Do not silently redefine core methodology terms.
+- Highlight breaking semantic changes in PR description.
+- Keep edits scoped; avoid unrelated rewrites.
+
+## Reviewability
+
+Contributors should make it easy for reviewers to verify:
+
+- what changed,
+- why it changed,
+- and which CNS contract or methodology rule supports the change.

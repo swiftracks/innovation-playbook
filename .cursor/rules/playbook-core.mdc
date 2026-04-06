@@ -1,0 +1,73 @@
+---
+description: CNS-first playbook core methodology and stage intent
+alwaysApply: true
+---
+
+# Playbook Core (CNS-First)
+
+This rule defines non-negotiable methodology quality for all pages in this repository.
+Be strict on reasoning quality and evidence discipline, flexible on output form.
+
+## Canonical Loop
+
+Use and preserve the canonical sequence:
+
+`assumptions -> hypotheses -> experiments -> learnings -> insights -> decisions`
+
+Do not collapse these stages into generic "build and iterate" language unless the page explicitly explains why.
+
+## Stage Intent
+
+When writing or editing content:
+
+- State which stage the page serves.
+- Explain what artifact the stage produces.
+- Explain how output quality is evaluated before progressing.
+
+## Evidence Discipline
+
+For experiment and learning guidance, require:
+
+1. Pre-declared success criteria
+2. Pre-declared invalidation criteria
+3. Named evidence sources
+4. Interpretation guidance
+5. Confidence-change statement
+
+Treat a learning as actionable only when it leads to a concrete next step.
+Do not count a summary as actionable by default.
+
+Flag these anti-patterns:
+
+- experiment theater (activity without decision relevance),
+- activity-as-evidence (effort == proof),
+- retroactive criteria,
+- and unverifiable validation claims.
+
+## Output Form Flexibility
+
+- Section order can be adapted to page intent and audience.
+- Sections can be merged or omitted when clarity improves.
+- Format compliance must not replace critical reasoning.
+
+## Decision Readiness
+
+Pages must connect workflow output to one or more explicit decision paths:
+
+- go
+- iterate
+- pivot
+- stop
+
+Do not end workflow guidance at "capture findings."
+
+## Language Discipline
+
+- Use CNS terminology consistently (assumption, hypothesis, experiment, learning, insight, decision).
+- Avoid replacing terms with vague synonyms.
+- Prefer clear, operational wording over inspirational wording.
+
+## Scope Discipline
+
+- Keep this playbook focused on learning-system execution.
+- If a topic is downstream (full GTM execution, full build implementation), frame it as handoff context.
