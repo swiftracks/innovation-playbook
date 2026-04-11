@@ -144,4 +144,4 @@ The goal is not to have everyone doing the same work. The goal is to have everyo
 
 ## Next step
 
-Proceed with [Concept Foundations](../concept-foundations/index.md).
+Proceed with [Concept Foundations](../concept-foundations/README.md).

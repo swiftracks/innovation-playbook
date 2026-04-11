@@ -121,4 +121,4 @@ If any of these happen, the fix is usually to simplify. Pick one narrower assump
 
 ## Next step
 
-Continue to [Concept Foundations](../concept-foundations/index.md).
+Continue to [Concept Foundations](../concept-foundations/README.md).

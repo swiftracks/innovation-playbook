@@ -73,4 +73,4 @@ That keeps recovery practical and helps teams regain momentum faster.
 
 ## Next step
 
-Return to [Run Learning Cycles in SwiftCNS](../run-learning-cycles/index.md) and apply the smallest fix that restores clarity.
+Return to [Run Learning Cycles in SwiftCNS](../run-learning-cycles/README.md) and apply the smallest fix that restores clarity.

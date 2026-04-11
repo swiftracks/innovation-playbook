@@ -38,4 +38,4 @@ If a reader reaches this page, the right next question is usually not "What else
 
 ## Next step
 
-Return to [Run Learning Cycles in SwiftCNS](run-learning-cycles/index.md) and keep the focus on reducing uncertainty, strengthening learnings, and improving decision quality.
+Return to [Run Learning Cycles in SwiftCNS](run-learning-cycles/README.md) and keep the focus on reducing uncertainty, strengthening learnings, and improving decision quality.

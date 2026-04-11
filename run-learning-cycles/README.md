@@ -15,7 +15,7 @@ Typically 2-4 weeks for a full cycle, depending on experiment lead times.
 ## Prerequisites
 
 - Completed [Start Here](../GETTING-STARTED.md).
-- Shared understanding from [Concept Foundations](../concept-foundations/index.md).
+- Shared understanding from [Concept Foundations](../concept-foundations/README.md).
 - One project and one high-priority problem area.
 
 ## Workflow order
@@ -80,7 +80,7 @@ That is why each page in this section is designed to help teams strengthen one s
 
 ## If blocked
 
-Use [Troubleshooting and Recovery](../troubleshooting/index.md) to diagnose failure patterns and recover quickly.
+Use [Troubleshooting and Recovery](../troubleshooting/README.md) to diagnose failure patterns and recover quickly.
 
 ## Next step
 
