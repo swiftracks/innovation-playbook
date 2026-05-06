@@ -101,4 +101,4 @@ Good decision quality looks like a team that can explain its rationale clearly, 
 
 ## Next step
 
-Continue to [Learning Cycle Fundamentals](../learning-cycle/fundamentals.md).
+Continue to [Learning Cycle Fundamentals](../learning-cycle/fundamentals/README.md).

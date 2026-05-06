@@ -39,7 +39,7 @@ Use this sequence to maximize SwiftCNS usage:
 
 1. Complete [30-Minute Activation](start-here/30-minute-activation.md).
 2. Read [Concept Foundations](concept-foundations/README.md).
-3. Learn [Learning Cycle Fundamentals](learning-cycle/fundamentals.md).
+3. Learn [Learning Cycle Fundamentals](learning-cycle/fundamentals/README.md).
 4. Execute [Run Learning Cycles in SwiftCNS](run-learning-cycles/README.md).
 
 ## Why the path is ordered this way

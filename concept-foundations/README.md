@@ -64,4 +64,4 @@ That is why this section comes before the operational workflow pages.
 
 ## Next step
 
-Continue to [Learning Cycle Fundamentals](../learning-cycle/fundamentals.md).
+Continue to [Learning Cycle Fundamentals](../learning-cycle/fundamentals/README.md).
