@@ -2,6 +2,12 @@
 
 **Purpose**: Help teams diagnose and recover quickly from cycle breakdowns.
 
+## Who this is for
+
+- Teams that feel active but are not gaining clarity.
+- Program leads spotting recurring quality drops.
+- Mentors running recovery-oriented reviews.
+
 Most teams do not need a perfect system to recover. They need a way to recognize failure patterns early, name them clearly, and intervene before another weak cycle passes unnoticed.
 
 ## Pattern: vague assumptions
@@ -53,7 +59,13 @@ Usually the answer is not to restart everything. It is to strengthen one weak ch
 
 The goal of recovery is not to blame the team. It is to shorten the distance between "something feels off" and "we know exactly how to fix it."
 
-The best teams get good at recognizing these patterns quickly. That is part of what makes their learning cycles faster over time.
+Teams that stabilize this skill usually see shorter recovery time between weak cycles.
+
+## Definition of done
+
+- Team can identify the first weak checkpoint, not only the latest symptom.
+- Recovery action is specific, owned, and time-bounded.
+- Next cycle starts with corrected quality gates in place.
 
 ## Next step
 

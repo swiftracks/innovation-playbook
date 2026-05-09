@@ -1,6 +1,12 @@
 # Learning Cycle Fundamentals
 
-**Purpose**: Provide the execution model that compresses learning-cycle time.
+**Purpose**: Provide the execution model that shortens learning-cycle time by reducing avoidable rework.
+
+## Who this is for
+
+- Teams already aligned on terminology and ready to execute.
+- Program operators enforcing repeatable cycle discipline.
+- Mentors diagnosing why teams are not compounding learning.
 
 ## Outcome
 
@@ -10,13 +16,15 @@ This section is where the SwiftCNS model becomes operational. Up to this point, 
 
 ## Standard operating model
 
-The canonical cycle:
-**assumptions -> experiments -> learnings -> insights -> decisions**
+The canonical operating cycle in-product:
+**assumptions -> hypotheses -> experiments -> learnings -> insights**
+
+Decision execution (go, iterate, pivot, stop) is an operating handoff after insight synthesis.
 
 Each cycle should:
 - focus on the riskiest assumption first,
 - produce evidence in short timeboxes,
-- end with a clear decision or next test.
+- end with a clear next test or explicit decision handoff.
 
 ## Why cycle time matters
 
@@ -58,6 +66,7 @@ These are not hard rules. They are guardrails. The point is to keep the team hon
 - Hypotheses are measurable.
 - Learnings are evidence-backed.
 - Insights point to action.
+- Decision handoff is explicit and owned.
 
 Those standards matter because weak quality does not stay contained. It carries forward into the rest of the cycle and makes later decisions slower, noisier, and less reliable.
 
@@ -91,6 +100,12 @@ At the end of a strong cycle, the team can clearly say:
 - what it learned,
 - how confidence changed,
 - and what happens next.
+
+## Definition of done
+
+- Team can run one full cycle without skipping checkpoints.
+- Team can identify where quality dropped and recover quickly.
+- Team can start the next cycle using prior insights and sources.
 
 ## Next step
 

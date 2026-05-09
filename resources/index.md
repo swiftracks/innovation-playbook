@@ -2,6 +2,12 @@
 
 **Purpose**: Provide reusable quality controls that keep cycles fast and decision-ready.
 
+## Who this is for
+
+- Teams that want consistent quality across repeated cycles.
+- Program operators calibrating multiple teams.
+- Mentors running artifact-based reviews.
+
 This section is where the system becomes repeatable. Teams often know what good work sounds like in conversation, but still need tools that help them assess whether the work is actually strong enough to move forward.
 
 ## Core resources
@@ -29,3 +35,13 @@ These resources help teams:
 Good teams do not use these pages only at the end. They use them during the cycle:
 
 the rubric helps improve learning quality before synthesis, the checklist helps stop premature decisions, and both make review conversations more disciplined and more useful.
+
+## Definition of done
+
+- Teams use rubric and checklist in live checkpoints, not only retrospectives.
+- Review conversations reference explicit quality criteria.
+- Decision readiness becomes more predictable across cycles.
+
+## Next step
+
+Start with [Learning Quality Rubric](learning-quality-rubric.md), then run [Decision Readiness Checklist](decision-readiness-checklist.md) before decision handoff.

@@ -2,6 +2,11 @@
 
 **Purpose**: Diagnose slow cycles and recover quickly without sacrificing quality.
 
+## Who this is for
+
+- Teams currently stuck in a cycle.
+- Program and mentor roles running recovery interventions.
+
 This page exists because no team runs clean cycles all the time. The goal is not to avoid all breakdowns. The goal is to recognize them early enough that they do not keep compounding.
 
 ## Common blockers
@@ -10,7 +15,7 @@ This page exists because no team runs clean cycles all the time. The goal is not
 - Weak or non-testable hypotheses.
 - Experiments with no usable evidence.
 - Learnings captured as opinions.
-- Decision meetings without decisions.
+- Insight reviews without clear next action.
 
 ## How to diagnose where the problem really is
 
@@ -18,13 +23,13 @@ When a cycle feels stuck, teams often focus on the most visible symptom. That ca
 
 ```mermaid
 flowchart TD
-  decisionStall[Decision feels stuck] --> weakLearnings[Weak learnings]
+  actionStall[Next action feels stuck] --> weakLearnings[Weak learnings]
   weakLearnings --> poorExperiment[Poor experiment]
   poorExperiment --> fuzzyHypothesis[Fuzzy hypothesis]
   fuzzyHypothesis --> unclearAssumption[Unclear assumption]
 ```
 
-In other words, if the decision meeting is going nowhere, the real issue may be weak learnings. If the learnings feel weak, the real issue may be a poor experiment. If the experiment feels noisy, the real issue may be a fuzzy hypothesis. And if the hypothesis is fuzzy, the real issue may be an unclear assumption.
+In other words, if the team cannot pick a clear next action, the real issue may be weak learnings. If the learnings feel weak, the real issue may be a poor experiment. If the experiment feels noisy, the real issue may be a fuzzy hypothesis. And if the hypothesis is fuzzy, the real issue may be an unclear assumption.
 
 That is why recovery should begin by locating the first weak checkpoint, not just the latest visible problem.
 
@@ -71,6 +76,17 @@ The best recovery conversations are specific and non-dramatic. Avoid broad state
 
 That keeps recovery practical and helps teams regain momentum faster.
 
+## Definition of done
+
+- Root cause is identified at the first weak checkpoint.
+- Recovery action has clear owner and timebox.
+- Team re-enters the cycle with explicit quality gates.
+
 ## Next step
 
-Return to [Run Learning Cycles in SwiftCNS](../run-learning-cycles/README.md) and apply the smallest fix that restores clarity.
+Return to [Run Learning Cycles in SwiftCNS](../run-learning-cycles/README.md) and apply the smallest fix that restores clarity. For step-specific recovery, jump directly to:
+
+- [02 - Identify Critical Assumptions](../run-learning-cycles/02-identify-critical-assumptions.md)
+- [03 - Form Testable Hypotheses](../run-learning-cycles/03-form-testable-hypotheses.md)
+- [04 - Design and Run Experiments](../run-learning-cycles/04-design-run-experiments.md)
+- [05 - Extract Key Learnings and Insights](../run-learning-cycles/05-extract-key-learnings.md)

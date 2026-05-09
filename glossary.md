@@ -35,7 +35,7 @@ The data, signals, behaviors, or results produced by an experiment or other stru
 An evidence-backed conclusion produced from experiment results. A learning should explain what changed in the team's understanding, how strong that change is, and what uncertainty still remains.
 
 ### Validated Learning
-A learning that is strong enough to be treated as usable in synthesis and decision-making. In this playbook, validated learning is the bar for moving from raw evidence to confident next-step reasoning.
+A learning that is strong enough to be treated as usable in synthesis and decision-making. In this playbook, validated learning is the bar for moving from raw evidence to decision-ready next-step reasoning with explicit residual uncertainty.
 
 ### Insight
 A synthesis of one or more learnings that clarifies implications, trade-offs, or the meaning of the evidence for the broader bet.

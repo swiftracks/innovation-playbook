@@ -2,6 +2,12 @@
 
 **Purpose**: Integrate mentors into the cycle where they improve quality most.
 
+## Who this is for
+
+- Mentors providing high-leverage feedback.
+- Teams preparing for mentor checkpoints.
+- Program leads designing review participation models.
+
 Mentors are most valuable when they improve the quality of the cycle, not when they replace the team’s ownership of it.
 
 ## Mentor intervention points
@@ -57,6 +63,12 @@ The usual failure here is one of two extremes:
 - or mentors become so involved that the team starts outsourcing judgment.
 
 The healthiest model is somewhere in the middle: high-leverage intervention, low ownership displacement.
+
+## Definition of done
+
+- Mentor input is tied to specific artifacts and checkpoints.
+- Team ownership remains intact after mentor engagement.
+- Feedback adoption is visible in the next cycle outputs.
 
 ## Next step
 

@@ -52,3 +52,7 @@ For walkthrough docs, validate claims against capture artifacts before runtime m
 - Every major claim has a runtime anchor or planned label.
 - No unsupported present-tense statements remain.
 - Canonical CNS terminology is preserved.
+
+## Definition of Done
+
+Mapping is complete when a reviewer can trace each major functional claim to an explicit runtime layer or see a clear planned qualifier where runtime support is missing.

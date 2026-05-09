@@ -1,12 +1,23 @@
 # 30-Minute Activation
 
-**Purpose**: Activate SwiftCNS quickly so your team can start learning cycles immediately.
+**Purpose**: Get a new team from first login to first reusable insight context in one focused session.
+
+## Who this is for
+
+- Founders and product teams starting a new bet.
+- Program teams onboarding a new cohort into SwiftCNS.
+- Mentors guiding teams through their first complete loop.
 
 ## Outcome
 
-A live project with an initial conversation, first assumptions, and a clear next action.
+A live project with:
 
-This page is not about completing setup for the sake of setup. It is about getting your team to a real starting point, where the first cycle can begin with enough clarity to be useful.
+- kickoff conversation context,
+- clarified unknowns,
+- prioritized assumptions,
+- one selected testable hypothesis,
+- one experiment moved into EMS,
+- first learning/insight flow understood end-to-end.
 
 ## Time to complete
 
@@ -15,110 +26,161 @@ This page is not about completing setup for the sake of setup. It is about getti
 ## Prerequisites
 
 - SwiftCNS account access.
-- A project name and one core problem area.
-- At least one teammate invited or identified.
+- One clear problem area to explore.
+- Optional supporting docs (PRD, strategy notes, interview notes).
 
-## What this session is really accomplishing
+## Why this activation matters
 
-The first session should do three things at once:
+Most teams do not struggle with motivation. They struggle with sequence. They jump to experimentation too early, skip assumption quality, and then wonder why evidence feels weak. This activation gives your team a guided first run so your second run is faster and stronger.
 
-1. create a shared starting point,
-2. narrow the problem enough to make learning possible,
-3. make the next action obvious.
+## Activation steps (screenshot-backed)
 
-That may sound simple, but this is where many teams either build momentum or accidentally create confusion that follows them into the next few cycles.
+### 1) Create your first project
 
-If activation is too broad, teams leave with a project but no real focus.  
-If activation is too narrow too early, teams can lock onto the wrong assumption before they understand the problem.  
-The goal is not perfection. The goal is a clean enough starting point that the team can begin learning with intent.
+Reference screenshot: `../screenshots/01-workspace-dashboard.png`
 
-## Steps in SwiftCNS
+- Log in and land on Workspace Dashboard.
+- Click **Create a project**.
+- Name the project as a long-lived initiative area.
+- Prefer broad strategic scope (for example, a venture, product line, or long-running growth problem) so learnings can compound over time.
 
-1. Create or open your project.
-2. Start a new conversation and capture the problem context.
-3. Draft 3-5 initial assumptions.
-4. Convert at least one assumption into a testable hypothesis.
-5. Define one experiment and expected outcome.
-6. Confirm where learnings will be reviewed.
+Why this matters: project scope defines your memory boundary. If scope is too narrow, insights fragment and teams re-learn the same lesson in separate threads.
 
-## Why these steps are in this order
+### 2) Start your first conversation in project dashboard
 
-The sequence matters.
+Reference screenshot: `../screenshots/02-project-dashboard.png`
 
-- **Project first**: the team needs a shared container for the work.
-- **Conversation second**: this is where the problem gets shaped before anyone jumps to testing.
-- **Assumptions third**: once the context is visible, the team can name what must be true.
-- **Hypothesis and experiment next**: only after the team has explicit assumptions should it move into testing.
-- **Review checkpoint last**: if nobody knows when learnings will be reviewed, the work often stalls between execution and decision.
+- Open **Create first conversation** or **New conversation**.
+- Name the conversation so teammates understand the context thread.
 
-This order keeps the session practical. It stops teams from rushing into activity before they know what they are actually trying to learn.
+Why this matters: a clear conversation name improves cross-team discoverability and makes review easier later.
 
-## Role lenses
+### 3) Submit kickoff context in conversation
 
-- **Startup**
-  - Bring the sharpest version of the problem you can.
-  - Choose one high-risk assumption first instead of trying to map everything.
-  - Resist the urge to turn the session into solution design.
+Reference screenshot: `../screenshots/03-kickoff-conversation.png`
 
-- **Program manager**
-  - Confirm who owns the first checkpoint.
-  - Set the expectation that this session is about creating a usable learning loop, not just filling in fields.
-  - Make sure the review date is explicit so the work has accountability from day one.
+- Describe the problem, target users, constraints, and current uncertainty.
+- Upload context attachments when available.
 
-- **Mentor**
-  - Push for clarity without overcomplicating the starting point.
-  - Sanity-check whether the team is naming assumptions or jumping straight to answers.
-  - Help the team leave with one stronger next move, not ten loose ideas.
+Why this matters: better context produces better assumptions. Sparse context usually causes generic outputs and slower cycles.
+
+### 4) Respond to clarifying questions
+
+Reference screenshot: `../screenshots/04-clarifying-questions-conversation.png`
+
+- Answer each question with factual detail.
+- Mark unknowns explicitly if evidence is missing.
+
+Why this matters: unknowns are signal, not failure. Honest uncertainty helps the system focus where evidence is weakest.
+
+### 5) Select critical assumptions
+
+Reference screenshot: `../screenshots/05-select-assumptions.png`
+
+- Review surfaced assumptions by importance and evidence level.
+- Select the highest-risk assumption(s) to test first.
+
+Why this matters: high-importance + low-evidence assumptions usually reduce the costliest uncertainty first.
+
+### 6) Select a testable hypothesis
+
+Reference screenshot: `../screenshots/06-select-hypothesis.png`
+
+- Review candidate hypotheses.
+- Choose one with clear measurable success and failure signals.
+
+Why this matters: a clean hypothesis turns uncertainty into something your team can actually measure.
+
+### 7) Compare experiment options and pick one
+
+Reference screenshots:
+
+- `../screenshots/07-select-experiment.png`
+- `../screenshots/07.1-selected-experiment.png`
+
+- Compare experiment cards for method, success criteria, and key metrics.
+- Balance data reliability against setup complexity, runtime, and cost.
+- Select the experiment that gives the best evidence for your current constraints.
+
+Why this matters: speed without reliability creates false confidence; reliability without feasibility creates stalled cycles.
+
+### 8) Move into EMS draft and coordinate ownership
+
+Reference screenshots:
+
+- `../screenshots/08-experiment-draft-ems.png`
+- `../screenshots/08.1-experiment-draft-coordination-ems.png`
+- `../screenshots/08.2-experiment-draft-approval-ems.png`
+
+- Open the selected experiment in EMS.
+- In draft mode, refine description, criteria, and metrics if needed.
+- Assign owner and due date.
+- Approve/lock the experiment once aligned.
+
+Why this matters: ownership and locked scope prevent silent drift during execution.
+
+### 9) Track execution data and lock tracker
+
+Reference screenshots:
+
+- `../screenshots/08.3-experiment-data-tracker-ems.png`
+- `../screenshots/08.4-experiment-data-tracker-inputs-ems.png`
+- `../screenshots/08.5-experiment-data-tracker-lock-ems.png`
+
+- Open **Data Tracker** from experiment details.
+- Build schema manually or use Data Tracking Agent support.
+- Enter activity data rows (or import CSV where applicable).
+- Lock the tracker when evidence capture is complete.
+
+Why this matters: unlocked or incomplete tracker data weakens synthesis quality.
+
+### 10) Generate learning and review first insight flow
+
+Reference screenshots:
+
+- `../screenshots/08.6-generate-learning-card-ems.png`
+- `../screenshots/08.7-generate-learning-card-submit-ems.png`
+- `../screenshots/09-learning-card-draft-ems.png`
+- `../screenshots/09.1-insights-library-ems.png`
+- `../screenshots/09.2-conversation-sources.png`
+
+- Generate the learning card from experiment details.
+- Review and edit the draft for factual accuracy.
+- Approve when quality is sufficient.
+- Confirm insight visibility in the library.
+- Open Sources in conversation and attach relevant artifacts for next cycle reuse.
+
+Why this matters: this is where learning compounds. Sources let the next cycle start from prior artifacts and evidence, not from memory alone.
+
+## Activation quality gates
+
+- Context quality is sufficient for non-generic assumption surfacing.
+- Selected assumption is high-importance and evidence-light.
+- Selected hypothesis is falsifiable and measurable.
+- Experiment owner and due date are assigned.
+- Tracker data path is clear (manual, agent-assisted, or CSV import).
+- Team can explain how learnings and insights will feed the next cycle.
 
 ## Outputs
 
-- Project initialized.
-- First conversation saved.
-- Initial assumptions and one experiment candidate.
-
-## What good looks like
-
-A strong activation session feels focused, slightly incomplete in a healthy way, and clearly directional.
-
-By the end of it, the team should be able to say:
-
-- Here is the problem we are starting with.
-- Here is the assumption we most need to test.
-- Here is how we think we will test it.
-- Here is when we will review what we learn.
-
-That is enough. The point is to begin the loop well, not to solve the whole initiative in one session.
+- Project and first conversation created.
+- Clarifying answers captured in thread.
+- Selected assumptions and one selected hypothesis.
+- Experiment moved into EMS with explicit ownership.
+- Team understands learning generation and insight reuse path.
 
 ## Definition of done
 
-- Team has a shared project starting point.
-- At least one hypothesis is ready for experiment execution.
-- Next review checkpoint is scheduled.
+- Team can run the first cycle end-to-end without ambiguity in ownership, quality bars, or next-step artifacts.
 
-## What usually goes wrong in the first session
+## Common mistakes in first activation
 
-Common early mistakes:
-
-- trying to capture too many assumptions at once,
-- confusing a feature idea with the problem itself,
-- writing assumptions that are too broad to test,
-- treating the first conversation like a brainstorm instead of the start of a decision process,
-- leaving without a real owner or review date.
-
-If any of these happen, the fix is usually to simplify. Pick one narrower assumption, one clearer hypothesis, and one visible next checkpoint.
-
-## If blocked
-
-- Missing project clarity: return to [Core Definitions](../concept-foundations/core-definitions.md).
-- Weak assumptions: use [Learning Quality Rubric](../resources/learning-quality-rubric.md).
-
-## Practical advice
-
-- Start narrower than you think you should.
-- Focus on the assumption most likely to create expensive waste if left untested.
-- End the session with a decision about the next action, not just a list of notes.
-- Treat this as the beginning of shared discipline, not just onboarding.
+- Naming projects too narrowly (which fragments insight memory).
+- Selecting assumptions that are easy, not critical.
+- Choosing experiments by convenience only, ignoring reliability tradeoffs.
+- Treating learning draft output as final without review/edit.
+- Skipping Sources, then repeating context setup in the next cycle.
 
 ## Next step
 
-Continue to [Concept Foundations](../concept-foundations/README.md).
+Continue to [Run Learning Cycles in SwiftCNS](../run-learning-cycles/README.md).

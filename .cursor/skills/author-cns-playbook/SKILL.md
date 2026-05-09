@@ -51,6 +51,7 @@ When available, prefer capture-backed workflow evidence from `capture-cns-workfl
 - Claims do not exceed known CNS runtime behavior.
 - Language uses canonical CNS terms consistently.
 - Tutorial workflow claims are screenshot-backed or explicitly marked as unverified.
+- Tone remains direct, evidence-grounded, and operator-practical (no hype framing).
 
 ## Capture-to-Write Integration
 
@@ -106,3 +107,13 @@ Typical sections:
 - Omit sections that add no decision value.
 - Add sections only when they clarify evidence, logic, or execution.
 - Never optimize for format compliance over critical thinking.
+
+## Definition of Done
+
+The page is done when it is:
+
+- stage-correct,
+- evidence-disciplined,
+- decision-ready,
+- runtime-aligned,
+- and readable for operators without extra interpretation.

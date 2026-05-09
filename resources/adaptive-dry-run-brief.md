@@ -1,5 +1,13 @@
 # Rapid Triage for Contradictory Signals
 
+## Purpose
+
+Provide a concise response pattern when one sprint produces mixed evidence on the same hypothesis.
+
+## Outcome
+
+Team preserves decision quality by choosing a bounded next test instead of overreacting.
+
 ## Context
 
 Two experiments on the same hypothesis produced mixed signals in one sprint.
@@ -19,3 +27,7 @@ Run one narrow follow-up test focused on the highest-impact uncertainty.
 
 Iterate, not pivot.
 Design a short retest with explicit invalidation criteria and run within current cycle window.
+
+## Next step
+
+Move to [Standard Stage Method — Evidence Readiness Before Learning Lock](adaptive-dry-run-standard.md) if contradictory signals persist across cycles.

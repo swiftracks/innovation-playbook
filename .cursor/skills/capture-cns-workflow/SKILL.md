@@ -12,6 +12,10 @@ Use this skill to capture real product workflows from the CNS app and produce re
 Capture only what is actually executed in the app.
 Do not fabricate steps, UI labels, outcomes, or screenshots.
 
+## Secondary Principle
+
+Preserve state transitions explicitly (for example draft -> approved -> locked -> completed) so tutorial authors can map behavior to quality gates.
+
 ## Target App
 
 - Production/dev app URL: `https://app.dev.swiftcns.ai`
@@ -77,3 +81,9 @@ Return a structured capture log that can be transformed into tutorial pages:
 - Every screenshot maps to exactly one step.
 - No undocumented jumps between steps.
 - Any uncertainty is explicitly marked.
+
+## Definition of Done
+
+- Capture log can be converted directly into tutorial steps without guessing.
+- Screenshot file names are deterministic and resolvable.
+- Workflow sequence is complete enough for another operator to reproduce.

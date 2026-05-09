@@ -1,5 +1,15 @@
 # Decision Readiness Checklist
 
+## Purpose
+
+Use this checklist to verify that your team is ready to commit to a decision, not just ready to discuss one.
+
+## Who this is for
+
+- Decision owners approving next moves.
+- Teams presenting evidence in review meetings.
+- Mentors and program leads enforcing decision quality.
+
 Before making a decision, confirm:
 
 - [ ] The highest-risk assumption was tested.
@@ -26,6 +36,12 @@ Use it before a decision meeting, not halfway through one. Review it with the ac
 
 A decision-ready team can explain what assumption was tested, what learning is driving the decision, what uncertainty remains, why the decision is still reasonable now, and what happens next.
 
+## Definition of done
+
+- Decision path is explicit (`go`, `iterate`, `pivot`, or `stop`).
+- Owner and next checkpoint are documented.
+- Remaining uncertainty is visible, not hidden.
+
 ## Next step
 
-Return to [06 — Synthesize Insights -> Decision](../run-learning-cycles/06-synthesize-insights-decision.md).
+Return to [05 - Extract Key Learnings and Insights](../run-learning-cycles/05-extract-key-learnings.md) and finalize decision handoff in your operating cadence.

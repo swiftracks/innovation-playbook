@@ -1,5 +1,13 @@
 # Cycle Improvement Playbook
 
+## Purpose
+
+Provide a practical method for improving cycle performance when speed, quality, or confidence starts to degrade.
+
+## Outcome
+
+Teams identify the highest-impact bottleneck, apply a targeted fix, and verify improvement over subsequent cycles.
+
 Use this when cycle time rises or learning quality drops.
 
 Think of this page less like a formal improvement framework and more like a practical way to ask, “Where is the system actually weakening, and what is the smallest fix that would help?”
@@ -36,3 +44,13 @@ If intervention works, update team operating practices and program templates.
 Good improvement usually feels modest but meaningful. Assumptions get sharper, experiments get more decisive, learnings become easier to trust, and decisions happen with less friction.
 
 That is how the system compounds. Not through one dramatic process change, but through repeated removal of weak links in the cycle.
+
+## Definition of done
+
+- Bottleneck was diagnosed at the correct checkpoint.
+- Intervention improved both speed and confidence quality.
+- Successful fix is documented and reused.
+
+## Next step
+
+Return to [North Star and Supporting Metrics](north-star-and-supporting-metrics.md) and track the next 2-3 cycles for sustained improvement.

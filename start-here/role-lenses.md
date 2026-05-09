@@ -2,6 +2,12 @@
 
 **Purpose**: Clarify role responsibilities without splitting documentation into separate paths.
 
+## Who this is for
+
+- Teams working cross-functionally in one cycle.
+- Program operators assigning clear ownership.
+- Mentors and partners supporting without ownership drift.
+
 ## Outcome
 
 Each role knows what to own at every step of the learning cycle.
@@ -120,7 +126,9 @@ External partners can accidentally become the de facto owner of the cycle. That 
 ## Shared expectation
 
 All roles align on one loop:
-**idea / problem -> assumptions -> experiments -> learnings -> insights -> decisions**.
+**idea / problem -> assumptions -> hypotheses -> experiments -> learnings -> insights**.
+
+Decisions are a downstream operating handoff after insight synthesis.
 
 ## How the roles should work together
 
@@ -129,6 +137,13 @@ When this system is working well:
 the **startup team** owns the bet and the day-to-day learning work, the **product manager** keeps the cycle pointed at the right uncertainty, **design**, **engineering**, and **growth / GTM** contribute evidence from their own parts of the system, the **program manager** owns the rhythm and quality environment, the **mentor** improves judgment at key moments, and any **agency / consultancy partner** strengthens execution without taking over ownership.
 
 Each role is different, but they should all be reinforcing the same standards. If one role optimizes for speed, another for polish, and another for broad discussion, the system gets noisy very quickly.
+
+## Quality gates for role collaboration
+
+- Ownership is explicit at each checkpoint.
+- Feedback is artifact-specific, not personality-based.
+- Role input improves decision quality, not just output volume.
+- Mentor and partner support strengthens team capability over time.
 
 ## What good collaboration looks like
 
@@ -141,6 +156,12 @@ Good collaboration in this model feels like:
 - decisions that become easier as the cycle progresses.
 
 The goal is not to have everyone doing the same work. The goal is to have everyone strengthening the same loop from their own vantage point.
+
+## Definition of done
+
+- Team can name primary owner and support roles for each loop stage.
+- Reviews produce clearer assumptions, better experiments, and stronger decisions.
+- Cross-functional discussions reduce ambiguity rather than increase it.
 
 ## Next step
 

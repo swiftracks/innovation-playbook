@@ -1,5 +1,13 @@
 # Deep Methodology Note — Handling Multi-Cycle Evidence Conflict
 
+## Purpose
+
+Define a rigorous method for resolving conflicting evidence across multiple cycles without defaulting to either paralysis or overreaction.
+
+## Outcome
+
+Teams produce a weighted, decision-ready interpretation with explicit confidence and residual uncertainty.
+
 ## Context and Problem Framing
 
 Teams sometimes accumulate evidence across multiple cycles that points in different directions.
@@ -55,3 +63,7 @@ When this method is used, downstream planning should include:
 - explicit confidence level,
 - known uncertainty debt,
 - and one validation checkpoint in the next cycle.
+
+## Next step
+
+Apply [Decision Readiness Checklist](decision-readiness-checklist.md) before committing to `go`, `iterate`, `pivot`, or `stop`.

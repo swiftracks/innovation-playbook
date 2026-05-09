@@ -80,3 +80,7 @@ The page passes only when:
 - evidence standards are explicit,
 - decision path is explicit,
 - and claims are runtime-valid.
+
+## Definition of Done
+
+Review is complete when findings are prioritized by impact, mapped to concrete fixes, and sufficient for an editor to resolve issues without interpretation gaps.

@@ -2,6 +2,12 @@
 
 **Purpose**: Help teams and cohorts run SwiftCNS with repeatable cadence and quality gates.
 
+## Who this is for
+
+- Program managers running multiple teams in parallel.
+- Mentors and operators coordinating review moments.
+- Leadership monitoring learning-system health.
+
 ## Outcome
 
 Consistent execution and clearer decision governance across multiple teams.
@@ -42,6 +48,12 @@ At this layer, good looks like:
 - mentors know where they add the most value,
 - program managers can spot weak cycles early,
 - and decisions become more comparable across teams.
+
+## Definition of done
+
+- Program rhythm is explicit and communicated.
+- Stage gates are consistently applied across teams.
+- Escalation path is clear when cycle quality drops.
 
 ## Next step
 

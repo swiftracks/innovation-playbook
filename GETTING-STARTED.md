@@ -2,22 +2,24 @@
 
 **Purpose**: Get your team operational in SwiftCNS and start a high-quality learning cycle quickly.
 
+## Who this is for
+
+- Startup teams turning uncertain bets into evidence-backed direction.
+- Program managers coordinating multiple teams through shared quality bars.
+- Mentors helping teams improve judgment without taking over ownership.
+
 ## Outcome
 
-By the end of this section, your team is ready to run the full SwiftCNS learning loop:
-**assumptions -> experiments -> learnings -> insights -> decisions**.
+By the end of this section, your team is ready to run the shipped SwiftCNS learning loop:
+**assumptions -> hypotheses -> experiments -> learnings -> insights**.
+
+SwiftCNS currently persists artifacts through Insight. Teams then run downstream decision routines in their operating process.
 
 More importantly, your team should understand *why* the path is structured this way and what good execution looks like before real work begins.
 
 ## Time to complete
 
 30-45 minutes.
-
-## Who this is for
-
-- Startup teams validating new products or bets.
-- Program managers running cohorts across multiple teams.
-- Mentors supporting teams with structured feedback.
 
 ## Prerequisites
 
@@ -27,7 +29,9 @@ More importantly, your team should understand *why* the path is structured this 
 
 ## Why this section exists
 
-Many teams want to jump straight into experiments. The problem is that execution without shared framing usually creates noise instead of learning. Teams move fast, but they are not aligned on:
+SwiftCNS is built for one outcome: faster, better decisions under uncertainty. Teams often miss that outcome when they rush to execution without a shared method. They run work quickly, but they do not compound learning.
+
+Execution without shared framing usually creates noise instead of evidence. Teams move fast, but they are not aligned on:
 
 what they are actually trying to learn, how to define quality, what counts as evidence, and when a decision is strong enough to make.
 
@@ -35,12 +39,13 @@ This section exists to prevent that. It gives teams a fast but structured starti
 
 ## One canonical path
 
-Use this sequence to maximize SwiftCNS usage:
+Use this sequence to adopt the workflow with fewer dead ends:
 
 1. Complete [30-Minute Activation](start-here/30-minute-activation.md).
 2. Read [Concept Foundations](concept-foundations/README.md).
 3. Learn [Learning Cycle Fundamentals](learning-cycle/fundamentals/README.md).
 4. Execute [Run Learning Cycles in SwiftCNS](run-learning-cycles/README.md).
+5. Use [Troubleshooting and Recovery](troubleshooting/README.md) when cycle quality drops.
 
 ## Why the path is ordered this way
 
@@ -90,6 +95,15 @@ The most common early mistakes are:
 
 If your team recognizes these patterns early, it can save weeks of confusion later.
 
+## Quality gates
+
+Use these checks before moving to execution pages:
+
+- Team can explain the loop in the same words.
+- Team can identify current stage and required next artifact.
+- Team agrees on what counts as evidence versus activity.
+- Team agrees on how confidence should be stated before decisions.
+
 ## Definition of done
 
 You are ready for execution when:
@@ -98,6 +112,15 @@ You are ready for execution when:
 - You understand core concepts and quality standards.
 - You can identify where your team is in the learning cycle.
 - You are ready to begin [01 — Idea / Problem](run-learning-cycles/01-idea-problem.md).
+
+## Navigation map
+
+If you are moving through this section for the first time:
+
+1. [30-Minute Activation](start-here/30-minute-activation.md)
+2. [Role Lenses](start-here/role-lenses.md)
+3. [Concept Foundations](concept-foundations/README.md)
+4. [Learning Cycle Fundamentals](learning-cycle/fundamentals/README.md)
 
 ## Practical advice before you move on
 

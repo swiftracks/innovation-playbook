@@ -2,6 +2,12 @@
 
 **Purpose**: Reduce cycle delays by enforcing clear operating rhythm and quality checkpoints.
 
+## Who this is for
+
+- Program managers setting execution rhythm.
+- Team leads preparing for gate reviews.
+- Mentors participating in checkpoint interventions.
+
 Cadence is what keeps learning from becoming sporadic. Stage gates are what keep quality from drifting. Together, they give teams enough structure to move consistently without turning the work into bureaucracy.
 
 ## Recommended rhythm
@@ -80,6 +86,12 @@ Teams should know:
 ## Common mistake
 
 The most common program mistake is turning cadence into status reporting. A good operating rhythm is not just about hearing updates. It is about helping teams move from weak signals to stronger decisions with less drift and less delay.
+
+## Definition of done
+
+- Teams know exactly which artifact is expected at each gate.
+- Program reviews focus on evidence quality, not activity volume.
+- Escalations happen early enough to preserve cycle momentum.
 
 ## Next step
 

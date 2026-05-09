@@ -2,6 +2,12 @@
 
 **Purpose**: Establish a common language and operating model before execution.
 
+## Who this is for
+
+- Teams beginning their first cycle in SwiftCNS.
+- Program leads standardizing quality across multiple teams.
+- Mentors and reviewers aligning on shared evaluation language.
+
 ## Outcome
 
 Teams can run faster cycles with fewer misunderstandings and stronger decisions.
@@ -49,6 +55,12 @@ A team that completes this section well can:
 - identify what kind of artifact they are producing at any given step,
 - evaluate work quality before it becomes a downstream problem,
 - align founders, operators, reviewers, and mentors around the same standards.
+
+## Quality gates
+
+- Team can distinguish all core artifact types without conflation.
+- Team can explain how one stage output becomes the next stage input.
+- Team can identify what evidence is required before moving forward.
 
 ## Definition of done
 

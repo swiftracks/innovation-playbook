@@ -2,6 +2,12 @@
 
 **Purpose**: Define minimum acceptable quality for cycle outputs.
 
+## Who this is for
+
+- Teams producing assumptions, hypotheses, experiments, learnings, and insights.
+- Mentors and program managers running quality reviews.
+- Decision owners checking whether outputs are ready for commitment.
+
 Quality standards exist to help teams move faster with less rework. They are not there to make the process heavier. They are there to stop weak work from quietly creating downstream confusion.
 
 ## Assumption quality
@@ -68,6 +74,12 @@ That is why quality should be checked early, not just at the end.
 ## Practical use
 
 Use these standards during the cycle, not after it. The best time to improve quality is before weak work compounds into a slower decision cycle.
+
+## Definition of done
+
+- Team uses standards during execution, not only in retrospective review.
+- Weak artifacts are revised before moving to next stage.
+- Confidence language matches evidence strength.
 
 ## Next step
 

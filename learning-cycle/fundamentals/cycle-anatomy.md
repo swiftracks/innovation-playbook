@@ -2,6 +2,12 @@
 
 **Purpose**: Break the loop into executable checkpoints.
 
+## Who this is for
+
+- Operators who need clear stage-by-stage execution guidance.
+- Reviewers who need to diagnose exactly where quality dropped.
+- Program teams standardizing checkpoint expectations.
+
 This page is useful when the team understands the loop conceptually but needs a clearer sense of what each stage is actually doing. Each checkpoint exists to reduce a different kind of uncertainty.
 
 ## Checkpoint 1: Assumption selection
@@ -57,6 +63,12 @@ If a team is struggling late in the cycle, it is often worth checking whether th
 ## What good looks like
 
 Good cycle anatomy is visible when a team can move from one checkpoint to the next without re-explaining the whole project every time. The artifacts should carry enough clarity that the work compounds instead of resetting.
+
+## Definition of done
+
+- Each checkpoint has a visible artifact with clear owner.
+- Teams can explain why each checkpoint exists before moving on.
+- Review conversations use checkpoint quality, not generic status updates.
 
 ## Next step
 

@@ -2,6 +2,12 @@
 
 **Purpose**: Standardize key terms so teams can execute without ambiguity.
 
+## Who this is for
+
+- Anyone creating or reviewing cycle artifacts in SwiftCNS.
+- Cross-functional teams that need one shared language.
+- Program and mentor roles enforcing quality standards.
+
 ## Outcome
 
 Shared vocabulary across startup teams, program managers, and mentors.
@@ -24,7 +30,7 @@ Shared vocabulary across startup teams, program managers, and mentors.
   Insights connect individual learnings to broader meaning, implications, and possible next moves.
 
 - **Decision**: A clear commitment (go, iterate, pivot, stop) based on insights.
-  A decision closes the loop. It turns knowledge into action, ownership, and direction.
+  A decision closes the broader operating loop. In current SwiftCNS product workflow, artifacts are persisted through Insight and decision execution is a team handoff.
 
 ## Distinctions that reduce rework
 
@@ -32,6 +38,7 @@ Shared vocabulary across startup teams, program managers, and mentors.
 - Activity is not experiment.
 - Opinion is not learning.
 - Summary is not insight.
+- Insight is not decision.
 
 ## Why these distinctions matter in practice
 
@@ -77,6 +84,12 @@ At this stage, good looks like a team that can look at any artifact and answer:
 - What stage of the loop does it belong to?
 - What should come next?
 - Is it strong enough to move forward?
+
+## Quality gates
+
+- Every artifact in active use can be correctly classified.
+- Team members use terms consistently in reviews.
+- Discussions about quality reference artifact type, not just effort level.
 
 ## Definition of done
 

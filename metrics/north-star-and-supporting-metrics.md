@@ -1,10 +1,19 @@
 # North Star and Supporting Metrics
 
+## Purpose
+
+Define a measurement system that improves both learning speed and decision quality.
+
+## Who this is for
+
+- Teams instrumenting their cycle performance.
+- Program operators running cross-team reviews.
+
 ## North Star
 
 **Median learning cycle time** from **assumption selection -> validated learnings**.
 
-This is the north star because it captures the core promise of the system: help teams turn uncertainty into usable learning faster.
+This is the north star because it directly measures how quickly teams turn a selected uncertainty into reviewable, validated learning.
 
 It is not enough on its own, though. A shorter cycle is only valuable if the learning is still strong enough to support good decisions.
 
@@ -42,3 +51,13 @@ Operationally, teams should mark the start of the cycle when a specific assumpti
 - If stage-gate pass rate is weak at the same point repeatedly, the issue is likely systemic, not individual.
 
 The goal is not to optimize one number in isolation. The goal is to improve the whole learning system.
+
+## Definition of done
+
+- Metric definitions are consistent across teams.
+- Review cadence is established and followed.
+- Interventions are selected based on trends, not one-off anomalies.
+
+## Next step
+
+Use [Cycle Improvement Playbook](cycle-improvement-playbook.md) when trends indicate degradation in speed, quality, or confidence.

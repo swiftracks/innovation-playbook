@@ -1,5 +1,19 @@
 # Roadmap and Handoff
 
+## Purpose
+
+Separate the shipped SwiftCNS learning-cycle path from downstream decision execution and future roadmap context.
+
+## Who this is for
+
+- Teams that reached insight and are preparing downstream action.
+- Program leads deciding where this playbook stops and other systems begin.
+- Contributors trying to avoid scope drift in documentation.
+
+## Outcome
+
+Readers understand what is in-scope for this playbook now and what should be handled in adjacent operating artifacts.
+
 This page separates the current SwiftCNS operating path from adjacent material that becomes useful later.
 
 ## Current focus
@@ -35,6 +49,11 @@ Advanced analytics and command-center capabilities should be treated as planned 
 The rule is simple: if a capability is not part of the active documented workflow, do not assume it is core to the current operating model yet.
 
 If a reader reaches this page, the right next question is usually not "What else can I read?" but "What part of the current path do I still need to execute well?" That is why the handoff and roadmap stay secondary here.
+
+## Definition of done
+
+- Team can distinguish between current loop execution and downstream operating handoff.
+- Contributors avoid introducing planned features as present-tense capabilities.
 
 ## Next step
 

@@ -1,5 +1,14 @@
 # Learning Quality Rubric
 
+## Purpose
+
+Use this rubric to determine whether a learning is strong enough to influence insight synthesis and decision direction.
+
+## Who this is for
+
+- Teams validating learning quality before approval.
+- Mentors and program leads calibrating review standards.
+
 Use this rubric to assess whether learning outputs are decision-ready.
 
 The purpose of a rubric is not to make teams score things for the sake of scoring. It is to give teams a shared way to judge whether a learning is strong enough to support synthesis and decision-making.
@@ -51,6 +60,11 @@ Rate each dimension from 1 (weak) to 5 (strong):
 - 20-25: decision-ready.
 - 14-19: usable with targeted improvements.
 - 5-13: not decision-ready; revise before synthesis.
+
+Use interpretation with judgment:
+
+- Any score below `3` on **evidence strength** or **decision relevance** should block promotion.
+- High total scores do not justify overconfidence if uncertainty is still material.
 
 ## How to use this well
 

@@ -2,6 +2,12 @@
 
 **Purpose**: Measure whether your learning system is getting faster and better over time.
 
+## Who this is for
+
+- Teams tracking cycle performance over time.
+- Program leaders comparing execution quality across cohorts.
+- Mentors and operators diagnosing recurring weak points.
+
 ## Outcome
 
 Teams and programs can systematically improve learning velocity and decision quality.
@@ -27,3 +33,13 @@ This section helps answer better questions:
 ## How to use this section
 
 Start with the north star and supporting metrics if you need to understand what to measure. Move to the improvement playbook when the numbers suggest the system is drifting or when a team is repeatedly getting stuck in the same part of the loop.
+
+## Definition of done
+
+- Team can explain what each metric means and how it influences action.
+- Metric trends trigger targeted interventions, not generic process changes.
+- Measurement remains tied to decision quality, not activity vanity.
+
+## Next step
+
+Continue to [North Star and Supporting Metrics](north-star-and-supporting-metrics.md).

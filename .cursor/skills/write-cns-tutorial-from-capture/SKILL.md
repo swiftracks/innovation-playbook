@@ -71,3 +71,9 @@ Do not reference screenshots that were not captured.
 - Language is practical and audience-appropriate.
 - No fabricated UI claims.
 - Decision and workflow intent stay aligned with canonical CNS loop.
+
+## Definition of Done
+
+- Tutorial can be followed end-to-end by target audience without hidden assumptions.
+- Every procedural claim is backed by capture evidence.
+- Next-step guidance is explicit and stage-aligned.

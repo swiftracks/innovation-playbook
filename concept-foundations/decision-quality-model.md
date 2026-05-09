@@ -2,6 +2,12 @@
 
 **Purpose**: Define how teams judge whether evidence is strong enough to decide.
 
+## Who this is for
+
+- Teams preparing to turn insights into committed next actions.
+- Program and mentor reviewers evaluating decision readiness.
+- Leaders who need consistent confidence language across bets.
+
 ## Outcome
 
 Decisions become faster and more consistent without lowering quality.
@@ -70,6 +76,15 @@ Before finalizing a decision, teams should be able to answer:
 
 If these questions cannot be answered clearly, the team is usually not decision-ready yet.
 
+## Decision output standard
+
+A decision statement should include:
+
+- chosen path (`go`, `iterate`, `pivot`, or `stop`),
+- confidence band and rationale,
+- owner and next checkpoint date,
+- key residual uncertainties.
+
 ## Common failure modes
 
 ### Premature decisions
@@ -98,6 +113,7 @@ Good decision quality looks like a team that can explain its rationale clearly, 
 
 - Team applies standards at each checkpoint.
 - Decisions include confidence and rationale.
+- Decisions include explicit ownership and next action.
 
 ## Next step
 
