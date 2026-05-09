@@ -29,7 +29,9 @@ Most cycle quality problems start here. If project scope is too narrow or kickof
 
 ### 1) Enter workspace and create a project
 
-Reference screenshot: `../screenshots/01-workspace-dashboard.png`
+Screenshot:
+
+![Workspace dashboard](../screenshots/01-workspace-dashboard.png)
 
 - Log in via `swiftcns.ai`.
 - On the dashboard, choose **Create a project**.
@@ -37,14 +39,18 @@ Reference screenshot: `../screenshots/01-workspace-dashboard.png`
 
 ### 2) Open project dashboard and start first conversation
 
-Reference screenshot: `../screenshots/02-project-dashboard.png`
+Screenshot:
+
+![Project dashboard](../screenshots/02-project-dashboard.png)
 
 - On the new project dashboard, choose **Create first conversation** or **New conversation**.
 - Use a conversation name that reflects the problem context your team is exploring.
 
 ### 3) Kick off the conversation with high-signal context
 
-Reference screenshot: `../screenshots/03-kickoff-conversation.png`
+Screenshot:
+
+![Kickoff conversation](../screenshots/03-kickoff-conversation.png)
 
 - Describe the problem, audience, constraints, and what success would look like.
 - Add attachments when available (PRD, research notes, strategy docs).
@@ -52,7 +58,9 @@ Reference screenshot: `../screenshots/03-kickoff-conversation.png`
 
 ### 4) Answer clarifying questions from the agent
 
-Reference screenshot: `../screenshots/04-clarifying-questions-conversation.png`
+Screenshot:
+
+![Clarifying questions](../screenshots/04-clarifying-questions-conversation.png)
 
 - Respond to each question with concrete details when known.
 - If unknown, state uncertainty explicitly rather than guessing.

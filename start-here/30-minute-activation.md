@@ -37,7 +37,9 @@ Most teams do not struggle with motivation. They struggle with sequence. They ju
 
 ### 1) Create your first project
 
-Reference screenshot: `../screenshots/01-workspace-dashboard.png`
+Screenshot:
+
+![Workspace dashboard](../screenshots/01-workspace-dashboard.png)
 
 - Log in and land on Workspace Dashboard.
 - Click **Create a project**.
@@ -48,7 +50,9 @@ Why this matters: project scope defines your memory boundary. If scope is too na
 
 ### 2) Start your first conversation in project dashboard
 
-Reference screenshot: `../screenshots/02-project-dashboard.png`
+Screenshot:
+
+![Project dashboard](../screenshots/02-project-dashboard.png)
 
 - Open **Create first conversation** or **New conversation**.
 - Name the conversation so teammates understand the context thread.
@@ -57,7 +61,9 @@ Why this matters: a clear conversation name improves cross-team discoverability 
 
 ### 3) Submit kickoff context in conversation
 
-Reference screenshot: `../screenshots/03-kickoff-conversation.png`
+Screenshot:
+
+![Kickoff conversation](../screenshots/03-kickoff-conversation.png)
 
 - Describe the problem, target users, constraints, and current uncertainty.
 - Upload context attachments when available.
@@ -66,7 +72,9 @@ Why this matters: better context produces better assumptions. Sparse context usu
 
 ### 4) Respond to clarifying questions
 
-Reference screenshot: `../screenshots/04-clarifying-questions-conversation.png`
+Screenshot:
+
+![Clarifying questions](../screenshots/04-clarifying-questions-conversation.png)
 
 - Answer each question with factual detail.
 - Mark unknowns explicitly if evidence is missing.
@@ -75,7 +83,9 @@ Why this matters: unknowns are signal, not failure. Honest uncertainty helps the
 
 ### 5) Select critical assumptions
 
-Reference screenshot: `../screenshots/05-select-assumptions.png`
+Screenshot:
+
+![Select assumptions](../screenshots/05-select-assumptions.png)
 
 - Review surfaced assumptions by importance and evidence level.
 - Select the highest-risk assumption(s) to test first.
@@ -84,7 +94,9 @@ Why this matters: high-importance + low-evidence assumptions usually reduce the 
 
 ### 6) Select a testable hypothesis
 
-Reference screenshot: `../screenshots/06-select-hypothesis.png`
+Screenshot:
+
+![Select hypothesis](../screenshots/06-select-hypothesis.png)
 
 - Review candidate hypotheses.
 - Choose one with clear measurable success and failure signals.
@@ -93,10 +105,10 @@ Why this matters: a clean hypothesis turns uncertainty into something your team 
 
 ### 7) Compare experiment options and pick one
 
-Reference screenshots:
+Screenshots:
 
-- `../screenshots/07-select-experiment.png`
-- `../screenshots/07.1-selected-experiment.png`
+![Select experiment](../screenshots/07-select-experiment.png)
+![Selected experiment](../screenshots/07.1-selected-experiment.png)
 
 - Compare experiment cards for method, success criteria, and key metrics.
 - Balance data reliability against setup complexity, runtime, and cost.
@@ -106,11 +118,11 @@ Why this matters: speed without reliability creates false confidence; reliabilit
 
 ### 8) Move into EMS draft and coordinate ownership
 
-Reference screenshots:
+Screenshots:
 
-- `../screenshots/08-experiment-draft-ems.png`
-- `../screenshots/08.1-experiment-draft-coordination-ems.png`
-- `../screenshots/08.2-experiment-draft-approval-ems.png`
+![Experiment draft in EMS](../screenshots/08-experiment-draft-ems.png)
+![Experiment draft coordination in EMS](../screenshots/08.1-experiment-draft-coordination-ems.png)
+![Experiment draft approval in EMS](../screenshots/08.2-experiment-draft-approval-ems.png)
 
 - Open the selected experiment in EMS.
 - In draft mode, refine description, criteria, and metrics if needed.
@@ -121,11 +133,11 @@ Why this matters: ownership and locked scope prevent silent drift during executi
 
 ### 9) Track execution data and lock tracker
 
-Reference screenshots:
+Screenshots:
 
-- `../screenshots/08.3-experiment-data-tracker-ems.png`
-- `../screenshots/08.4-experiment-data-tracker-inputs-ems.png`
-- `../screenshots/08.5-experiment-data-tracker-lock-ems.png`
+![Experiment data tracker in EMS](../screenshots/08.3-experiment-data-tracker-ems.png)
+![Experiment data tracker inputs in EMS](../screenshots/08.4-experiment-data-tracker-inputs-ems.png)
+![Experiment data tracker lock in EMS](../screenshots/08.5-experiment-data-tracker-lock-ems.png)
 
 - Open **Data Tracker** from experiment details.
 - Build schema manually or use Data Tracking Agent support.
@@ -136,13 +148,13 @@ Why this matters: unlocked or incomplete tracker data weakens synthesis quality.
 
 ### 10) Generate learning and review first insight flow
 
-Reference screenshots:
+Screenshots:
 
-- `../screenshots/08.6-generate-learning-card-ems.png`
-- `../screenshots/08.7-generate-learning-card-submit-ems.png`
-- `../screenshots/09-learning-card-draft-ems.png`
-- `../screenshots/09.1-insights-library-ems.png`
-- `../screenshots/09.2-conversation-sources.png`
+![Generate learning card in EMS](../screenshots/08.6-generate-learning-card-ems.png)
+![Submit learning card in EMS](../screenshots/08.7-generate-learning-card-submit-ems.png)
+![Learning card draft in EMS](../screenshots/09-learning-card-draft-ems.png)
+![Insights library in EMS](../screenshots/09.1-insights-library-ems.png)
+![Conversation sources](../screenshots/09.2-conversation-sources.png)
 
 - Generate the learning card from experiment details.
 - Review and edit the draft for factual accuracy.

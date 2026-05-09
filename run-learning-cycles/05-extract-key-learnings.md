@@ -25,10 +25,10 @@ This is where many teams accidentally break compounding. If learning drafts are 
 
 ### 1) Generate a learning card from experiment data
 
-Reference screenshots:
+Screenshots:
 
-- `../screenshots/08.6-generate-learning-card-ems.png`
-- `../screenshots/08.7-generate-learning-card-submit-ems.png`
+![Generate learning card in EMS](../screenshots/08.6-generate-learning-card-ems.png)
+![Submit learning card in EMS](../screenshots/08.7-generate-learning-card-submit-ems.png)
 
 - Open **Generate learning card** from experiment details.
 - Provide additional context where helpful; tracker data is included.
@@ -36,7 +36,9 @@ Reference screenshots:
 
 ### 2) Review learning card draft
 
-Reference screenshot: `../screenshots/09-learning-card-draft-ems.png`
+Screenshot:
+
+![Learning card draft in EMS](../screenshots/09-learning-card-draft-ems.png)
 
 - Review generated observations, insights, and recommended actions.
 - Edit for factual accuracy and clarity.
@@ -45,14 +47,18 @@ Reference screenshot: `../screenshots/09-learning-card-draft-ems.png`
 
 ### 3) Use insights library as shared team memory
 
-Reference screenshot: `../screenshots/09.1-insights-library-ems.png`
+Screenshot:
+
+![Insights library in EMS](../screenshots/09.1-insights-library-ems.png)
 
 - Review insight artifacts across experiments.
 - Use these records to align product, strategy, and operations discussions.
 
 ### 4) Compound future runs through conversation Sources
 
-Reference screenshot: `../screenshots/09.2-conversation-sources.png`
+Screenshot:
+
+![Conversation sources](../screenshots/09.2-conversation-sources.png)
 
 - In new conversations, open the Sources panel.
 - Attach relevant artifacts (documents, assumptions, hypotheses, experiments, learnings, insights).

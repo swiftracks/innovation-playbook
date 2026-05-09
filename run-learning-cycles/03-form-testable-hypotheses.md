@@ -24,7 +24,9 @@ Hypotheses are where reasoning quality becomes operational quality. A precise hy
 
 ### 1) Review proposed hypotheses
 
-Reference screenshot: `../screenshots/06-select-hypothesis.png`
+Screenshot:
+
+![Select hypothesis](../screenshots/06-select-hypothesis.png)
 
 - The Experiment Design workflow proposes multiple candidate hypotheses.
 - Compare each option for precision, testability, and relevance to the selected assumption.

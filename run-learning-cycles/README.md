@@ -26,25 +26,25 @@ If your team wants to improve learning velocity without sacrificing evidence qua
 
 This workflow is based on current UI walkthrough evidence in `screenshots/`:
 
-- `01-workspace-dashboard.png`
-- `02-project-dashboard.png`
-- `03-kickoff-conversation.png`
-- `04-clarifying-questions-conversation.png`
-- `05-select-assumptions.png`
-- `06-select-hypothesis.png`
-- `07-select-experiment.png`
-- `07.1-selected-experiment.png`
-- `08-experiment-draft-ems.png`
-- `08.1-experiment-draft-coordination-ems.png`
-- `08.2-experiment-draft-approval-ems.png`
-- `08.3-experiment-data-tracker-ems.png`
-- `08.4-experiment-data-tracker-inputs-ems.png`
-- `08.5-experiment-data-tracker-lock-ems.png`
-- `08.6-generate-learning-card-ems.png`
-- `08.7-generate-learning-card-submit-ems.png`
-- `09-learning-card-draft-ems.png`
-- `09.1-insights-library-ems.png`
-- `09.2-conversation-sources.png`
+![Workspace dashboard](../screenshots/01-workspace-dashboard.png)
+![Project dashboard](../screenshots/02-project-dashboard.png)
+![Kickoff conversation](../screenshots/03-kickoff-conversation.png)
+![Clarifying questions](../screenshots/04-clarifying-questions-conversation.png)
+![Select assumptions](../screenshots/05-select-assumptions.png)
+![Select hypothesis](../screenshots/06-select-hypothesis.png)
+![Select experiment](../screenshots/07-select-experiment.png)
+![Selected experiment](../screenshots/07.1-selected-experiment.png)
+![Experiment draft in EMS](../screenshots/08-experiment-draft-ems.png)
+![Experiment draft coordination in EMS](../screenshots/08.1-experiment-draft-coordination-ems.png)
+![Experiment draft approval in EMS](../screenshots/08.2-experiment-draft-approval-ems.png)
+![Experiment data tracker in EMS](../screenshots/08.3-experiment-data-tracker-ems.png)
+![Experiment data tracker inputs in EMS](../screenshots/08.4-experiment-data-tracker-inputs-ems.png)
+![Experiment data tracker lock in EMS](../screenshots/08.5-experiment-data-tracker-lock-ems.png)
+![Generate learning card in EMS](../screenshots/08.6-generate-learning-card-ems.png)
+![Submit learning card in EMS](../screenshots/08.7-generate-learning-card-submit-ems.png)
+![Learning card draft in EMS](../screenshots/09-learning-card-draft-ems.png)
+![Insights library in EMS](../screenshots/09.1-insights-library-ems.png)
+![Conversation sources](../screenshots/09.2-conversation-sources.png)
 
 ## Run sequence
 

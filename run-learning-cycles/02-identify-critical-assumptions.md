@@ -24,7 +24,9 @@ This stage decides where your cycle spends attention. If the wrong assumption is
 
 ### 1) Review surfaced assumptions from Assumption Discovery
 
-Reference screenshot: `../screenshots/05-select-assumptions.png`
+Screenshot:
+
+![Select assumptions](../screenshots/05-select-assumptions.png)
 
 - Wait for the agent to map assumptions from your problem context.
 - Inspect each assumption's **importance** and **evidence** profile.

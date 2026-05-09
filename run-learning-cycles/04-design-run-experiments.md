@@ -24,10 +24,10 @@ This is the highest-risk operational stage. Teams can lose weeks here through we
 
 ### 1) Compare experiment options in conversation
 
-Reference screenshots:
+Screenshots:
 
-- `../screenshots/07-select-experiment.png`
-- `../screenshots/07.1-selected-experiment.png`
+![Select experiment](../screenshots/07-select-experiment.png)
+![Selected experiment](../screenshots/07.1-selected-experiment.png)
 
 - Review proposed experiment cards and their tradeoffs.
 - Check type, test description, success criteria, and key metrics.
@@ -40,28 +40,30 @@ Reference screenshots:
 
 ### 3) Refine draft experiment details
 
-Reference screenshots:
+Screenshots:
 
-- `../screenshots/08-experiment-draft-ems.png`
-- `../screenshots/08.1-experiment-draft-coordination-ems.png`
+![Experiment draft in EMS](../screenshots/08-experiment-draft-ems.png)
+![Experiment draft coordination in EMS](../screenshots/08.1-experiment-draft-coordination-ems.png)
 
 - In draft mode, update type, description, success criteria, and key metrics as needed.
 - Assign an owner and due date for execution accountability.
 
 ### 4) Approve and lock experiment for execution
 
-Reference screenshot: `../screenshots/08.2-experiment-draft-approval-ems.png`
+Screenshot:
+
+![Experiment draft approval in EMS](../screenshots/08.2-experiment-draft-approval-ems.png)
 
 - Confirm team alignment.
 - Approve the experiment so execution is constrained to an agreed test plan.
 
 ### 5) Set up and populate the data tracker
 
-Reference screenshots:
+Screenshots:
 
-- `../screenshots/08.3-experiment-data-tracker-ems.png`
-- `../screenshots/08.4-experiment-data-tracker-inputs-ems.png`
-- `../screenshots/08.5-experiment-data-tracker-lock-ems.png`
+![Experiment data tracker in EMS](../screenshots/08.3-experiment-data-tracker-ems.png)
+![Experiment data tracker inputs in EMS](../screenshots/08.4-experiment-data-tracker-inputs-ems.png)
+![Experiment data tracker lock in EMS](../screenshots/08.5-experiment-data-tracker-lock-ems.png)
 
 - Open **Data Tracker** from experiment details.
 - Build columns manually or use Data Tracking Agent assistance.
